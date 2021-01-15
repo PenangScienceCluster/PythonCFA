@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2021-01-14T23:34:57.594897546</meta:creation-date><meta:generator>LibreOffice/7.0.3.1$Linux_X86_64 LibreOffice_project/00$Build-1</meta:generator><dc:date>2021-01-15T12:08:53.958924137</dc:date><meta:editing-duration>PT1H16M30S</meta:editing-duration><meta:editing-cycles>11</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="6" meta:paragraph-count="95" meta:word-count="1986" meta:character-count="11920" meta:non-whitespace-character-count="10023"/></office:meta>
+ <office:meta><meta:creation-date>2021-01-14T23:34:57.594897546</meta:creation-date><meta:generator>LibreOffice/7.0.3.1$Linux_X86_64 LibreOffice_project/00$Build-1</meta:generator><dc:date>2021-01-15T15:06:49.087968779</dc:date><meta:editing-duration>PT1H17M3S</meta:editing-duration><meta:editing-cycles>12</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="6" meta:paragraph-count="95" meta:word-count="1986" meta:character-count="11920" meta:non-whitespace-character-count="10023"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">27693</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">20683</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">19163</config:config-item>
@@ -13,12 +13,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">9327</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">2925</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">3154</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">41977</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">27693</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">20682</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">19161</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">46854</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -85,7 +85,7 @@
    <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
    <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">1221055</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1272203</config:config-item>
    <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
    <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
@@ -149,7 +149,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="GB" style:letter-kerning="true" style:font-name-asian="Noto Sans SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
@@ -477,28 +477,25 @@
   <style:style style:name="P65" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
    <style:text-properties officeooo:rsid="0009145e" officeooo:paragraph-rsid="0009145e"/>
   </style:style>
-  <style:style style:name="P66" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="000e1dc5" officeooo:paragraph-rsid="000e1dc5"/>
-  </style:style>
-  <style:style style:name="P67" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
+  <style:style style:name="P66" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
    <style:text-properties officeooo:paragraph-rsid="0009145e"/>
   </style:style>
-  <style:style style:name="P68" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
+  <style:style style:name="P67" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
    <style:text-properties officeooo:rsid="0007a730" officeooo:paragraph-rsid="0009145e"/>
   </style:style>
-  <style:style style:name="P69" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
+  <style:style style:name="P68" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
    <style:text-properties officeooo:rsid="00099e9f" officeooo:paragraph-rsid="00099e9f"/>
   </style:style>
-  <style:style style:name="P70" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
+  <style:style style:name="P69" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
    <style:text-properties officeooo:rsid="00094770" officeooo:paragraph-rsid="00094770"/>
   </style:style>
-  <style:style style:name="P71" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
+  <style:style style:name="P70" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
    <style:text-properties officeooo:rsid="000f8a35" officeooo:paragraph-rsid="000f8a35"/>
   </style:style>
-  <style:style style:name="P72" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
+  <style:style style:name="P71" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
    <style:text-properties officeooo:rsid="001118fc" officeooo:paragraph-rsid="001118fc"/>
   </style:style>
-  <style:style style:name="P73" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L6">
+  <style:style style:name="P72" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L6">
    <style:text-properties officeooo:rsid="000af454" officeooo:paragraph-rsid="000af454"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
@@ -919,7 +916,7 @@
    <text:p text:style-name="Subtitle">A Project-based learning approach</text:p>
    <text:p text:style-name="Text_20_body"><text:span text:style-name="T25">After all, tomorrow can only grow out of today—and if one seeks success tomorrow, the factors of success need to be prepared today</text:span>. --<text:span text:style-name="T24">Errico Malatesta, 1892.</text:span></text:p>
    <text:p text:style-name="P2">Hello and welcome to our introductory Python class. Here’s how we suggest you use this document:</text:p>
-   <text:list xml:id="list3060461329" text:style-name="L1">
+   <text:list xml:id="list2346376308" text:style-name="L1">
     <text:list-item>
      <text:p text:style-name="P62">This document serves as a guide covering most of the material in class. Use it for your reference if you are stuck anywhere during your tasks.</text:p>
     </text:list-item>
@@ -949,12 +946,12 @@
    <text:p text:style-name="P20">We will know you are ready to do Python programming once you can run this hello_world.py code</text:p>
    <text:h text:style-name="P38" text:outline-level="2"><draw:frame draw:style-name="fr1" draw:name="Frame1" text:anchor-type="paragraph" svg:width="6.6929in" style:rel-width="100%" draw:z-index="0">
      <draw:text-box fo:min-height="0.2in">
-      <text:p text:style-name="Code">Code <text:sequence text:ref-name="refCode0" text:name="Code" text:formula="ooow:Code+1" style:num-format="1">1</text:sequence>: Your first Python script!</text:p>
-      <text:p text:style-name="P20">def hello():</text:p>
-      <text:p text:style-name="P20"><text:s text:c="4"/>&quot;&quot;&quot;Print &quot;Hello World&quot; and return None.&quot;&quot;&quot;</text:p>
-      <text:p text:style-name="P20"><text:s text:c="4"/>print(&quot;Hello World&quot;)</text:p>
-      <text:p text:style-name="P20"><text:s text:c="4"/></text:p>
-      <text:p text:style-name="P20">hello()</text:p>
+      <text:p text:style-name="Caption">Code <text:sequence text:ref-name="refCode0" text:name="Code" text:formula="ooow:Code+1" style:num-format="1">1</text:sequence>: Your first Python script!</text:p>
+      <text:p text:style-name="Code">def hello():</text:p>
+      <text:p text:style-name="Code"><text:s text:c="4"/>&quot;&quot;&quot;Print &quot;Hello World&quot; and return None.&quot;&quot;&quot;</text:p>
+      <text:p text:style-name="Code"><text:s text:c="4"/>print(&quot;Hello World&quot;)</text:p>
+      <text:p text:style-name="Code"><text:s text:c="4"/></text:p>
+      <text:p text:style-name="Code">hello()</text:p>
      </draw:text-box>
     </draw:frame>Installing Anaconda</text:h>
    <text:p text:style-name="P10">You should always consult the <text:a xlink:type="simple" xlink:href="https://docs.anaconda.com/anaconda/install/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">official installation guide</text:a> rather than relying on guides like ours for the most up to date installation methods for your operating system. We will however, endeavour to provide the most basic summary to get you up and running as soon as possible.</text:p>
@@ -973,7 +970,7 @@
    <text:p text:style-name="P13">First, download and run the Windows installer. <text:span text:style-name="T14">Make sure that you are getting the 64-bit edition of Anaconda Individual Edition. </text:span><text:span text:style-name="T22">You may choose to accept all the default settings for the installation.</text:span></text:p>
    <text:h text:style-name="P39" text:outline-level="2">Creating your first Anaconda environment</text:h>
    <text:p text:style-name="P17"><text:span text:style-name="T14">Let’s </text:span><text:span text:style-name="T15">prepare to </text:span><text:span text:style-name="T14">write our first Python program using the Anaconda paradigm </text:span><text:span text:style-name="T15">of development, by setting up an environment first for your project.</text:span></text:p>
-   <text:list xml:id="list2531772031" text:style-name="L2">
+   <text:list xml:id="list2258898683" text:style-name="L2">
     <text:list-item>
      <text:p text:style-name="P64">Launch Anaconda Navigator</text:p>
     </text:list-item>
@@ -1005,76 +1002,76 @@
    <text:p text:style-name="P25">Spyder and Jupyter are IDEs that are designed specifically for statistical programming. You should install them if your project is heavily-oriented towards using Python for data analysis. Because Anaconda itself originated as a tool to make data analysis as painless as possible, you can easily install these two IDEs from Anaconda.</text:p>
    <text:p text:style-name="P26"><text:span text:style-name="T23">Installing Spyder </text:span><text:span text:style-name="T26">and Jupyter</text:span><text:span text:style-name="T23"> is as easy as opening the Home tab in Anaconda Navigator, finding </text:span><text:span text:style-name="T26">them</text:span><text:span text:style-name="T23">, and clicking the Install button. </text:span><text:span text:style-name="T26">In fact, they may even be installed by default!</text:span></text:p>
    <text:h text:style-name="P40" text:outline-level="2">hello_world with Visual Studio <text:span text:style-name="T22">C</text:span>ode</text:h>
-   <text:list xml:id="list1806626415" text:style-name="L3">
+   <text:list xml:id="list3583130267" text:style-name="L3">
     <text:list-item>
-     <text:p text:style-name="P68">Click on VS Code in the Home tab <text:span text:style-name="T26">of Anaconda Navigator</text:span>.</text:p>
+     <text:p text:style-name="P67">Click on VS Code in the Home tab <text:span text:style-name="T26">of Anaconda Navigator</text:span>.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P67"><text:bookmark-start text:name="__RefNumPara__521_18542277"/><text:span text:style-name="T16">Once VS Code launches, it will offer to download and install Python-based extensions as it detects the hooks from Anaconda. </text:span><text:span text:style-name="T26">If it does not, saving your file as </text:span><text:span text:style-name="Code"><text:span text:style-name="T26">hello_world.py</text:span></text:span><text:span text:style-name="T26"> will also trigger the recommendation for Python extensions.</text:span><text:bookmark-end text:name="__RefNumPara__521_18542277"/></text:p>
+     <text:p text:style-name="P66"><text:bookmark-start text:name="__RefNumPara__521_18542277"/><text:span text:style-name="T16">Once VS Code launches, it will offer to download and install Python-based extensions as it detects the hooks from Anaconda. </text:span><text:span text:style-name="T26">If it does not, saving your file as </text:span><text:span text:style-name="Code"><text:span text:style-name="T26">hello_world.py</text:span></text:span><text:span text:style-name="T26"> will also trigger the recommendation for Python extensions.</text:span><text:bookmark-end text:name="__RefNumPara__521_18542277"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P69"><text:soft-page-break/>In VS Code, take a look at the bottom left-hand corner of the IDE. You will see that it is pointed towards the base Python environment from Anaconda. Click on it and select the hello_world environment instead.</text:p>
+     <text:p text:style-name="P68"><text:soft-page-break/>In VS Code, take a look at the bottom left-hand corner of the IDE. You will see that it is pointed towards the base Python environment from Anaconda. Click on it and select the hello_world environment instead.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P70">Click on File &gt; New File, and type in the script in <text:sequence-ref text:reference-format="category-and-value" text:ref-name="refCode0">Code 1</text:sequence-ref>.</text:p>
+     <text:p text:style-name="P69">Click on File &gt; New File, and type in the script in <text:sequence-ref text:reference-format="category-and-value" text:ref-name="refCode0">Code 1</text:sequence-ref>.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P70">Click on File &gt; Save As, and save your file <text:span text:style-name="Code">hello_world.py</text:span>.</text:p>
+     <text:p text:style-name="P69">Click on File &gt; Save As, and save your file <text:span text:style-name="Code">hello_world.py</text:span>.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P70">If you have installed the Python extensions as recommended in step <text:bookmark-ref text:reference-format="number" text:ref-name="__RefNumPara__521_18542277">2</text:bookmark-ref><text:s/>above, you should see an arrow pointed towards the right in your scripting tab. <text:span text:style-name="T19">Click on it and you will see a bunch of output in the terminal and most importantly:</text:span></text:p>
+     <text:p text:style-name="P69">If you have installed the Python extensions as recommended in step <text:bookmark-ref text:reference-format="number" text:ref-name="__RefNumPara__521_18542277">2</text:bookmark-ref><text:s/>above, you should see an arrow pointed towards the right in your scripting tab. <text:span text:style-name="T19">Click on it and you will see a bunch of output in the terminal and most importantly:</text:span></text:p>
      <text:p text:style-name="P60">Hello World</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P21">Congratulations! You have successfully run your first Python program in VS Code.</text:p>
    <text:h text:style-name="P42" text:outline-level="2">hello_world with Spyder</text:h>
-   <text:list xml:id="list1579707019" text:style-name="L4">
+   <text:list xml:id="list2658141269" text:style-name="L4">
     <text:list-item>
-     <text:p text:style-name="P71">Click on Spyder in the Home tab of Anaconda Navigator.</text:p>
+     <text:p text:style-name="P70">Click on Spyder in the Home tab of Anaconda Navigator.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P71">In the scripting pane, write down the hello_world code from <text:sequence-ref text:reference-format="category-and-value" text:ref-name="refCode0">Code 1</text:sequence-ref>.</text:p>
+     <text:p text:style-name="P70">In the scripting pane, write down the hello_world code from <text:sequence-ref text:reference-format="category-and-value" text:ref-name="refCode0">Code 1</text:sequence-ref>.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P71">Press F5 or click on the green arrow on the menubar that says “Run file” in the hover text.</text:p>
+     <text:p text:style-name="P70">Press F5 or click on the green arrow on the menubar that says “Run file” in the hover text.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P71">You should see a bunch of output from the console and the output:</text:p>
+     <text:p text:style-name="P70">You should see a bunch of output from the console and the output:</text:p>
      <text:p text:style-name="P61">Hello World</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P29">Congratulations! You have executed your first Python script in Spyder!</text:p>
    <text:h text:style-name="Heading_20_2" text:outline-level="2">hello_world with Jupyter Notebook</text:h>
-   <text:list xml:id="list4052666669" text:style-name="L5">
+   <text:list xml:id="list2983860152" text:style-name="L5">
     <text:list-item>
-     <text:p text:style-name="P72">Click on Jupyter Notebook in the Home tab of Anaconda Navigator. Jupyter will open in a browser tab.</text:p>
+     <text:p text:style-name="P71">Click on Jupyter Notebook in the Home tab of Anaconda Navigator. Jupyter will open in a browser tab.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P72">Select New &gt; Notebook &gt; Python 3</text:p>
+     <text:p text:style-name="P71">Select New &gt; Notebook &gt; Python 3</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P72">In the input cell, enter the hello_world script from <text:sequence-ref text:reference-format="category-and-value" text:ref-name="refCode0">Code 1</text:sequence-ref>.</text:p>
+     <text:p text:style-name="P71">In the input cell, enter the hello_world script from <text:sequence-ref text:reference-format="category-and-value" text:ref-name="refCode0">Code 1</text:sequence-ref>.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P72">Click on the Run button. You should see the output with your coding cell showing:</text:p>
+     <text:p text:style-name="P71">Click on the Run button. You should see the output with your coding cell showing:</text:p>
      <text:p text:style-name="P48">Hello <text:span text:style-name="Code">World</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P30">Congratulations! You have executed your first Python script in Jupyter!</text:p>
    <text:h text:style-name="P45" text:outline-level="3"><text:span text:style-name="T8">Updating Anaconda </text:span><text:span text:style-name="T10">for</text:span><text:span text:style-name="T8"> a specific environment</text:span></text:h>
    <text:p text:style-name="P9"><text:span text:style-name="T8">The </text:span><text:span text:style-name="T20">convenience</text:span><text:span text:style-name="T8"> of using Anaconda is you can choose to keep separate environments running with their own distinct set of Python packages with specific dependencies intact. </text:span><text:span text:style-name="T20">Let’s test it out by updating packages in the </text:span><text:span text:style-name="Code"><text:span text:style-name="T20">hello_world</text:span></text:span><text:span text:style-name="T20"> environment and compare the version with that in the </text:span><text:span text:style-name="Code"><text:span text:style-name="T20">base</text:span></text:span><text:span text:style-name="T20"> environment.</text:span></text:p>
-   <text:list xml:id="list1958180807" text:style-name="L6">
+   <text:list xml:id="list1720283278" text:style-name="L6">
     <text:list-item>
-     <text:p text:style-name="P73">In the Environment tab, select hello_world</text:p>
+     <text:p text:style-name="P72">In the Environment tab, select hello_world</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P73">To filter out only updatable packages, select Updatable from the pull down menu from the default Installed filter setting. Take note of the version number of the program to be updated.</text:p>
+     <text:p text:style-name="P72">To filter out only updatable packages, select Updatable from the pull down menu from the default Installed filter setting. Take note of the version number of the program to be updated.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P73"><text:soft-page-break/>Click on the green Apply button and in the verification page, click on Apply again.</text:p>
+     <text:p text:style-name="P72"><text:soft-page-break/>Click on the green Apply button and in the verification page, click on Apply again.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P73">Once the installation is complete, take a look at the version of the updated package. Change back to the base environment. You should see that the package in the base environment remains the same.</text:p>
+     <text:p text:style-name="P72">Once the installation is complete, take a look at the version of the updated package. Change back to the base environment. You should see that the package in the base environment remains the same.</text:p>
     </text:list-item>
    </text:list>
   </office:text>
