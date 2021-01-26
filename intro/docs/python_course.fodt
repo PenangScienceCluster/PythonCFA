@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2021-01-14T23:34:57.594897546</meta:creation-date><meta:generator>LibreOffice/7.0.3.1$Linux_X86_64 LibreOffice_project/00$Build-1</meta:generator><dc:date>2021-01-15T15:06:49.087968779</dc:date><meta:editing-duration>PT1H17M3S</meta:editing-duration><meta:editing-cycles>12</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="6" meta:paragraph-count="95" meta:word-count="1986" meta:character-count="11920" meta:non-whitespace-character-count="10023"/></office:meta>
+ <office:meta><meta:creation-date>2021-01-14T23:34:57.594897546</meta:creation-date><meta:generator>LibreOffice/7.0.3.1$Linux_X86_64 LibreOffice_project/00$Build-1</meta:generator><dc:date>2021-01-26T16:30:01.708692624</dc:date><meta:editing-duration>PT3H36M22S</meta:editing-duration><meta:editing-cycles>27</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="12" meta:paragraph-count="201" meta:word-count="3493" meta:character-count="20672" meta:non-whitespace-character-count="17164"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">27693</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">333638</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">20683</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">19163</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">22564</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">20472</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">3154</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">41977</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">15529</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">345653</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">27693</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">20682</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">46854</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">333638</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">22562</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">354108</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="ZoomFactor" config:type="short">120</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">110</config:config-item>
      <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
      <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
     </config:config-item-map-entry>
@@ -85,7 +85,7 @@
    <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
    <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">1272203</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">2398155</config:config-item>
    <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
    <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
@@ -149,7 +149,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="GB" style:letter-kerning="true" style:font-name-asian="Noto Sans SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
@@ -216,6 +216,55 @@
    <style:text-properties fo:font-size="101%" fo:font-weight="bold" style:font-size-asian="101%" style:font-weight-asian="bold" style:font-size-complex="101%" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="Frame_20_contents" style:display-name="Frame contents" style:family="paragraph" style:parent-style-name="Standard" style:class="extra"/>
+  <style:style style:name="Index_20_Heading" style:display-name="Index Heading" style:family="paragraph" style:parent-style-name="Heading" style:class="index">
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="16pt" fo:font-weight="bold" style:font-size-asian="16pt" style:font-weight-asian="bold" style:font-size-complex="16pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Contents_20_Heading" style:display-name="Contents Heading" style:family="paragraph" style:parent-style-name="Index_20_Heading" style:class="index">
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="16pt" fo:font-weight="bold" style:font-size-asian="16pt" style:font-weight-asian="bold" style:font-size-complex="16pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Contents_20_1" style:display-name="Contents 1" style:family="paragraph" style:parent-style-name="Index" style:class="index">
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="6.6929in" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Contents_20_2" style:display-name="Contents 2" style:family="paragraph" style:parent-style-name="Index" style:class="index">
+   <style:paragraph-properties fo:margin-left="0.1965in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="6.4965in" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Contents_20_3" style:display-name="Contents 3" style:family="paragraph" style:parent-style-name="Index" style:class="index">
+   <style:paragraph-properties fo:margin-left="0.3929in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="6.3in" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Header_20_and_20_Footer" style:display-name="Header and Footer" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0">
+    <style:tab-stops>
+     <style:tab-stop style:position="3.3465in" style:type="center"/>
+     <style:tab-stop style:position="6.6929in" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Footer" style:family="paragraph" style:parent-style-name="Header_20_and_20_Footer" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0">
+    <style:tab-stops>
+     <style:tab-stop style:position="3.3465in" style:type="center"/>
+     <style:tab-stop style:position="6.6929in" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Footnote" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.2354in" fo:margin-right="0in" fo:text-indent="-0.2354in" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
   <style:style style:name="Numbering_20_Symbols" style:display-name="Numbering Symbols" style:family="text"/>
   <style:style style:name="Internet_20_link" style:display-name="Internet link" style:family="text">
    <style:text-properties fo:color="#000080" loext:opacity="100%" fo:language="zxx" fo:country="none" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
@@ -223,6 +272,11 @@
   <style:style style:name="Code" style:family="text">
    <style:text-properties style:font-name="Liberation Mono1" fo:font-family="&apos;Liberation Mono&apos;" style:font-style-name="Regular" style:font-family-generic="modern" style:font-pitch="fixed"/>
   </style:style>
+  <style:style style:name="Index_20_Link" style:display-name="Index Link" style:family="text"/>
+  <style:style style:name="Footnote_20_anchor" style:display-name="Footnote anchor" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Footnote_20_Symbol" style:display-name="Footnote Symbol" style:family="text"/>
   <style:style style:name="Frame" style:family="graphic">
    <style:graphic-properties text:anchor-type="paragraph" svg:x="0in" svg:y="0in" fo:margin-left="0.0791in" fo:margin-right="0.0791in" fo:margin-top="0.0791in" fo:margin-bottom="0.0791in" style:wrap="parallel" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph-content" style:horizontal-pos="center" style:horizontal-rel="paragraph-content" fo:padding="0.0591in" fo:border="0.06pt solid #000000"/>
   </style:style>
@@ -278,225 +332,359 @@
     </style:list-level-properties>
    </text:outline-level-style>
   </text:outline-style>
-  <text:notes-configuration text:note-class="footnote" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="footnote" text:citation-style-name="Footnote_20_Symbol" text:citation-body-style-name="Footnote_20_anchor" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
   <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
   <text:linenumbering-configuration text:number-lines="false" text:offset="0.1965in" style:num-format="1" text:number-position="left" text:increment="5"/>
  </office:styles>
  <office:automatic-styles>
-  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Heading_20_1" style:master-page-name="">
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Footer">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Footer">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Heading_20_1" style:master-page-name="">
    <style:paragraph-properties style:page-number="auto"/>
    <style:text-properties officeooo:rsid="0013293d" officeooo:paragraph-rsid="0000a56c"/>
   </style:style>
-  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="0000a56c" officeooo:paragraph-rsid="0000a56c"/>
-  </style:style>
-  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="0000a56c"/>
-  </style:style>
-  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="0013293d" officeooo:paragraph-rsid="0000a56c"/>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Title" style:master-page-name="">
+   <style:paragraph-properties style:page-number="auto"/>
   </style:style>
   <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties style:font-name="Liberation Mono" officeooo:rsid="0013ce5e" officeooo:paragraph-rsid="0000a56c"/>
+   <style:text-properties officeooo:rsid="0000a56c" officeooo:paragraph-rsid="0000a56c"/>
   </style:style>
   <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="0013ce5e" officeooo:paragraph-rsid="0000a56c"/>
+   <style:text-properties officeooo:paragraph-rsid="0000a56c"/>
   </style:style>
   <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="0001b8bd" officeooo:paragraph-rsid="0001b8bd"/>
+   <style:text-properties officeooo:rsid="0013293d" officeooo:paragraph-rsid="0000a56c"/>
   </style:style>
   <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="0001e076" officeooo:paragraph-rsid="0001e076"/>
+   <style:text-properties style:font-name="Liberation Mono" officeooo:rsid="0013ce5e" officeooo:paragraph-rsid="0000a56c"/>
   </style:style>
   <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="0001e076"/>
+   <style:text-properties officeooo:rsid="0013ce5e" officeooo:paragraph-rsid="0000a56c"/>
   </style:style>
   <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="0002aab3" officeooo:paragraph-rsid="0002aab3"/>
+   <style:text-properties officeooo:rsid="0001b8bd" officeooo:paragraph-rsid="0001b8bd"/>
   </style:style>
   <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="0002aab3"/>
+   <style:text-properties officeooo:rsid="0001e076" officeooo:paragraph-rsid="0001e076"/>
   </style:style>
   <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="000450f6" officeooo:paragraph-rsid="000450f6"/>
+   <style:text-properties officeooo:paragraph-rsid="0001e076"/>
   </style:style>
   <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="00052f75" officeooo:paragraph-rsid="00052f75"/>
+   <style:text-properties officeooo:rsid="0002aab3" officeooo:paragraph-rsid="0002aab3"/>
   </style:style>
   <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="00052f75"/>
+   <style:text-properties officeooo:paragraph-rsid="0002aab3"/>
   </style:style>
   <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="000450f6"/>
+   <style:text-properties officeooo:rsid="000450f6" officeooo:paragraph-rsid="000450f6"/>
   </style:style>
   <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="0005c1d8" officeooo:paragraph-rsid="0005c1d8"/>
+   <style:text-properties officeooo:rsid="00052f75" officeooo:paragraph-rsid="00052f75"/>
   </style:style>
   <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="0005c1d8"/>
+   <style:text-properties officeooo:paragraph-rsid="00052f75"/>
   </style:style>
   <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="0009145e"/>
+   <style:text-properties officeooo:paragraph-rsid="000450f6"/>
   </style:style>
   <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="0007a730" officeooo:paragraph-rsid="0009145e"/>
+   <style:text-properties officeooo:rsid="0005c1d8" officeooo:paragraph-rsid="0005c1d8"/>
   </style:style>
   <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="00094770" officeooo:paragraph-rsid="00094770"/>
+   <style:text-properties officeooo:paragraph-rsid="0005c1d8"/>
   </style:style>
   <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="00099e9f" officeooo:paragraph-rsid="00099e9f"/>
+   <style:text-properties officeooo:paragraph-rsid="0009145e"/>
   </style:style>
   <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="000af454" officeooo:paragraph-rsid="000af454"/>
+   <style:text-properties officeooo:rsid="0007a730" officeooo:paragraph-rsid="0009145e"/>
   </style:style>
   <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="0009145e" officeooo:paragraph-rsid="0009145e"/>
+   <style:text-properties officeooo:rsid="00094770" officeooo:paragraph-rsid="00094770"/>
   </style:style>
   <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="000bd49f" officeooo:paragraph-rsid="000bd49f"/>
+   <style:text-properties officeooo:rsid="00099e9f" officeooo:paragraph-rsid="00099e9f"/>
   </style:style>
   <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="000d63ce" officeooo:paragraph-rsid="000d63ce"/>
+   <style:text-properties officeooo:rsid="000af454" officeooo:paragraph-rsid="000af454"/>
   </style:style>
   <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="000d63ce"/>
+   <style:text-properties officeooo:rsid="0009145e" officeooo:paragraph-rsid="0009145e"/>
   </style:style>
   <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="000e1dc5" officeooo:paragraph-rsid="000e1dc5"/>
+   <style:text-properties officeooo:rsid="000bd49f" officeooo:paragraph-rsid="000bd49f"/>
   </style:style>
   <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="000e1dc5"/>
+   <style:text-properties officeooo:rsid="000d63ce" officeooo:paragraph-rsid="000d63ce"/>
   </style:style>
   <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="000f8a35" officeooo:paragraph-rsid="000f8a35"/>
+   <style:text-properties officeooo:paragraph-rsid="000d63ce"/>
   </style:style>
   <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="001118fc" officeooo:paragraph-rsid="001118fc"/>
+   <style:text-properties officeooo:rsid="000e1dc5" officeooo:paragraph-rsid="000e1dc5"/>
   </style:style>
   <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="000e1dc5"/>
+  </style:style>
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="000f8a35" officeooo:paragraph-rsid="000f8a35"/>
+  </style:style>
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="001118fc" officeooo:paragraph-rsid="001118fc"/>
+  </style:style>
+  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="0013ccbe" officeooo:paragraph-rsid="0013ccbe"/>
+  </style:style>
+  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="00142e3c" officeooo:paragraph-rsid="00142e3c"/>
+  </style:style>
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="0015a720" officeooo:paragraph-rsid="0015a720"/>
+  </style:style>
+  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="0015a720" officeooo:paragraph-rsid="0018f0f3"/>
+  </style:style>
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="0015a720"/>
+  </style:style>
+  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="0018f0f3" officeooo:paragraph-rsid="0018f0f3"/>
+  </style:style>
+  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="001be0da" officeooo:paragraph-rsid="001be0da"/>
+  </style:style>
+  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="001d66f7" officeooo:paragraph-rsid="001d66f7"/>
+  </style:style>
+  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Text_20_body">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0.0972in" style:contextual-spacing="false" fo:line-height="120%" fo:text-indent="0in" style:auto-text-indent="false" fo:background-color="transparent"/>
    <style:text-properties fo:color="#666666" loext:opacity="100%" style:font-name="Liberation Mono" officeooo:rsid="0013ce5e" officeooo:paragraph-rsid="0000a56c"/>
   </style:style>
-  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Output">
+  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Output">
    <style:text-properties officeooo:rsid="0001e076" officeooo:paragraph-rsid="0001e076"/>
   </style:style>
-  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Output">
+  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Output">
    <style:text-properties officeooo:rsid="000f8a35" officeooo:paragraph-rsid="000f8a35"/>
   </style:style>
-  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Code">
+  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Code">
    <style:text-properties officeooo:paragraph-rsid="0009145e"/>
   </style:style>
-  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Code">
+  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Code">
    <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="monospace" officeooo:paragraph-rsid="0009145e" fo:background-color="#ffffff"/>
   </style:style>
-  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Code">
+  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Code">
+   <style:text-properties officeooo:rsid="00142e3c" officeooo:paragraph-rsid="00142e3c"/>
+  </style:style>
+  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Code">
+   <style:text-properties officeooo:paragraph-rsid="00142e3c"/>
+  </style:style>
+  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Code">
    <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false"/>
    <style:text-properties officeooo:paragraph-rsid="0009145e"/>
   </style:style>
-  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:text-properties officeooo:rsid="0001b8bd" officeooo:paragraph-rsid="0001b8bd"/>
   </style:style>
-  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="0001b8bd" officeooo:paragraph-rsid="0001b8bd"/>
-  </style:style>
-  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="0005c1d8" officeooo:paragraph-rsid="0005c1d8"/>
-  </style:style>
-  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="0007a730" officeooo:paragraph-rsid="0007a730"/>
-  </style:style>
-  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="000bd49f" officeooo:paragraph-rsid="000bd49f"/>
-  </style:style>
-  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="000f8a35" officeooo:paragraph-rsid="000f8a35"/>
-  </style:style>
-  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="0002aab3" officeooo:paragraph-rsid="0002aab3"/>
-  </style:style>
-  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="00052f75" officeooo:paragraph-rsid="00052f75"/>
-  </style:style>
-  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:paragraph-rsid="0001e076"/>
-  </style:style>
-  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="000bd49f" officeooo:paragraph-rsid="000bd49f"/>
-  </style:style>
-  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Code" style:list-style-name="L2">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="monospace" officeooo:paragraph-rsid="0009145e" fo:background-color="#ffffff"/>
-  </style:style>
-  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Code" style:list-style-name="L5"/>
-  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="0001b8bd" officeooo:paragraph-rsid="0001b8bd"/>
-  </style:style>
-  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Heading_20_1" style:master-page-name="">
-   <style:paragraph-properties style:page-number="auto"/>
+  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:text-properties officeooo:rsid="0013293d" officeooo:paragraph-rsid="0000a56c"/>
   </style:style>
-  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:rsid="0001b8bd" officeooo:paragraph-rsid="0001b8bd"/>
   </style:style>
-  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="0005c1d8" officeooo:paragraph-rsid="0005c1d8"/>
-  </style:style>
   <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="000bd49f" officeooo:paragraph-rsid="000bd49f"/>
+   <style:text-properties officeooo:rsid="0005c1d8" officeooo:paragraph-rsid="0005c1d8"/>
   </style:style>
   <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:rsid="0007a730" officeooo:paragraph-rsid="0007a730"/>
   </style:style>
   <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="000f8a35" officeooo:paragraph-rsid="000f8a35"/>
-  </style:style>
-  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="0002aab3" officeooo:paragraph-rsid="0002aab3"/>
-  </style:style>
-  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="00052f75" officeooo:paragraph-rsid="00052f75"/>
-  </style:style>
-  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties officeooo:rsid="000bd49f" officeooo:paragraph-rsid="000bd49f"/>
   </style:style>
+  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="000f8a35" officeooo:paragraph-rsid="000f8a35"/>
+  </style:style>
+  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="0018f0f3" officeooo:paragraph-rsid="0018f0f3"/>
+  </style:style>
+  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="0002aab3" officeooo:paragraph-rsid="0002aab3"/>
+  </style:style>
   <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="00052f75" officeooo:paragraph-rsid="00052f75"/>
+  </style:style>
+  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties officeooo:paragraph-rsid="0001e076"/>
   </style:style>
-  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Output" style:list-style-name="L3"/>
-  <style:style style:name="P61" style:family="paragraph" style:parent-style-name="Output" style:list-style-name="L4">
-   <style:text-properties officeooo:rsid="000f8a35" officeooo:paragraph-rsid="000f8a35"/>
+  <style:style style:name="P61" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="000bd49f" officeooo:paragraph-rsid="000bd49f"/>
   </style:style>
-  <style:style style:name="P62" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
-   <style:text-properties officeooo:rsid="0000a56c" officeooo:paragraph-rsid="0000a56c"/>
+  <style:style style:name="P62" style:family="paragraph" style:parent-style-name="Contents_20_1">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="6.6929in" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P63" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2"/>
-  <style:style style:name="P64" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+  <style:style style:name="P63" style:family="paragraph" style:parent-style-name="Contents_20_2">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="6.4965in" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P64" style:family="paragraph" style:parent-style-name="Contents_20_3">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="6.3in" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P65" style:family="paragraph" style:parent-style-name="Contents_20_Heading">
+   <style:paragraph-properties fo:break-before="page"/>
+  </style:style>
+  <style:style style:name="P66" style:family="paragraph" style:parent-style-name="Footnote">
+   <style:text-properties officeooo:rsid="001a6965" officeooo:paragraph-rsid="001a6965"/>
+  </style:style>
+  <style:style style:name="P67" style:family="paragraph" style:parent-style-name="Footnote">
+   <style:text-properties fo:font-size="10pt" officeooo:rsid="001be0da" officeooo:paragraph-rsid="001be0da" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P68" style:family="paragraph" style:parent-style-name="Title" style:master-page-name="First_20_Page">
+   <style:paragraph-properties style:page-number="auto"/>
+  </style:style>
+  <style:style style:name="P69" style:family="paragraph" style:parent-style-name="Code" style:list-style-name="L2">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="monospace" officeooo:paragraph-rsid="0009145e" fo:background-color="#ffffff"/>
+  </style:style>
+  <style:style style:name="P70" style:family="paragraph" style:parent-style-name="Code" style:list-style-name="L5"/>
+  <style:style style:name="P71" style:family="paragraph" style:parent-style-name="Code">
+   <style:text-properties officeooo:rsid="001d66f7" officeooo:paragraph-rsid="0021b743"/>
+  </style:style>
+  <style:style style:name="P72" style:family="paragraph" style:parent-style-name="Code">
+   <style:text-properties officeooo:paragraph-rsid="0021b743"/>
+  </style:style>
+  <style:style style:name="P73" style:family="paragraph" style:parent-style-name="Heading_20_1" style:list-style-name="">
+   <style:text-properties officeooo:rsid="0013293d" officeooo:paragraph-rsid="0000a56c"/>
+  </style:style>
+  <style:style style:name="P74" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="0001b8bd" officeooo:paragraph-rsid="0001b8bd"/>
+  </style:style>
+  <style:style style:name="P75" style:family="paragraph" style:parent-style-name="Heading_20_1" style:list-style-name="" style:master-page-name="">
+   <style:paragraph-properties style:page-number="auto"/>
+   <style:text-properties officeooo:rsid="0013293d" officeooo:paragraph-rsid="0000a56c"/>
+  </style:style>
+  <style:style style:name="P76" style:family="paragraph" style:parent-style-name="Heading_20_1" style:master-page-name="First_20_Page">
+   <style:paragraph-properties style:page-number="auto"/>
+   <style:text-properties officeooo:rsid="0013293d" officeooo:paragraph-rsid="0000a56c"/>
+  </style:style>
+  <style:style style:name="P77" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="0001b8bd" officeooo:paragraph-rsid="0001b8bd"/>
+  </style:style>
+  <style:style style:name="P78" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:rsid="0005c1d8" officeooo:paragraph-rsid="0005c1d8"/>
   </style:style>
-  <style:style style:name="P65" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
-   <style:text-properties officeooo:rsid="0009145e" officeooo:paragraph-rsid="0009145e"/>
+  <style:style style:name="P79" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="000bd49f" officeooo:paragraph-rsid="000bd49f"/>
   </style:style>
-  <style:style style:name="P66" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
-   <style:text-properties officeooo:paragraph-rsid="0009145e"/>
+  <style:style style:name="P80" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="0007a730" officeooo:paragraph-rsid="0007a730"/>
   </style:style>
-  <style:style style:name="P67" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
-   <style:text-properties officeooo:rsid="0007a730" officeooo:paragraph-rsid="0009145e"/>
-  </style:style>
-  <style:style style:name="P68" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
-   <style:text-properties officeooo:rsid="00099e9f" officeooo:paragraph-rsid="00099e9f"/>
-  </style:style>
-  <style:style style:name="P69" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
-   <style:text-properties officeooo:rsid="00094770" officeooo:paragraph-rsid="00094770"/>
-  </style:style>
-  <style:style style:name="P70" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
+  <style:style style:name="P81" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:rsid="000f8a35" officeooo:paragraph-rsid="000f8a35"/>
   </style:style>
-  <style:style style:name="P71" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
+  <style:style style:name="P82" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="0018f0f3" officeooo:paragraph-rsid="0018f0f3"/>
+  </style:style>
+  <style:style style:name="P83" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="0002aab3" officeooo:paragraph-rsid="0002aab3"/>
+  </style:style>
+  <style:style style:name="P84" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="00052f75" officeooo:paragraph-rsid="00052f75"/>
+  </style:style>
+  <style:style style:name="P85" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="000bd49f" officeooo:paragraph-rsid="000bd49f"/>
+  </style:style>
+  <style:style style:name="P86" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:paragraph-rsid="0001e076"/>
+  </style:style>
+  <style:style style:name="P87" style:family="paragraph" style:parent-style-name="Output" style:list-style-name="L3"/>
+  <style:style style:name="P88" style:family="paragraph" style:parent-style-name="Output" style:list-style-name="L4">
+   <style:text-properties officeooo:rsid="000f8a35" officeooo:paragraph-rsid="000f8a35"/>
+  </style:style>
+  <style:style style:name="P89" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+   <style:text-properties officeooo:rsid="0000a56c" officeooo:paragraph-rsid="0000a56c"/>
+  </style:style>
+  <style:style style:name="P90" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2"/>
+  <style:style style:name="P91" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+   <style:text-properties officeooo:rsid="0005c1d8" officeooo:paragraph-rsid="0005c1d8"/>
+  </style:style>
+  <style:style style:name="P92" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+   <style:text-properties officeooo:rsid="0009145e" officeooo:paragraph-rsid="0009145e"/>
+  </style:style>
+  <style:style style:name="P93" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
+   <style:text-properties officeooo:paragraph-rsid="0009145e"/>
+  </style:style>
+  <style:style style:name="P94" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
+   <style:text-properties officeooo:rsid="0007a730" officeooo:paragraph-rsid="0009145e"/>
+  </style:style>
+  <style:style style:name="P95" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
+   <style:text-properties officeooo:rsid="00099e9f" officeooo:paragraph-rsid="00099e9f"/>
+  </style:style>
+  <style:style style:name="P96" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
+   <style:text-properties officeooo:rsid="00094770" officeooo:paragraph-rsid="00094770"/>
+  </style:style>
+  <style:style style:name="P97" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
+   <style:text-properties officeooo:rsid="000f8a35" officeooo:paragraph-rsid="000f8a35"/>
+  </style:style>
+  <style:style style:name="P98" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
    <style:text-properties officeooo:rsid="001118fc" officeooo:paragraph-rsid="001118fc"/>
   </style:style>
-  <style:style style:name="P72" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L6">
+  <style:style style:name="P99" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L6">
    <style:text-properties officeooo:rsid="000af454" officeooo:paragraph-rsid="000af454"/>
+  </style:style>
+  <style:style style:name="P100" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="0021b743" officeooo:paragraph-rsid="0021b743"/>
+  </style:style>
+  <style:style style:name="P101" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L7">
+   <style:text-properties officeooo:rsid="0021b743" officeooo:paragraph-rsid="0021b743"/>
+  </style:style>
+  <style:style style:name="P102" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="001be0da" officeooo:paragraph-rsid="001be0da"/>
+  </style:style>
+  <style:style style:name="P103" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="00222aad"/>
+  </style:style>
+  <style:style style:name="P104" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L7">
+   <style:text-properties officeooo:rsid="00222aad" officeooo:paragraph-rsid="00222aad"/>
+  </style:style>
+  <style:style style:name="P105" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="00222aad" officeooo:paragraph-rsid="00222aad"/>
+  </style:style>
+  <style:style style:name="P106" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="0022fc2f" officeooo:paragraph-rsid="0022fc2f"/>
+  </style:style>
+  <style:style style:name="P107" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="0024438c" officeooo:paragraph-rsid="0024438c"/>
+  </style:style>
+  <style:style style:name="P108" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="002497cb" officeooo:paragraph-rsid="002497cb"/>
+  </style:style>
+  <style:style style:name="P109" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L8">
+   <style:text-properties officeooo:rsid="002497cb" officeooo:paragraph-rsid="002497cb"/>
+  </style:style>
+  <style:style style:name="P110" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L9">
+   <style:text-properties officeooo:rsid="002497cb" officeooo:paragraph-rsid="002497cb"/>
+  </style:style>
+  <style:style style:name="P111" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="002497cb"/>
+  </style:style>
+  <style:style style:name="P112" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:rsid="001be0da" officeooo:paragraph-rsid="001be0da"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties officeooo:rsid="0000a56c"/>
@@ -574,10 +762,57 @@
    <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T26" style:family="text">
+   <style:text-properties fo:font-style="italic" officeooo:rsid="00175a82" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T27" style:family="text">
    <style:text-properties officeooo:rsid="000f8a35"/>
   </style:style>
+  <style:style style:name="T28" style:family="text">
+   <style:text-properties officeooo:rsid="0013ccbe"/>
+  </style:style>
+  <style:style style:name="T29" style:family="text">
+   <style:text-properties officeooo:rsid="00142e3c"/>
+  </style:style>
+  <style:style style:name="T30" style:family="text">
+   <style:text-properties officeooo:rsid="0015a720"/>
+  </style:style>
+  <style:style style:name="T31" style:family="text">
+   <style:text-properties officeooo:rsid="00175a82"/>
+  </style:style>
+  <style:style style:name="T32" style:family="text">
+   <style:text-properties officeooo:rsid="0018f0f3"/>
+  </style:style>
+  <style:style style:name="T33" style:family="text">
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" officeooo:rsid="0018f0f3" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="FreeSans1" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T34" style:family="text">
+   <style:text-properties officeooo:rsid="001a6965"/>
+  </style:style>
+  <style:style style:name="T35" style:family="text">
+   <style:text-properties officeooo:rsid="001be0da"/>
+  </style:style>
+  <style:style style:name="T36" style:family="text">
+   <style:text-properties officeooo:rsid="00222aad"/>
+  </style:style>
+  <style:style style:name="T37" style:family="text">
+   <style:text-properties officeooo:rsid="0022fc2f"/>
+  </style:style>
+  <style:style style:name="T38" style:family="text">
+   <style:text-properties officeooo:rsid="0024438c"/>
+  </style:style>
+  <style:style style:name="T39" style:family="text">
+   <style:text-properties officeooo:rsid="002497cb"/>
+  </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Frame">
+   <style:graphic-properties style:vertical-pos="top" style:vertical-rel="page-content" style:horizontal-pos="center" style:horizontal-rel="page" loext:rel-width-rel="paragraph"/>
+  </style:style>
+  <style:style style:name="fr2" style:family="graphic" style:parent-style-name="Frame">
    <style:graphic-properties style:vertical-pos="top" style:vertical-rel="paragraph-content" style:horizontal-pos="center" style:horizontal-rel="paragraph" loext:rel-width-rel="paragraph"/>
+  </style:style>
+  <style:style style:name="Sect1" style:family="section">
+   <style:section-properties style:editable="false">
+    <style:columns fo:column-count="1" fo:column-gap="0in"/>
+   </style:section-properties>
   </style:style>
   <text:list-style style:name="L1">
    <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
@@ -891,16 +1126,183 @@
     </style:list-level-properties>
    </text:list-level-style-number>
   </text:list-style>
+  <text:list-style style:name="L7">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.5in" fo:text-indent="-0.25in" fo:margin-left="0.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.75in" fo:text-indent="-0.25in" fo:margin-left="0.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1in" fo:text-indent="-0.25in" fo:margin-left="1in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.25in" fo:text-indent="-0.25in" fo:margin-left="1.25in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.5in" fo:text-indent="-0.25in" fo:margin-left="1.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.75in" fo:text-indent="-0.25in" fo:margin-left="1.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2in" fo:text-indent="-0.25in" fo:margin-left="2in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.25in" fo:text-indent="-0.25in" fo:margin-left="2.25in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.5in" fo:text-indent="-0.25in" fo:margin-left="2.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.75in" fo:text-indent="-0.25in" fo:margin-left="2.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="L8">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.5in" fo:text-indent="-0.25in" fo:margin-left="0.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.75in" fo:text-indent="-0.25in" fo:margin-left="0.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1in" fo:text-indent="-0.25in" fo:margin-left="1in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.25in" fo:text-indent="-0.25in" fo:margin-left="1.25in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.5in" fo:text-indent="-0.25in" fo:margin-left="1.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.75in" fo:text-indent="-0.25in" fo:margin-left="1.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2in" fo:text-indent="-0.25in" fo:margin-left="2in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.25in" fo:text-indent="-0.25in" fo:margin-left="2.25in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.5in" fo:text-indent="-0.25in" fo:margin-left="2.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.75in" fo:text-indent="-0.25in" fo:margin-left="2.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="L9">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.5in" fo:text-indent="-0.25in" fo:margin-left="0.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.75in" fo:text-indent="-0.25in" fo:margin-left="0.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1in" fo:text-indent="-0.25in" fo:margin-left="1in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.25in" fo:text-indent="-0.25in" fo:margin-left="1.25in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.5in" fo:text-indent="-0.25in" fo:margin-left="1.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.75in" fo:text-indent="-0.25in" fo:margin-left="1.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2in" fo:text-indent="-0.25in" fo:margin-left="2in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.25in" fo:text-indent="-0.25in" fo:margin-left="2.25in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.5in" fo:text-indent="-0.25in" fo:margin-left="2.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.75in" fo:text-indent="-0.25in" fo:margin-left="2.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+  </text:list-style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties fo:page-width="8.2681in" fo:page-height="11.6929in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.278in" style:layout-grid-ruby-height="0.139in" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0in">
     <style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0398in" style:distance-after-sep="0.0398in" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
    </style:page-layout-properties>
    <style:header-style/>
-   <style:footer-style/>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="0in" fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0.1965in"/>
+   </style:footer-style>
   </style:page-layout>
  </office:automatic-styles>
  <office:master-styles>
-  <style:master-page style:name="Standard" style:page-layout-name="pm1"/>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1">
+   <style:footer>
+    <text:p text:style-name="P1"><text:page-number text:select-page="current">12</text:page-number></text:p>
+   </style:footer>
+  </style:master-page>
+  <style:master-page style:name="First_20_Page" style:display-name="First Page" style:page-layout-name="pm1" style:next-style-name="Standard">
+   <style:footer>
+    <text:p text:style-name="Footer"/>
+   </style:footer>
+  </style:master-page>
  </office:master-styles>
  <office:body>
   <office:text text:use-soft-page-breaks="true">
@@ -911,40 +1313,175 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Code"/>
-   </text:sequence-decls>
-   <text:p text:style-name="Title">Python</text:p>
+   </text:sequence-decls><draw:frame draw:style-name="fr1" draw:name="Frame2" text:anchor-type="page" text:anchor-page-number="9" svg:width="6.6929in" style:rel-width="100%" draw:z-index="1">
+    <draw:text-box fo:min-height="0.2in">
+     <text:p text:style-name="Caption">Code <text:sequence text:ref-name="refCode1" text:name="Code" text:formula="ooow:Code+1" style:num-format="1">2</text:sequence>: <text:span text:style-name="T33">What’s the number?</text:span></text:p>
+     <text:p text:style-name="Code">#!/usr/bin/env python</text:p>
+     <text:p text:style-name="Code"/>
+     <text:p text:style-name="Code">import random</text:p>
+     <text:p text:style-name="Code"/>
+     <text:p text:style-name="Code">def main():</text:p>
+     <text:p text:style-name="Code"><text:s text:c="4"/>&quot;&quot;&quot;Start a number guessing game between 1 - 100.&quot;&quot;&quot;</text:p>
+     <text:p text:style-name="Code"><text:s text:c="4"/>print(&quot;Guess the number!&quot;)</text:p>
+     <text:p text:style-name="Code"/>
+     <text:p text:style-name="Code"><text:s text:c="4"/>x = random.randint(1, 100)</text:p>
+     <text:p text:style-name="Code"><text:s text:c="4"/>guess = None</text:p>
+     <text:p text:style-name="Code"/>
+     <text:p text:style-name="Code"><text:s text:c="4"/>while x != guess:</text:p>
+     <text:p text:style-name="Code"/>
+     <text:p text:style-name="Code"><text:s text:c="8"/>guess = int(input(&quot;Pick a number between 1 <text:span text:style-name="T38">to </text:span>100: &quot;))</text:p>
+     <text:p text:style-name="Code"><text:s text:c="8"/></text:p>
+     <text:p text:style-name="Code"><text:s text:c="8"/>if x == guess:</text:p>
+     <text:p text:style-name="Code"><text:s text:c="12"/>print(&quot;You genius!&quot;)</text:p>
+     <text:p text:style-name="Code"><text:s text:c="12"/>break</text:p>
+     <text:p text:style-name="Code"><text:s text:c="8"/>elif x &gt; guess:</text:p>
+     <text:p text:style-name="Code"><text:s text:c="12"/>print(&quot;Try a bigger number.&quot;)</text:p>
+     <text:p text:style-name="Code"><text:s text:c="8"/>elif x &lt; guess:</text:p>
+     <text:p text:style-name="Code"><text:s text:c="12"/>print(&quot;Try a smaller number.&quot;)</text:p>
+     <text:p text:style-name="Code"/>
+     <text:p text:style-name="Code">main()</text:p>
+    </draw:text-box>
+   </draw:frame>
+   <text:p text:style-name="P68">Python</text:p>
    <text:p text:style-name="Subtitle">A Project-based learning approach</text:p>
    <text:p text:style-name="Text_20_body"><text:span text:style-name="T25">After all, tomorrow can only grow out of today—and if one seeks success tomorrow, the factors of success need to be prepared today</text:span>. --<text:span text:style-name="T24">Errico Malatesta, 1892.</text:span></text:p>
-   <text:p text:style-name="P2">Hello and welcome to our introductory Python class. Here’s how we suggest you use this document:</text:p>
-   <text:list xml:id="list2346376308" text:style-name="L1">
+   <text:p text:style-name="P5">Hello and welcome to our introductory Python class. Here’s how we suggest you use this document:</text:p>
+   <text:list xml:id="list3637258157" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P62">This document serves as a guide covering most of the material in class. Use it for your reference if you are stuck anywhere during your tasks.</text:p>
+     <text:p text:style-name="P89">This document serves as a guide covering most of the material in class. Use it for your reference if you are stuck anywhere during your tasks.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P62">The majority of your learning will be done via doing, rather than memorizing. The more you code, the better you will become!</text:p>
+     <text:p text:style-name="P89">The majority of your learning will be done via doing, rather than memorizing. The more you code, the better you will become!</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P62">The notes in here will definitely not be comprehensive! It’s impossible to squeeze the entirety of programming in Python into a single book, let alone a training document like this. You are more than welcomed to use the Internet to look up more tricks and techniques.</text:p>
+     <text:p text:style-name="P89">The notes in here will definitely not be comprehensive! It’s impossible to squeeze the entirety of programming in Python into a single book, let alone a training document like this. You are more than welcomed to use the Internet to look up more tricks and techniques.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P62">Remember to have fun!</text:p>
+     <text:p text:style-name="P89">Remember to have fun!</text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="P1" text:outline-level="1">Font Usage</text:h>
-   <text:p text:style-name="P4">Words written in <text:span text:style-name="T2">monospace</text:span> are commands <text:span text:style-name="T11">to be </text:span><text:span text:style-name="T4">typed, </text:span><text:span text:style-name="T21">or references to specific objects like script names or environments</text:span>. <text:span text:style-name="T5">For example:</text:span></text:p>
+   <text:h text:style-name="P75" text:outline-level="1"/>
+   <text:table-of-content text:style-name="Sect1" text:protected="true" text:name="Table of Contents1">
+    <text:table-of-content-source text:outline-level="10">
+     <text:index-title-template text:style-name="Contents_20_Heading">Table of Contents</text:index-title-template>
+     <text:table-of-content-entry-template text:outline-level="1" text:style-name="Contents_20_1">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="2" text:style-name="Contents_20_2">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="3" text:style-name="Contents_20_3">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="4" text:style-name="Contents_20_4">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="5" text:style-name="Contents_20_5">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="6" text:style-name="Contents_20_6">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="7" text:style-name="Contents_20_7">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="8" text:style-name="Contents_20_8">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="9" text:style-name="Contents_20_9">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="10" text:style-name="Contents_20_10">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+    </text:table-of-content-source>
+    <text:index-body>
+     <text:index-title text:style-name="Sect1" text:name="Table of Contents1_Head">
+      <text:p text:style-name="P65">Table of Contents</text:p>
+     </text:index-title>
+     <text:p text:style-name="P62"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc494_2278608959" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Font Usage<text:tab/>3</text:a></text:p>
+     <text:p text:style-name="P62"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc496_2278608959" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Setting up your development environment<text:tab/>3</text:a></text:p>
+     <text:p text:style-name="P63"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc498_2278608959" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Anaconda, not the Snake!<text:tab/>3</text:a></text:p>
+     <text:p text:style-name="P63"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc500_2278608959" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Installing Anaconda<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P64"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc502_2278608959" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Installing on Ubuntu (and other Linux distros)<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P64"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc504_2278608959" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Installing Anaconda in Windows 10<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P63"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc506_2278608959" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Creating your first Anaconda environment<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P63"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc508_2278608959" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Installing an IDE<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P64"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc510_2278608959" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Installing Visual Studio Code<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P64"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc512_2278608959" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Installing Spyder and Jupyter<text:tab/>6</text:a></text:p>
+     <text:p text:style-name="P63"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc514_2278608959" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">hello_world with Visual Studio Code<text:tab/>6</text:a></text:p>
+     <text:p text:style-name="P63"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc516_2278608959" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">hello_world with Spyder<text:tab/>6</text:a></text:p>
+     <text:p text:style-name="P63"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc518_2278608959" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">hello_world with Jupyter Notebook<text:tab/>7</text:a></text:p>
+     <text:p text:style-name="P64"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc520_2278608959" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Updating Anaconda for a specific environment<text:tab/>7</text:a></text:p>
+     <text:p text:style-name="P62"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc522_2278608959" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Understanding Python<text:tab/>7</text:a></text:p>
+    </text:index-body>
+   </text:table-of-content>
+   <text:h text:style-name="P73" text:outline-level="1"/>
+   <text:h text:style-name="P76" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc494_2278608959"/>Font Usage<text:bookmark-end text:name="__RefHeading___Toc494_2278608959"/></text:h>
+   <text:p text:style-name="P7">Words written in <text:span text:style-name="T2">monospace</text:span> are commands <text:span text:style-name="T11">to be </text:span><text:span text:style-name="T4">typed, </text:span><text:span text:style-name="T21">or references to specific objects like script names or environments</text:span>. <text:span text:style-name="T5">For example:</text:span></text:p>
    <text:p text:style-name="Code">def hello()</text:p>
-   <text:p text:style-name="P6">Terminal output will be <text:span text:style-name="T6">grey out monospace</text:span>. For example:</text:p>
+   <text:p text:style-name="P9">Terminal output will be <text:span text:style-name="T6">grey out monospace</text:span>. For example:</text:p>
    <text:p text:style-name="Code">ls</text:p>
    <text:p text:style-name="Output">bin <text:s/>boot <text:s/>dev <text:s/>etc <text:s/>home <text:s/>keybase <text:s/>klauncherXM3425.1.slave-socket <text:s/>lib <text:s/>lib64 <text:s/>mnt <text:s/>opt <text:s/>proc <text:s/>read-write <text:s/>root <text:s/>run <text:s/>sbin <text:s/>selinux <text:s/>srv <text:s/>sys <text:s/>tmp <text:s/>usr <text:s/>var</text:p>
-   <text:h text:style-name="P37" text:outline-level="1">Setting up your development environment</text:h>
-   <text:p text:style-name="P7">Before we start programming, it is very important to set up your development environment. Like having a good workshop, having a proper development environment setup will enable you to program efficiently, and most often correctly. Here, we are going to show you how to set up Anaconda along with your programming IDEs.</text:p>
-   <text:p text:style-name="P12">We will be using the latest stable version of Python (3 in this case) unless otherwise stated in this course. Python, like all other programming languages, is being continuously modified and improved in relation to enhancements to the language as implemented by the community, or in response to identified problems with a certain way the coding was done that can only be fixed by changing the syntax of the scripting language itself.</text:p>
-   <text:p text:style-name="P12">Unfortunately, when this happens, breakages may occur as packages written in Python2 fail to work without the code being rewritten to fit the Python3 syntax. Other times, you may have no choice but <text:soft-page-break/>to use Python2 for your projects, which is where setting up Anaconda for a Python2 environment will make coexisting projects less of a headache.</text:p>
-   <text:h text:style-name="P38" text:outline-level="2">Anaconda, not the Snake!</text:h>
-   <text:p text:style-name="P7">Anaconda was developed to solve a very specific problem, which is to manage Python packages for various Python-based projects, often times to do with data science. Packages may depend on other packages, which are referred to as dependencies. Sometimes, there may be conflicting dependencies, which can result in a very untidy development environment, as your programs randomly fail to compile.</text:p>
-   <text:p text:style-name="P7">With Anaconda, we can create specific environments targetting a particular project, with it’s own particular dependencies. We will cover how to install and use Anaconda on Ubuntu, a very popular Linux distro, and Windows 10.</text:p>
-   <text:p text:style-name="P20">We will know you are ready to do Python programming once you can run this hello_world.py code</text:p>
-   <text:h text:style-name="P38" text:outline-level="2"><draw:frame draw:style-name="fr1" draw:name="Frame1" text:anchor-type="paragraph" svg:width="6.6929in" style:rel-width="100%" draw:z-index="0">
+   <text:h text:style-name="P50" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc496_2278608959"/>Setting up your development environment<text:bookmark-end text:name="__RefHeading___Toc496_2278608959"/></text:h>
+   <text:p text:style-name="P10">Before we start programming, it is very important to set up your development environment. Like having a good workshop, having a proper development environment setup will enable you to program efficiently, and most often correctly. Here, we are going to show you how to set up Anaconda along with your programming IDEs.</text:p>
+   <text:p text:style-name="P15">We will be using the latest stable version of Python (3 in this case) unless otherwise stated in this course. Python, like all other programming languages, is being continuously modified and improved in relation to enhancements to the language as implemented by the community, or in response to identified problems with a certain way the coding was done that can only be fixed by changing the syntax of the scripting language itself.</text:p>
+   <text:p text:style-name="P15">Unfortunately, when this happens, breakages may occur as packages written in Python2 fail to work without the code being rewritten to fit the Python3 syntax. Other times, you may have no choice but to use Python2 for your projects, which is where setting up Anaconda for a Python2 environment will make coexisting projects less of a headache.</text:p>
+   <text:h text:style-name="P52" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc498_2278608959"/>Anaconda, not the Snake!<text:bookmark-end text:name="__RefHeading___Toc498_2278608959"/></text:h>
+   <text:p text:style-name="P10">Anaconda was developed to solve a very specific problem, which is to manage Python packages for various Python-based projects, often times to do with data science. Packages may depend on other packages, which are referred to as dependencies. Sometimes, there may be conflicting dependencies, which can result in a very untidy development environment, as your programs randomly fail to compile.</text:p>
+   <text:p text:style-name="P10">With Anaconda, we can create specific environments targetting a particular project, with it’s own particular dependencies. We will cover how to install and use Anaconda on Ubuntu, a very popular Linux distro, and Windows 10.</text:p>
+   <text:p text:style-name="P23">We will know you are ready to do Python programming once you can run t<text:span text:style-name="T34">he script in </text:span><text:span text:style-name="T34"><text:sequence-ref text:reference-format="category-and-value" text:ref-name="refCode0">Code 1</text:sequence-ref></text:span><text:span text:style-name="T34">.</text:span></text:p>
+   <text:h text:style-name="P52" text:outline-level="2"><draw:frame draw:style-name="fr2" draw:name="Frame1" text:anchor-type="paragraph" svg:width="6.6929in" style:rel-width="100%" draw:z-index="0">
      <draw:text-box fo:min-height="0.2in">
       <text:p text:style-name="Caption">Code <text:sequence text:ref-name="refCode0" text:name="Code" text:formula="ooow:Code+1" style:num-format="1">1</text:sequence>: Your first Python script!</text:p>
       <text:p text:style-name="Code">def hello():</text:p>
@@ -953,125 +1490,221 @@
       <text:p text:style-name="Code"><text:s text:c="4"/></text:p>
       <text:p text:style-name="Code">hello()</text:p>
      </draw:text-box>
-    </draw:frame>Installing Anaconda</text:h>
-   <text:p text:style-name="P10">You should always consult the <text:a xlink:type="simple" xlink:href="https://docs.anaconda.com/anaconda/install/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">official installation guide</text:a> rather than relying on guides like ours for the most up to date installation methods for your operating system. We will however, endeavour to provide the most basic summary to get you up and running as soon as possible.</text:p>
-   <text:p text:style-name="P12">Keep the official guide open in your browser Window at all times and keep track of what stage of the installation process you are at.</text:p>
-   <text:h text:style-name="P43" text:outline-level="3">Installing on Ubuntu (and other Linux distros)</text:h>
-   <text:p text:style-name="P11"><text:span text:style-name="T11">The </text:span><text:a xlink:type="simple" xlink:href="https://docs.anaconda.com/anaconda/install/linux/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T11">official </text:span></text:a><text:a xlink:type="simple" xlink:href="https://docs.anaconda.com/anaconda/install/linux/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T12">installation</text:span></text:a><text:a xlink:type="simple" xlink:href="https://docs.anaconda.com/anaconda/install/linux/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T11"> guide for Linux</text:span></text:a><text:span text:style-name="T11"> recommends installing some software dependencies first. If you are using Ubuntu, follow the guide under Debian, as Ubuntu is a Debian-derived Linux distro. Run the following in your terminal:</text:span></text:p>
+    </draw:frame><text:bookmark-start text:name="__RefHeading___Toc500_2278608959"/><text:soft-page-break/>Installing Anaconda<text:bookmark-end text:name="__RefHeading___Toc500_2278608959"/></text:h>
+   <text:p text:style-name="P13">You should always consult the <text:a xlink:type="simple" xlink:href="https://docs.anaconda.com/anaconda/install/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">official installation guide</text:a> rather than relying on guides like ours for the most up to date installation methods for your operating system. We will however, endeavour to provide the most basic summary to get you up and running as soon as possible.</text:p>
+   <text:p text:style-name="P15">Keep the official guide open in your browser Window at all times and keep track of what stage of the installation process you are at.</text:p>
+   <text:h text:style-name="P58" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc502_2278608959"/>Installing on Ubuntu (and other Linux distros)<text:bookmark-end text:name="__RefHeading___Toc502_2278608959"/></text:h>
+   <text:p text:style-name="P14"><text:span text:style-name="T11">The </text:span><text:a xlink:type="simple" xlink:href="https://docs.anaconda.com/anaconda/install/linux/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T11">official </text:span></text:a><text:a xlink:type="simple" xlink:href="https://docs.anaconda.com/anaconda/install/linux/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T12">installation</text:span></text:a><text:a xlink:type="simple" xlink:href="https://docs.anaconda.com/anaconda/install/linux/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T11"> guide for Linux</text:span></text:a><text:span text:style-name="T11"> recommends installing some software dependencies first. If you are using Ubuntu, follow the guide under Debian, as Ubuntu is a Debian-derived Linux distro. Run the following in your terminal:</text:span></text:p>
    <text:p text:style-name="Code"><text:span text:style-name="T11">sudo </text:span>apt-get install libgl1-mesa-glx libegl1-mesa libxrandr2 libxrandr2 libxss1 libxcursor1 libxcomposite1 libasound2 libxi6 libxtst6</text:p>
-   <text:p text:style-name="P15"><text:span text:style-name="T12">You will notice that we have included </text:span><text:span text:style-name="Code"><text:span text:style-name="T12">sudo</text:span></text:span><text:span text:style-name="T12"> at the beginning of the command. This is because we need root privileges to install </text:span><text:span text:style-name="T14">these dependencies system-wide</text:span><text:span text:style-name="T12">. Make sure you have admin privileges to your account before you proceed.</text:span></text:p>
-   <text:p text:style-name="P10"><text:soft-page-break/>Once your software dependencies have been installed, download the Anaconda shell script installer. <text:span text:style-name="T12">When you follow the download link, make sure you are getting the </text:span><text:span text:style-name="T13">64-bit</text:span><text:span text:style-name="T12"> Individual Edition, which is freely distributable under an open source license. Download the installer to your Downloads folder so when you run the installation command from the terminal, it will locate and run the installer.</text:span></text:p>
-   <text:p text:style-name="P12">Note that the version of Anaconda that you have downloaded may be different from the command below. If so, change the filename accordingly.</text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T12">You will notice that we have included </text:span><text:span text:style-name="Code"><text:span text:style-name="T12">sudo</text:span></text:span><text:span text:style-name="T12"> at the beginning of the command. This is because we need root privileges to install </text:span><text:span text:style-name="T14">these dependencies system-wide</text:span><text:span text:style-name="T12">. Make sure you have admin privileges to your account before you proceed.</text:span></text:p>
+   <text:p text:style-name="P13">Once your software dependencies have been installed, download the Anaconda shell script installer. <text:span text:style-name="T12">When you follow the download link, make sure you are getting the </text:span><text:span text:style-name="T13">64-bit</text:span><text:span text:style-name="T12"> Individual Edition, which is freely distributable under an open source license. Download the installer to your Downloads folder so when you run the installation command from the terminal, it will locate and run the installer.</text:span></text:p>
+   <text:p text:style-name="P15">Note that the version of Anaconda that you have downloaded may be different from the command below. If so, change the filename accordingly.</text:p>
    <text:p text:style-name="Code">bash ~/Downloads/Anaconda3-2020.02-Linux-x86_64.sh</text:p>
-   <text:p text:style-name="P12">You will first be asked to read through the license agreement. Press the Spacebar to quickly scroll to the bottom. You need to type <text:span text:style-name="Code">yes</text:span> to proceed.</text:p>
-   <text:p text:style-name="P12">Thereafter, we recommend accepting all default options in the installer unless you know exactly what you desire to customise. You should be able to launch Anaconda Navigator now <text:span text:style-name="T13">by running </text:span><text:span text:style-name="Code"><text:span text:style-name="T13">anaconda-navigator</text:span></text:span><text:span text:style-name="T13"> in the terminal, or through Ubuntu’s app launcher by typing Anaconda and clicking on the Anaconda icon.</text:span></text:p>
-   <text:h text:style-name="P44" text:outline-level="3">Installing Anaconda in Windows <text:span text:style-name="T14">10</text:span></text:h>
-   <text:p text:style-name="P14"><text:span text:style-name="T13">Just like with Ubuntu, it is important to follow the </text:span><text:a xlink:type="simple" xlink:href="https://docs.anaconda.com/anaconda/install/windows/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T13">official Windows installer guide</text:span></text:a><text:span text:style-name="T13"> for getting Anaconda set up right. We </text:span><text:span text:style-name="T22">will</text:span><text:span text:style-name="T13"> summarise the steps that you need to follow, </text:span><text:span text:style-name="T22">but urge you to read and follow the official instructions which may change by the time you read this document.</text:span></text:p>
-   <text:p text:style-name="P13">First, download and run the Windows installer. <text:span text:style-name="T14">Make sure that you are getting the 64-bit edition of Anaconda Individual Edition. </text:span><text:span text:style-name="T22">You may choose to accept all the default settings for the installation.</text:span></text:p>
-   <text:h text:style-name="P39" text:outline-level="2">Creating your first Anaconda environment</text:h>
-   <text:p text:style-name="P17"><text:span text:style-name="T14">Let’s </text:span><text:span text:style-name="T15">prepare to </text:span><text:span text:style-name="T14">write our first Python program using the Anaconda paradigm </text:span><text:span text:style-name="T15">of development, by setting up an environment first for your project.</text:span></text:p>
-   <text:list xml:id="list2258898683" text:style-name="L2">
+   <text:p text:style-name="P15">You will first be asked to read through the license agreement. Press the Spacebar to quickly scroll to the bottom. You need to type <text:span text:style-name="Code">yes</text:span> to proceed.</text:p>
+   <text:p text:style-name="P15">Thereafter, we recommend accepting all default options in the installer unless you know exactly what you desire to customise. You should be able to launch Anaconda Navigator now <text:span text:style-name="T13">by running </text:span><text:soft-page-break/><text:span text:style-name="Code"><text:span text:style-name="T13">anaconda-navigator</text:span></text:span><text:span text:style-name="T13"> in the terminal, or through Ubuntu’s app launcher by typing Anaconda and clicking on the Anaconda icon.</text:span></text:p>
+   <text:h text:style-name="P59" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc504_2278608959"/>Installing Anaconda in Windows <text:span text:style-name="T14">10</text:span><text:bookmark-end text:name="__RefHeading___Toc504_2278608959"/></text:h>
+   <text:p text:style-name="P17"><text:span text:style-name="T13">Just like with Ubuntu, it is important to follow the </text:span><text:a xlink:type="simple" xlink:href="https://docs.anaconda.com/anaconda/install/windows/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T13">official Windows installer guide</text:span></text:a><text:span text:style-name="T13"> for getting Anaconda set up right. We </text:span><text:span text:style-name="T22">will</text:span><text:span text:style-name="T13"> summarise the steps that you need to follow, </text:span><text:span text:style-name="T22">but urge you to read and follow the official instructions which may change by the time you read this document.</text:span></text:p>
+   <text:p text:style-name="P16">First, download and run the Windows installer. <text:span text:style-name="T14">Make sure that you are getting the 64-bit edition of Anaconda Individual Edition. </text:span><text:span text:style-name="T22">You may choose to accept all the default settings for the installation.</text:span></text:p>
+   <text:h text:style-name="P53" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc506_2278608959"/>Creating your first Anaconda environment<text:bookmark-end text:name="__RefHeading___Toc506_2278608959"/></text:h>
+   <text:p text:style-name="P20"><text:span text:style-name="T14">Let’s </text:span><text:span text:style-name="T15">prepare to </text:span><text:span text:style-name="T14">write our first Python program using the Anaconda paradigm </text:span><text:span text:style-name="T15">of development, by setting up an environment first for your project.</text:span></text:p>
+   <text:list xml:id="list1334201433" text:style-name="L2">
     <text:list-item>
-     <text:p text:style-name="P64">Launch Anaconda Navigator</text:p>
+     <text:p text:style-name="P91">Launch Anaconda Navigator</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P64">Click on the Environment tab, and click on the Create button.</text:p>
+     <text:p text:style-name="P91">Click on the Environment tab, and click on the Create button.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P64">Name our environment hello_world, and make sure the box for Python is checked. Apply your settings and wait for the environment to be generated.</text:p>
+     <text:p text:style-name="P91">Name our environment hello_world, and make sure the box for Python is checked. Apply your settings and wait for the environment to be generated.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65">In the terminal, run:</text:p>
-     <text:p text:style-name="P47">conda info –envs</text:p>
-     <text:p text:style-name="P63">To check and see hello_world is listed as one of the available base environments.</text:p>
+     <text:p text:style-name="P92">In the terminal, run:</text:p>
+     <text:p text:style-name="P69">conda info –envs</text:p>
+     <text:p text:style-name="P90">To check and see hello_world is listed as one of the available base environments.</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Text_20_body">Note that if you followed the recommended default installation options, the base environment will already be created and selected for you by Anaconda.</text:p>
-   <text:h text:style-name="P41" text:outline-level="2">Installing an IDE</text:h>
-   <text:p text:style-name="P24">An integrated development environment (IDE) is a sophisticated program that makes your life easier while programming by including all the basic tools to compile and run your programs. There are several IDEs we can use depending on the type of project you wish to run.</text:p>
-   <text:p text:style-name="P27"><text:soft-page-break/>All IDEs have there own individual quirks, which are geared towards different workflows. In comparing between the three IDEs we will be installing here, VS Code is the most generalist of the IDEs, as it allows one to pivot to other programming languages if needed. Jupyter is heavily-oriented towards statistical programming in Python and R with line-by-line code execution being it’s speciality. Spyder occupies the ground of a general purpose Python IDE, which means you can use it to write Python apps, or use it for statistical programming.</text:p>
-   <text:p text:style-name="P27">Different instructors may have different preferences too for IDEs. For now, it is good enough to know these are the options you have, and that you can switch between them, and other IDEs you may find online until you find one that fits your idea of the perfect development workflow.</text:p>
-   <text:h text:style-name="P46" text:outline-level="3">Installing Visual Studio Code</text:h>
-   <text:p text:style-name="P24">Visual Studio Code <text:span text:style-name="T23">(VS Code)</text:span> is a versatile IDE that can be used with many different programming languages, based upon the extensions that are available for you to install. We recommend using this IDE largely because it can be used beyond Python if you decide to learn another programming language.</text:p>
-   <text:p text:style-name="P26"><text:span text:style-name="T23">As is the case with Anaconda, we recommend referencing the official guides (</text:span><text:a xlink:type="simple" xlink:href="https://code.visualstudio.com/docs/setup/linux" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T23">Linux</text:span></text:a><text:span text:style-name="T23"> or </text:span><text:a xlink:type="simple" xlink:href="https://code.visualstudio.com/docs/setup/windows" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T23">Windows</text:span></text:a><text:span text:style-name="T23">) <text:s/>for installing VS Code for your operating system. If you are using a Linux distro that is not listed in the official guides, check out the package repositories for VS Code to see if it has already been packaged for your distribution.</text:span></text:p>
-   <text:p text:style-name="P25">For Ubuntu, and other distros that support the Snap store, you can install VS Code by running the following in the terminal:</text:p>
+   <text:h text:style-name="P55" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc508_2278608959"/>Installing an IDE<text:bookmark-end text:name="__RefHeading___Toc508_2278608959"/></text:h>
+   <text:p text:style-name="P27">An integrated development environment (IDE) is a sophisticated program that makes your life easier while programming by including all the basic tools to compile and run your programs. There are several IDEs we can use depending on the type of project you wish to run.</text:p>
+   <text:p text:style-name="P30">All IDEs have there own individual quirks, which are geared towards different workflows. In comparing between the three IDEs we will be installing here, VS Code is the most generalist of the IDEs, as it allows one to pivot to other programming languages if needed. Jupyter is heavily-oriented towards statistical programming in Python and R with line-by-line code execution being it’s speciality. Spyder occupies the ground of a general purpose Python IDE, which means you can use it to write Python apps, or use it for statistical programming.</text:p>
+   <text:p text:style-name="P30">Different instructors may have different preferences too for IDEs. For now, it is good enough to know these are the options you have, and that you can switch between them, and other IDEs you may find online until you find one that fits your idea of the perfect development workflow.</text:p>
+   <text:h text:style-name="P61" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc510_2278608959"/><text:soft-page-break/>Installing Visual Studio Code<text:bookmark-end text:name="__RefHeading___Toc510_2278608959"/></text:h>
+   <text:p text:style-name="P27">Visual Studio Code <text:span text:style-name="T23">(VS Code)</text:span> is a versatile IDE that can be used with many different programming languages, based upon the extensions that are available for you to install. We recommend using this IDE largely because it can be used beyond Python if you decide to learn another programming language.</text:p>
+   <text:p text:style-name="P29"><text:span text:style-name="T23">As is the case with Anaconda, we recommend referencing the official guides (</text:span><text:a xlink:type="simple" xlink:href="https://code.visualstudio.com/docs/setup/linux" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T23">Linux</text:span></text:a><text:span text:style-name="T23"> or </text:span><text:a xlink:type="simple" xlink:href="https://code.visualstudio.com/docs/setup/windows" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T23">Windows</text:span></text:a><text:span text:style-name="T23">) <text:s/>for installing VS Code for your operating system. If you are using a Linux distro that is not listed in the official guides, check out the package repositories for VS Code to see if it has already been packaged for your distribution.</text:span></text:p>
+   <text:p text:style-name="P28">For Ubuntu, and other distros that support the Snap store, you can install VS Code by running the following in the terminal:</text:p>
    <text:p text:style-name="Code">sudo snap install --classic code # or code-insiders</text:p>
-   <text:p text:style-name="P25">You can also install VS Code by downloading and running the deb installer.</text:p>
-   <text:p text:style-name="P25">For Windows, you can download the installer from the official site and run it to set up VS Code. We recommend the User Setup unless you need to have VS Code available to all users on your computer.</text:p>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3">Installing Spyder and Jupyter</text:h>
-   <text:p text:style-name="P25">Spyder and Jupyter are IDEs that are designed specifically for statistical programming. You should install them if your project is heavily-oriented towards using Python for data analysis. Because Anaconda itself originated as a tool to make data analysis as painless as possible, you can easily install these two IDEs from Anaconda.</text:p>
-   <text:p text:style-name="P26"><text:span text:style-name="T23">Installing Spyder </text:span><text:span text:style-name="T26">and Jupyter</text:span><text:span text:style-name="T23"> is as easy as opening the Home tab in Anaconda Navigator, finding </text:span><text:span text:style-name="T26">them</text:span><text:span text:style-name="T23">, and clicking the Install button. </text:span><text:span text:style-name="T26">In fact, they may even be installed by default!</text:span></text:p>
-   <text:h text:style-name="P40" text:outline-level="2">hello_world with Visual Studio <text:span text:style-name="T22">C</text:span>ode</text:h>
-   <text:list xml:id="list3583130267" text:style-name="L3">
+   <text:p text:style-name="P28">You can also install VS Code by downloading and running the deb installer.</text:p>
+   <text:p text:style-name="P28">For Windows, you can download the installer from the official site and run it to set up VS Code. We recommend the User Setup unless you need to have VS Code available to all users on your computer.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc512_2278608959"/>Installing Spyder and Jupyter<text:bookmark-end text:name="__RefHeading___Toc512_2278608959"/></text:h>
+   <text:p text:style-name="P28">Spyder and Jupyter are IDEs that are designed specifically for statistical programming. You should install them if your project is heavily-oriented towards using Python for data analysis. Because Anaconda itself originated as a tool to make data analysis as painless as possible, you can easily install these two IDEs from Anaconda.</text:p>
+   <text:p text:style-name="P29"><text:span text:style-name="T23">Installing Spyder </text:span><text:span text:style-name="T27">and Jupyter</text:span><text:span text:style-name="T23"> is as easy as opening the Home tab in Anaconda Navigator, finding </text:span><text:span text:style-name="T27">them</text:span><text:span text:style-name="T23">, and clicking the Install button. </text:span><text:span text:style-name="T27">In fact, they may even be installed by default!</text:span></text:p>
+   <text:h text:style-name="P54" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc514_2278608959"/>hello_world<text:note text:id="ftn1" text:note-class="footnote"><text:note-citation>1</text:note-citation><text:note-body>
+      <text:p text:style-name="P66">This code snippet was adapted from Spyder’s introductory hello world code.</text:p></text:note-body></text:note> with Visual Studio <text:span text:style-name="T22">C</text:span>ode<text:bookmark-end text:name="__RefHeading___Toc514_2278608959"/></text:h>
+   <text:list xml:id="list939989416" text:style-name="L3">
     <text:list-item>
-     <text:p text:style-name="P67">Click on VS Code in the Home tab <text:span text:style-name="T26">of Anaconda Navigator</text:span>.</text:p>
+     <text:p text:style-name="P94">Click on VS Code in the Home tab <text:span text:style-name="T27">of Anaconda Navigator</text:span>.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P66"><text:bookmark-start text:name="__RefNumPara__521_18542277"/><text:span text:style-name="T16">Once VS Code launches, it will offer to download and install Python-based extensions as it detects the hooks from Anaconda. </text:span><text:span text:style-name="T26">If it does not, saving your file as </text:span><text:span text:style-name="Code"><text:span text:style-name="T26">hello_world.py</text:span></text:span><text:span text:style-name="T26"> will also trigger the recommendation for Python extensions.</text:span><text:bookmark-end text:name="__RefNumPara__521_18542277"/></text:p>
+     <text:p text:style-name="P93"><text:bookmark-start text:name="__RefNumPara__521_18542277"/><text:span text:style-name="T16">Once VS Code launches, it will offer to download and install Python-based extensions as it detects the hooks from Anaconda. </text:span><text:span text:style-name="T27">If it does not, saving your file as </text:span><text:span text:style-name="Code"><text:span text:style-name="T27">hello_world.py</text:span></text:span><text:span text:style-name="T27"> will also trigger the recommendation for Python extensions.</text:span><text:bookmark-end text:name="__RefNumPara__521_18542277"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P68"><text:soft-page-break/>In VS Code, take a look at the bottom left-hand corner of the IDE. You will see that it is pointed towards the base Python environment from Anaconda. Click on it and select the hello_world environment instead.</text:p>
+     <text:p text:style-name="P95">In VS Code, take a look at the bottom left-hand corner of the IDE. You will see that it is pointed towards the base Python environment from Anaconda. Click on it and select the hello_world environment instead.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P69">Click on File &gt; New File, and type in the script in <text:sequence-ref text:reference-format="category-and-value" text:ref-name="refCode0">Code 1</text:sequence-ref>.</text:p>
+     <text:p text:style-name="P96">Click on File &gt; New File, and type in the script in <text:sequence-ref text:reference-format="category-and-value" text:ref-name="refCode0">Code 1</text:sequence-ref>.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P69">Click on File &gt; Save As, and save your file <text:span text:style-name="Code">hello_world.py</text:span>.</text:p>
+     <text:p text:style-name="P96">Click on File &gt; Save As, and save your file <text:span text:style-name="Code">hello_world.py</text:span>.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P69">If you have installed the Python extensions as recommended in step <text:bookmark-ref text:reference-format="number" text:ref-name="__RefNumPara__521_18542277">2</text:bookmark-ref><text:s/>above, you should see an arrow pointed towards the right in your scripting tab. <text:span text:style-name="T19">Click on it and you will see a bunch of output in the terminal and most importantly:</text:span></text:p>
-     <text:p text:style-name="P60">Hello World</text:p>
-    </text:list-item>
-   </text:list>
-   <text:p text:style-name="P21">Congratulations! You have successfully run your first Python program in VS Code.</text:p>
-   <text:h text:style-name="P42" text:outline-level="2">hello_world with Spyder</text:h>
-   <text:list xml:id="list2658141269" text:style-name="L4">
-    <text:list-item>
-     <text:p text:style-name="P70">Click on Spyder in the Home tab of Anaconda Navigator.</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P70">In the scripting pane, write down the hello_world code from <text:sequence-ref text:reference-format="category-and-value" text:ref-name="refCode0">Code 1</text:sequence-ref>.</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P70">Press F5 or click on the green arrow on the menubar that says “Run file” in the hover text.</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P70">You should see a bunch of output from the console and the output:</text:p>
-     <text:p text:style-name="P61">Hello World</text:p>
+     <text:p text:style-name="P96"><text:soft-page-break/>If you have installed the Python extensions as recommended in step <text:bookmark-ref text:reference-format="number" text:ref-name="__RefNumPara__521_18542277">2</text:bookmark-ref><text:s/>above, you should see an arrow pointed towards the right in your scripting tab. <text:span text:style-name="T19">Click on it and you will see a bunch of output in the terminal and most importantly:</text:span></text:p>
+     <text:p text:style-name="P87">Hello World</text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P29">Congratulations! You have executed your first Python script in Spyder!</text:p>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2">hello_world with Jupyter Notebook</text:h>
-   <text:list xml:id="list2983860152" text:style-name="L5">
+   <text:p text:style-name="P24">Congratulations! You have successfully run your first Python program in VS Code.</text:p>
+   <text:h text:style-name="P56" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc516_2278608959"/>hello_world with Spyder<text:bookmark-end text:name="__RefHeading___Toc516_2278608959"/></text:h>
+   <text:list xml:id="list781057185" text:style-name="L4">
     <text:list-item>
-     <text:p text:style-name="P71">Click on Jupyter Notebook in the Home tab of Anaconda Navigator. Jupyter will open in a browser tab.</text:p>
+     <text:p text:style-name="P97">Click on Spyder in the Home tab of Anaconda Navigator.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P71">Select New &gt; Notebook &gt; Python 3</text:p>
+     <text:p text:style-name="P97">In the scripting pane, write down the hello_world code from <text:sequence-ref text:reference-format="category-and-value" text:ref-name="refCode0">Code 1</text:sequence-ref>.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P71">In the input cell, enter the hello_world script from <text:sequence-ref text:reference-format="category-and-value" text:ref-name="refCode0">Code 1</text:sequence-ref>.</text:p>
+     <text:p text:style-name="P97">Press F5 or click on the green arrow on the menubar that says “Run file” in the hover text.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P71">Click on the Run button. You should see the output with your coding cell showing:</text:p>
-     <text:p text:style-name="P48">Hello <text:span text:style-name="Code">World</text:span></text:p>
+     <text:p text:style-name="P97">You should see a bunch of output from the console and the output:</text:p>
+     <text:p text:style-name="P88">Hello World</text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P30">Congratulations! You have executed your first Python script in Jupyter!</text:p>
-   <text:h text:style-name="P45" text:outline-level="3"><text:span text:style-name="T8">Updating Anaconda </text:span><text:span text:style-name="T10">for</text:span><text:span text:style-name="T8"> a specific environment</text:span></text:h>
-   <text:p text:style-name="P9"><text:span text:style-name="T8">The </text:span><text:span text:style-name="T20">convenience</text:span><text:span text:style-name="T8"> of using Anaconda is you can choose to keep separate environments running with their own distinct set of Python packages with specific dependencies intact. </text:span><text:span text:style-name="T20">Let’s test it out by updating packages in the </text:span><text:span text:style-name="Code"><text:span text:style-name="T20">hello_world</text:span></text:span><text:span text:style-name="T20"> environment and compare the version with that in the </text:span><text:span text:style-name="Code"><text:span text:style-name="T20">base</text:span></text:span><text:span text:style-name="T20"> environment.</text:span></text:p>
-   <text:list xml:id="list1720283278" text:style-name="L6">
+   <text:p text:style-name="P32">Congratulations! You have executed your first Python script in Spyder!</text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc518_2278608959"/>hello_world with Jupyter Notebook<text:bookmark-end text:name="__RefHeading___Toc518_2278608959"/></text:h>
+   <text:list xml:id="list4088709481" text:style-name="L5">
     <text:list-item>
-     <text:p text:style-name="P72">In the Environment tab, select hello_world</text:p>
+     <text:p text:style-name="P98">Click on Jupyter Notebook in the Home tab of Anaconda Navigator. Jupyter will open in a browser tab.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P72">To filter out only updatable packages, select Updatable from the pull down menu from the default Installed filter setting. Take note of the version number of the program to be updated.</text:p>
+     <text:p text:style-name="P98">Select New &gt; Notebook &gt; Python 3</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P72"><text:soft-page-break/>Click on the green Apply button and in the verification page, click on Apply again.</text:p>
+     <text:p text:style-name="P98">In the input cell, enter the hello_world script from <text:sequence-ref text:reference-format="category-and-value" text:ref-name="refCode0">Code 1</text:sequence-ref>.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P72">Once the installation is complete, take a look at the version of the updated package. Change back to the base environment. You should see that the package in the base environment remains the same.</text:p>
+     <text:p text:style-name="P98">Click on the Run button. You should see the output with your coding cell showing:</text:p>
+     <text:p text:style-name="P70">Hello <text:span text:style-name="Code">World</text:span></text:p>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P33">Congratulations! You have executed your first Python script in Jupyter!</text:p>
+   <text:h text:style-name="P60" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc520_2278608959"/><text:span text:style-name="T8">Updating Anaconda </text:span><text:span text:style-name="T10">for</text:span><text:span text:style-name="T8"> a specific environment</text:span><text:bookmark-end text:name="__RefHeading___Toc520_2278608959"/></text:h>
+   <text:p text:style-name="P12"><text:span text:style-name="T8">The </text:span><text:span text:style-name="T20">convenience</text:span><text:span text:style-name="T8"> of using Anaconda is you can choose to keep separate environments running with their own distinct set of Python packages with specific dependencies intact. </text:span><text:span text:style-name="T20">Let’s test it out by updating packages in the </text:span><text:span text:style-name="Code"><text:span text:style-name="T20">hello_world</text:span></text:span><text:span text:style-name="T20"> environment and compare the version with that in the </text:span><text:span text:style-name="Code"><text:span text:style-name="T20">base</text:span></text:span><text:span text:style-name="T20"> environment.</text:span></text:p>
+   <text:list xml:id="list421052341" text:style-name="L6">
+    <text:list-item>
+     <text:p text:style-name="P99">In the Environment tab, select hello_world</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P99">To filter out only updatable packages, select Updatable from the pull down menu from the default Installed filter setting. Take note of the version number of the program to be updated.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P99">Click on the green Apply button and in the verification page, click on Apply again.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P99">Once the installation is complete, take a look at the version of the updated package. Change back to the base environment. You should see that the package in the base environment remains the same.</text:p>
+    </text:list-item>
+   </text:list>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc522_2278608959"/><text:soft-page-break/>Understanding Python<text:bookmark-end text:name="__RefHeading___Toc522_2278608959"/></text:h>
+   <text:p text:style-name="Text_20_body">Now that you successfully wrote, compiled, and ran your first Python program, we can dive into what are the parts of the script in <text:sequence-ref text:reference-format="category-and-value" text:ref-name="refCode0">Code 1</text:sequence-ref>, and their purpose, <text:span text:style-name="T28">line by line.</text:span></text:p>
+   <text:h text:style-name="P57" text:outline-level="2">Your first Python script explained</text:h>
+   <text:p text:style-name="P34">Firstly, “Hello World” and it’s variants are by tradition, the first program one would write and run when learning a new programming language. We use them to determine whether or not you have set up your development environment correctly.</text:p>
+   <text:p text:style-name="P35">Let’s look at the first line you wrote:</text:p>
+   <text:p text:style-name="P48">def hello():</text:p>
+   <text:p text:style-name="Text_20_body">We are <text:span text:style-name="T32">creating</text:span> our function using <text:span text:style-name="Code"><text:span text:style-name="T29">def</text:span></text:span><text:span text:style-name="T29">, and the name of our function is </text:span><text:span text:style-name="Code"><text:span text:style-name="T29">hello()</text:span></text:span><text:span text:style-name="T29">. </text:span><text:span text:style-name="T32">End the function defining syntax with a colon (:). </text:span><text:span text:style-name="T29">At this point, we have an empty function, that does nothing. Let’s look at the next line:</text:span></text:p>
+   <text:p text:style-name="P48"><text:s text:c="4"/>&quot;&quot;&quot;Print &quot;Hello World&quot; and return None.&quot;&quot;&quot;</text:p>
+   <text:p text:style-name="P37">Notice that there is spacing before this line <text:span text:style-name="T32">compared to the </text:span><text:span text:style-name="Code"><text:span text:style-name="T32">def</text:span></text:span><text:span text:style-name="T32"> line before it</text:span>? That indentation is how the Python interpreter knows this line belongs to the <text:span text:style-name="Code">hello()</text:span> function above. </text:p>
+   <text:p text:style-name="P37">This line <text:span text:style-name="T31">is known as the documentation string, or </text:span><text:span text:style-name="T26">docstring</text:span><text:span text:style-name="T31"> and </text:span>describes what the program does. <text:span text:style-name="T31">I</text:span>t is useful for documentation purposes, <text:span text:style-name="T31">and may use many lines depending on the complexity of the software</text:span>.</text:p>
+   <text:p text:style-name="P39">Docstrings always start with a capitalised letter and end with a period. Here they are enclosed in triple double quotes (”””) but can also be declared using triple single quotes (’’’). Because this docstring fits into a single line, it is also know as a one-line docstring.</text:p>
+   <text:p text:style-name="P36">The star of the script is in the next line:</text:p>
+   <text:p text:style-name="P48"><text:s text:c="4"/>print(&quot;Hello World&quot;)</text:p>
+   <text:p text:style-name="P36">This line prints the output “Hello World” into your console when you execute the program.</text:p>
+   <text:p text:style-name="P36">Finally, we execute our function with:</text:p>
+   <text:p text:style-name="P47">hello()</text:p>
+   <text:h text:style-name="P57" text:outline-level="2">Let’s make a game!</text:h>
+   <text:p text:style-name="P39">It of course, would be a downer if all we did after setting up your ideal development environment culminated in making a program that only prints the same line over and over. Let’s work on creating another classic introductory learning program, the number guessing game<text:note text:id="ftn2" text:note-class="footnote"><text:note-citation>2</text:note-citation><text:note-body>
+      <text:p text:style-name="P67">Adapted from code at https://www.geeksforgeeks.org/number-guessing-game-in-python/</text:p></text:note-body></text:note>. <text:span text:style-name="T35">There is a lot more code to work with, as you can see in </text:span><text:span text:style-name="T35"><text:sequence-ref text:reference-format="category-and-value" text:ref-name="refCode1">Code 2</text:sequence-ref></text:span><text:span text:style-name="T35">, but don’t worry, we will spend some time explaining how every single line fits.</text:span></text:p>
+   <text:p text:style-name="P40"/>
+   <text:p text:style-name="P112"/>
+   <text:p text:style-name="P112">For the introductory part of this exercise, we will be using VS Code to script our programs. Feel free to experiment with other IDEs during this exercise if you want to try something else!</text:p>
+   <text:p text:style-name="P100"><text:span text:style-name="T36">First lets write down what we want our game to do</text:span>:</text:p>
+   <text:list xml:id="list2391560309" text:style-name="L7">
+    <text:list-item>
+     <text:p text:style-name="P101">Randomly select a number between 1 and 100.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P101"><text:bookmark-start text:name="__RefNumPara__684_2518079853"/>Ask the <text:span text:style-name="T36">player</text:span> to input their guess in that range.<text:bookmark-end text:name="__RefNumPara__684_2518079853"/></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P104">Tells the player whether their guess is too low, or too high, and repeats step <text:bookmark-ref text:reference-format="number" text:ref-name="__RefNumPara__684_2518079853">2</text:bookmark-ref>.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P104">When the player makes a correct guess, congratulate the player and ends the game.</text:p>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P100">We start of with a line that will make your game convenient to execute on Unix-based OSes, like Ubuntu or the MacOS, without having to prepend <text:span text:style-name="Code">python</text:span> before the name of your script file. <text:span text:style-name="T36">The following command allows you to run the program directly from the terminal without having to load up your IDE</text:span>:</text:p>
+   <text:p text:style-name="P72">#!/usr/bin/env python</text:p>
+   <text:p text:style-name="P100">You may find variations of this line online. We have chosen this one as it automatically selects the default Python interpreter in your Unix-base OS. <text:span text:style-name="T36">On Windows, you will still need to directly reference the Python interpreter first outside of the IDE.</text:span></text:p>
+   <text:p text:style-name="P100">Next, we need <text:span text:style-name="T36">a way to generate random numbers. Rather than code that, we can save time and effort by reusing code that has already been written and made available in Python, called modules</text:span>. <text:span text:style-name="T36">We can import the module responsible for random number generation with the line:</text:span></text:p>
+   <text:p text:style-name="P72">import random</text:p>
+   <text:p text:style-name="P105">Now let’s define our game function, which we are calling the main function:</text:p>
+   <text:p text:style-name="P72">def main():</text:p>
+   <text:p text:style-name="P105">Although we are technically only running one function in total, and you can technically rewrite the code here without invoking a function, it’s good practice to do so as you build your program, as you can then conveniently borrow code previously written without copying wholesale the entire code redundantly. Think of it as creating your own module to import!</text:p>
+   <text:p text:style-name="P105">Next, a one-line docstring describing the function we are about to write:</text:p>
+   <text:p text:style-name="P72"><text:s text:c="4"/>&quot;&quot;&quot;Start a number guessing game between 1 – 100.&quot;&quot;&quot;</text:p>
+   <text:p text:style-name="P105">We first write a line welcoming the player to the game. Substitute the message with something else by replacing the string between the double quotes:</text:p>
+   <text:p text:style-name="P72"><text:s text:c="4"/>print(&quot;Guess the number!&quot;)</text:p>
+   <text:p text:style-name="P105">A random number between 1 and 100 can be chosen via the following line:</text:p>
+   <text:p text:style-name="P72"><text:s text:c="4"/>x = random.randint(1, 100)</text:p>
+   <text:p text:style-name="P103"><text:span text:style-name="T36">First, we initialise a variable, </text:span><text:span text:style-name="Code"><text:span text:style-name="T36">x</text:span></text:span><text:span text:style-name="T36">, and assign it a random number </text:span><text:span text:style-name="T37">from the </text:span><text:span text:style-name="Code"><text:span text:style-name="T37">random</text:span></text:span><text:span text:style-name="T37"> module </text:span><text:span text:style-name="T36">using a </text:span><text:span text:style-name="T37">method</text:span><text:span text:style-name="T36"> </text:span><text:span text:style-name="T37">found within it called </text:span><text:span text:style-name="Code"><text:span text:style-name="T37">randint</text:span></text:span><text:span text:style-name="T37">, which you may correctly guess stands for “random </text:span><text:soft-page-break/><text:span text:style-name="T37">integer”. VS Code’s Python extension by default allows you to see the correct syntax</text:span><text:span text:style-name="T37"><text:note text:id="ftn0" text:note-class="footnote"><text:note-citation>3</text:note-citation><text:note-body>
+       <text:p text:style-name="Footnote"><text:span text:style-name="Code">def randint(self, a: int, b: int)</text:span></text:p></text:note-body></text:note></text:span><text:span text:style-name="T37"> to fill out the information we want, which is to set a range of between 1 to 100. Feel free to tweak the numbers if you want to make the range larger or smaller.</text:span></text:p>
+   <text:p text:style-name="P106">Next, we need to initialise a blank variable that is ready to receive our player input. Let’s call this variable <text:span text:style-name="Code">guess</text:span>, and set the value to <text:span text:style-name="Code">None</text:span>.</text:p>
+   <text:p text:style-name="P72"><text:s text:c="4"/>guess = None</text:p>
+   <text:p text:style-name="P106">Now let’s define a while loop so the game doesn’t end even if the player makes a wrong guess:</text:p>
+   <text:p text:style-name="P72"><text:s text:c="4"/>while x != guess:</text:p>
+   <text:p text:style-name="P107">The <text:span text:style-name="Code">while</text:span> command starts the loop, and next we define the logical test to keep the game running as long as the player enters the wrong number. The symbols “<text:span text:style-name="Code">!=</text:span>” when combined mean “not equal to”. So we can read the whole line as, “restart from the beginning of the while loop as long as the player’s guess does not equal the random number generated by the game.”</text:p>
+   <text:p text:style-name="P107">Next we will use the guess variable we initialised earlier to fill in a number, and leave explicit instructions for the player:</text:p>
+   <text:p text:style-name="P72"><text:s text:c="8"/>guess = int(input(&quot;Pick a number between 1 <text:span text:style-name="T38">to </text:span>100: &quot;))</text:p>
+   <text:p text:style-name="P111"><text:span text:style-name="T39">The int command tells Python to convert the input into an integer. The </text:span><text:span text:style-name="Code"><text:span text:style-name="T39">input</text:span></text:span><text:span text:style-name="T39"> function comes with a </text:span><text:span text:style-name="Code"><text:span text:style-name="T39">prompt</text:span></text:span><text:span text:style-name="T39"> parameter, which allows us to set a message for the user before the input. Change the value in the double-quotes to personalise your code.</text:span></text:p>
+   <text:p text:style-name="P111"><text:span text:style-name="T39">The next code chunk sets up the logical test for each of the three scenarios that are possible if the use inputs a number between 1 and 100.</text:span></text:p>
+   <text:list xml:id="list1144970435" text:style-name="L8">
+    <text:list-item>
+     <text:p text:style-name="P109">The number is correct.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P109">The number is too small.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P109">The number is too big.</text:p>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P72"><text:s text:c="8"/>if x == guess:</text:p>
+   <text:p text:style-name="P72"><text:s text:c="12"/>print(&quot;You genius!&quot;)</text:p>
+   <text:p text:style-name="P72"><text:s text:c="12"/>break</text:p>
+   <text:p text:style-name="P111"><text:span text:style-name="T39">Because </text:span><text:span text:style-name="Code"><text:span text:style-name="T39">if</text:span></text:span><text:span text:style-name="T39"> is one indent to the right of the </text:span><text:span text:style-name="Code"><text:span text:style-name="T39">while</text:span></text:span><text:span text:style-name="T39"> function above, it will follow the lead of our </text:span><text:span text:style-name="Code"><text:span text:style-name="T39">while</text:span></text:span><text:span text:style-name="T39"> statement’s setup. This means it will also continue to print the output “You genius!” as long as your guess is the same as the random number generated.</text:span></text:p>
+   <text:p text:style-name="P111"><text:span text:style-name="T39">We therefore add the </text:span><text:span text:style-name="Code"><text:span text:style-name="T39">break</text:span></text:span><text:span text:style-name="T39"> statement to end the while loop.</text:span></text:p>
+   <text:p text:style-name="P111"><text:span text:style-name="T39">The next blocks of code are </text:span><text:span text:style-name="Code"><text:span text:style-name="T39">elif</text:span></text:span><text:span text:style-name="T39"> statements. It is as you may have guessed, a conjugation of the </text:span><text:span text:style-name="Code"><text:span text:style-name="T39">else</text:span></text:span><text:span text:style-name="T39"> and </text:span><text:span text:style-name="Code"><text:span text:style-name="T39">if</text:span></text:span><text:span text:style-name="T39"> statements. If our game only had two possible outcomes, for example whether the number we chose matches the random number, and our outcome is either “You got it right” and </text:span><text:soft-page-break/><text:span text:style-name="T39">“Sorry try again”, then we could set up our game using only the </text:span><text:span text:style-name="Code"><text:span text:style-name="T39">else</text:span></text:span><text:span text:style-name="T39"> statement. Since we have decided as part of our game design to guide the players to the correct answer, we use </text:span><text:span text:style-name="Code"><text:span text:style-name="T39">elif</text:span></text:span><text:span text:style-name="T39"> to make the function evaluate multiple expressions instead.</text:span></text:p>
+   <text:p text:style-name="P72"><text:s text:c="8"/>elif x &gt; guess:</text:p>
+   <text:p text:style-name="P72"><text:s text:c="12"/>print(&quot;Try a bigger number.&quot;)</text:p>
+   <text:p text:style-name="P72"><text:s text:c="8"/>elif x &lt; guess:</text:p>
+   <text:p text:style-name="P72"><text:s text:c="12"/>print(&quot;Try a smaller number.&quot;)</text:p>
+   <text:p text:style-name="P108">You should be familiar with how these statements work now. Try forming a sentence explaining how these <text:span text:style-name="Code">elif</text:span> lines work.</text:p>
+   <text:p text:style-name="P108">We finally end the script by invoking the function we created so it runs after the code is fed through the Python interpreter.</text:p>
+   <text:p text:style-name="P71">main()</text:p>
+   <text:p text:style-name="P108">Test your understanding by trying to modify the code above. Here are some suggestions:</text:p>
+   <text:list xml:id="list2491543775" text:style-name="L9">
+    <text:list-item>
+     <text:p text:style-name="P110">Modify the code to use <text:span text:style-name="Code">else</text:span> instead of <text:span text:style-name="Code">elif</text:span>.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P110">Lookup the <text:span text:style-name="Code">random</text:span> module and its methods. Can you change your randomly generated variable to something else? What other parameters did you modify?</text:p>
     </text:list-item>
    </text:list>
   </office:text>
