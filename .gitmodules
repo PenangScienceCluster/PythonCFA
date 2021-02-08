@@ -1,3 +1,6 @@
 [submodule "resources/open-iconic"]
 	path = resources/open-iconic
 	url = https://github.com/iconic/open-iconic.git
+[submodule "resources/bookletify"]
+	path = resources/bookletify
+	url = https://gitlab.com/wieke/bookletify.git
