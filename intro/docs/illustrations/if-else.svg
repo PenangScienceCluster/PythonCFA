@@ -14,7 +14,7 @@
    id="svg8"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="if-else.svg"
-   inkscape:export-filename="/home/rewarp/GTSS/Penang Science Cluster/PythonCFA/local-master/intro/docs/illustrations/while-if-ifelse.png"
+   inkscape:export-filename="/home/rewarp/GTSS/Penang Science Cluster/PythonCFA/local-master/intro/docs/illustrations/if-else.png"
    inkscape:export-xdpi="304.27802"
    inkscape:export-ydpi="304.27802">
   <defs
@@ -150,7 +150,7 @@
        id="g991"
        transform="translate(7.9456375,-6.455834)">
       <path
-         style="fill:#0000ff;stroke:#0000ff;stroke-width:0.83401;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.66802, 0.83401;stroke-dashoffset:0;stroke-opacity:1"
+         style="fill:#000000;stroke:#000000;stroke-width:0.83401;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.66802, 0.83401000000000003;stroke-dashoffset:0;stroke-opacity:1"
          d="M 99.423521,59.343088 V 250.56858"
          id="path1126"
          sodipodi:nodetypes="cc" />
