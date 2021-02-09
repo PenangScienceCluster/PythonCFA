@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2021-01-14T23:34:57.594897546</meta:creation-date><meta:generator>LibreOffice/7.0.4.2$Linux_X86_64 LibreOffice_project/00$Build-2</meta:generator><dc:date>2021-02-08T17:22:49.915162924</dc:date><meta:editing-duration>PT4H36M23S</meta:editing-duration><meta:editing-cycles>44</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="3" meta:object-count="0" meta:page-count="14" meta:paragraph-count="215" meta:word-count="3896" meta:character-count="22933" meta:non-whitespace-character-count="19035"/></office:meta>
+ <office:meta><meta:creation-date>2021-01-14T23:34:57.594897546</meta:creation-date><meta:generator>LibreOffice/7.0.4.2$Linux_X86_64 LibreOffice_project/00$Build-2</meta:generator><dc:date>2021-02-09T12:33:14.857692552</dc:date><meta:editing-duration>PT4H36M48S</meta:editing-duration><meta:editing-cycles>45</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="3" meta:object-count="0" meta:page-count="14" meta:paragraph-count="216" meta:word-count="3894" meta:character-count="22881" meta:non-whitespace-character-count="18987"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">271514</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">64682</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">45655</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">21408</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">18715</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">10056</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">31140</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">312210</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">4703</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">67276</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">271514</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">45653</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">292920</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">64682</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">18713</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">74736</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -94,7 +94,7 @@
    </config:config-item-map-indexed>
    <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
    <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">3051351</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">3165563</config:config-item>
    <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
    <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
@@ -158,7 +158,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="3mm" draw:shadow-offset-y="3mm" draw:start-line-spacing-horizontal="2.83mm" draw:start-line-spacing-vertical="2.83mm" draw:end-line-spacing-horizontal="2.83mm" draw:end-line-spacing-vertical="2.83mm" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="GB" style:letter-kerning="true" style:font-name-asian="Noto Sans SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
@@ -652,103 +652,97 @@
   <style:style style:name="P90" style:family="paragraph" style:parent-style-name="Code" style:list-style-name="L2">
    <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="monospace" officeooo:paragraph-rsid="0009145e" fo:background-color="#ffffff"/>
   </style:style>
-  <style:style style:name="P91" style:family="paragraph" style:parent-style-name="Code">
-   <style:text-properties officeooo:paragraph-rsid="0021b743"/>
-  </style:style>
-  <style:style style:name="P92" style:family="paragraph" style:parent-style-name="Heading_20_1" style:list-style-name="">
+  <style:style style:name="P91" style:family="paragraph" style:parent-style-name="Heading_20_1" style:list-style-name="">
    <style:text-properties officeooo:rsid="0013293d" officeooo:paragraph-rsid="0000a56c"/>
   </style:style>
-  <style:style style:name="P93" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P92" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:text-properties officeooo:rsid="0001b8bd" officeooo:paragraph-rsid="0001b8bd"/>
   </style:style>
-  <style:style style:name="P94" style:family="paragraph" style:parent-style-name="Heading_20_1" style:list-style-name="" style:master-page-name="">
+  <style:style style:name="P93" style:family="paragraph" style:parent-style-name="Heading_20_1" style:list-style-name="" style:master-page-name="">
    <style:paragraph-properties style:page-number="auto"/>
    <style:text-properties officeooo:rsid="0013293d" officeooo:paragraph-rsid="0000a56c"/>
   </style:style>
-  <style:style style:name="P95" style:family="paragraph" style:parent-style-name="Heading_20_1" style:master-page-name="Standard">
+  <style:style style:name="P94" style:family="paragraph" style:parent-style-name="Heading_20_1" style:master-page-name="Standard">
    <style:paragraph-properties style:page-number="auto"/>
    <style:text-properties officeooo:rsid="0013293d" officeooo:paragraph-rsid="0000a56c"/>
+  </style:style>
+  <style:style style:name="P95" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="0001b8bd" officeooo:paragraph-rsid="0001b8bd"/>
   </style:style>
   <style:style style:name="P96" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="0001b8bd" officeooo:paragraph-rsid="0001b8bd"/>
+   <style:text-properties officeooo:rsid="0005c1d8" officeooo:paragraph-rsid="0005c1d8"/>
   </style:style>
   <style:style style:name="P97" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="0005c1d8" officeooo:paragraph-rsid="0005c1d8"/>
+   <style:text-properties officeooo:rsid="000bd49f" officeooo:paragraph-rsid="000bd49f"/>
   </style:style>
   <style:style style:name="P98" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="000bd49f" officeooo:paragraph-rsid="000bd49f"/>
-  </style:style>
-  <style:style style:name="P99" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:rsid="002560c3" officeooo:paragraph-rsid="002560c3"/>
   </style:style>
-  <style:style style:name="P100" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P99" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:rsid="0018f0f3" officeooo:paragraph-rsid="0018f0f3"/>
   </style:style>
-  <style:style style:name="P101" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P100" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties officeooo:rsid="0002aab3" officeooo:paragraph-rsid="0002aab3"/>
   </style:style>
-  <style:style style:name="P102" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P101" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties officeooo:rsid="00052f75" officeooo:paragraph-rsid="00052f75"/>
   </style:style>
-  <style:style style:name="P103" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P102" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties officeooo:rsid="000bd49f" officeooo:paragraph-rsid="000bd49f"/>
   </style:style>
-  <style:style style:name="P104" style:family="paragraph" style:parent-style-name="Output" style:list-style-name="L3"/>
-  <style:style style:name="P105" style:family="paragraph" style:parent-style-name="Output" style:list-style-name="L4">
+  <style:style style:name="P103" style:family="paragraph" style:parent-style-name="Output" style:list-style-name="L3"/>
+  <style:style style:name="P104" style:family="paragraph" style:parent-style-name="Output" style:list-style-name="L4">
    <style:text-properties officeooo:rsid="000f8a35" officeooo:paragraph-rsid="000f8a35"/>
   </style:style>
-  <style:style style:name="P106" style:family="paragraph" style:parent-style-name="Output" style:list-style-name="L5"/>
-  <style:style style:name="P107" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+  <style:style style:name="P105" style:family="paragraph" style:parent-style-name="Output" style:list-style-name="L5"/>
+  <style:style style:name="P106" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
    <style:text-properties officeooo:rsid="0000a56c" officeooo:paragraph-rsid="0000a56c"/>
   </style:style>
-  <style:style style:name="P108" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2"/>
-  <style:style style:name="P109" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+  <style:style style:name="P107" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2"/>
+  <style:style style:name="P108" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
    <style:text-properties officeooo:rsid="0005c1d8" officeooo:paragraph-rsid="0005c1d8"/>
   </style:style>
-  <style:style style:name="P110" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+  <style:style style:name="P109" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
    <style:text-properties officeooo:rsid="0009145e" officeooo:paragraph-rsid="0009145e"/>
   </style:style>
-  <style:style style:name="P111" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
+  <style:style style:name="P110" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
    <style:text-properties officeooo:paragraph-rsid="0009145e"/>
   </style:style>
-  <style:style style:name="P112" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
+  <style:style style:name="P111" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
    <style:text-properties officeooo:rsid="0007a730" officeooo:paragraph-rsid="0009145e"/>
   </style:style>
-  <style:style style:name="P113" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
+  <style:style style:name="P112" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
    <style:text-properties officeooo:rsid="00099e9f" officeooo:paragraph-rsid="00099e9f"/>
   </style:style>
-  <style:style style:name="P114" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
+  <style:style style:name="P113" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
    <style:text-properties officeooo:rsid="00094770" officeooo:paragraph-rsid="00094770"/>
   </style:style>
-  <style:style style:name="P115" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
+  <style:style style:name="P114" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
    <style:text-properties officeooo:rsid="000f8a35" officeooo:paragraph-rsid="000f8a35"/>
   </style:style>
-  <style:style style:name="P116" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
+  <style:style style:name="P115" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
    <style:text-properties officeooo:rsid="001118fc" officeooo:paragraph-rsid="001118fc"/>
   </style:style>
-  <style:style style:name="P117" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L6">
+  <style:style style:name="P116" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L6">
    <style:text-properties officeooo:rsid="000af454" officeooo:paragraph-rsid="000af454"/>
   </style:style>
+  <style:style style:name="P117" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L7">
+   <style:text-properties officeooo:rsid="0021b743" officeooo:paragraph-rsid="0021b743"/>
+  </style:style>
   <style:style style:name="P118" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L7">
-   <style:text-properties officeooo:rsid="0021b743" officeooo:paragraph-rsid="0021b743"/>
-  </style:style>
-  <style:style style:name="P119" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="0021b743" officeooo:paragraph-rsid="0021b743"/>
-  </style:style>
-  <style:style style:name="P120" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L7">
    <style:text-properties officeooo:rsid="00222aad" officeooo:paragraph-rsid="00222aad"/>
   </style:style>
-  <style:style style:name="P121" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L8">
+  <style:style style:name="P119" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L8">
    <style:text-properties officeooo:rsid="002497cb" officeooo:paragraph-rsid="002497cb"/>
   </style:style>
-  <style:style style:name="P122" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L9">
+  <style:style style:name="P120" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L9">
    <style:text-properties officeooo:rsid="002497cb" officeooo:paragraph-rsid="002497cb"/>
   </style:style>
-  <style:style style:name="P123" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="Fullpage_20_Figures">
+  <style:style style:name="P121" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="Fullpage_20_Figures">
    <style:paragraph-properties style:page-number="auto"/>
    <style:text-properties officeooo:rsid="002497cb" officeooo:paragraph-rsid="002497cb"/>
   </style:style>
-  <style:style style:name="P124" style:family="paragraph">
+  <style:style style:name="P122" style:family="paragraph">
    <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
    <style:text-properties style:font-name="Liberation Mono" fo:font-size="6pt" style:font-size-asian="6pt" style:font-size-complex="6pt"/>
@@ -910,16 +904,16 @@
    <style:graphic-properties style:vertical-pos="top" style:vertical-rel="paragraph-content" style:horizontal-pos="center" style:horizontal-rel="paragraph" loext:rel-width-rel="paragraph"/>
   </style:style>
   <style:style style:name="fr3" style:family="graphic" style:parent-style-name="Frame">
-   <style:graphic-properties style:vertical-pos="top" style:vertical-rel="page-content" style:horizontal-pos="center" style:horizontal-rel="page-content" draw:wrap-influence-on-position="once-concurrent" loext:allow-overlap="true" loext:rel-width-rel="paragraph"/>
+   <style:graphic-properties fo:margin-left="0mm" fo:margin-right="0mm" fo:margin-top="0mm" fo:margin-bottom="0mm" style:run-through="foreground" style:wrap="run-through" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="bottom" style:vertical-rel="page-content" style:horizontal-pos="center" style:horizontal-rel="page-content" fo:padding="0mm" fo:border="none"/>
   </style:style>
   <style:style style:name="fr4" style:family="graphic" style:parent-style-name="Frame">
-   <style:graphic-properties style:run-through="foreground" style:wrap="parallel" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="top" style:vertical-rel="page-content" style:horizontal-pos="center" style:horizontal-rel="page" loext:rel-width-rel="paragraph"/>
-  </style:style>
-  <style:style style:name="fr5" style:family="graphic" style:parent-style-name="Frame">
    <style:graphic-properties style:vertical-pos="top" style:vertical-rel="page-content" style:horizontal-pos="center" style:horizontal-rel="page-content"/>
   </style:style>
+  <style:style style:name="fr5" style:family="graphic" style:parent-style-name="Frame">
+   <style:graphic-properties style:run-through="foreground" style:wrap="parallel" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="top" style:vertical-rel="page-content" style:horizontal-pos="center" style:horizontal-rel="page" loext:rel-width-rel="paragraph"/>
+  </style:style>
   <style:style style:name="fr6" style:family="graphic" style:parent-style-name="Frame">
-   <style:graphic-properties fo:margin-left="0mm" fo:margin-right="0mm" fo:margin-top="0mm" fo:margin-bottom="0mm" style:run-through="foreground" style:wrap="run-through" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="bottom" style:vertical-rel="page-content" style:horizontal-pos="center" style:horizontal-rel="page-content" fo:padding="0mm" fo:border="none"/>
+   <style:graphic-properties style:vertical-pos="top" style:vertical-rel="page-content" style:horizontal-pos="center" style:horizontal-rel="page-content" draw:wrap-influence-on-position="once-concurrent" loext:allow-overlap="true" loext:rel-width-rel="paragraph"/>
   </style:style>
   <style:style style:name="fr7" style:family="graphic" style:parent-style-name="Graphics">
    <style:graphic-properties fo:margin-left="0mm" fo:margin-right="0mm" fo:margin-top="0mm" fo:margin-bottom="0mm" style:run-through="foreground" style:wrap="none" style:vertical-pos="top" style:vertical-rel="paragraph-content" style:horizontal-pos="center" style:horizontal-rel="paragraph-content" fo:padding="0mm" fo:border="none" style:shadow="none" draw:shadow-opacity="100%" style:mirror="none" fo:clip="rect(0mm, 0mm, 0mm, 0mm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard" loext:rel-width-rel="paragraph"/>
@@ -1494,343 +1488,53 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Code"/>
-   </text:sequence-decls><draw:frame draw:style-name="fr3" draw:name="Frame3" text:anchor-type="page" text:anchor-page-number="7" svg:width="154.71mm" style:rel-width="91%" draw:z-index="1">
-    <draw:text-box fo:min-height="87.12mm">
-     <text:p text:style-name="Figure"><draw:frame draw:style-name="fr7" draw:name="Image1" text:anchor-type="paragraph" svg:width="154.75mm" style:rel-width="100%" svg:height="87.24mm" style:rel-height="scale" draw:z-index="2"><draw:image draw:mime-type="image/png">
-        <office:binary-data>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
-         RU5ErkJggg==
-        </office:binary-data>
-       </draw:image>
-      </draw:frame>Figure <text:sequence text:ref-name="refFigure1" text:name="Figure" text:formula="ooow:Figure+1" style:num-format="1">1</text:sequence>: A visual <text:span text:style-name="T41">metaphor</text:span> of the print command. <text:span text:style-name="T41">Like taking a photo, and seeing your portrait, the print command simply outputs anything that you feed into it.</text:span></text:p>
+   </text:sequence-decls><draw:frame draw:style-name="fr3" draw:name="Frame6" text:anchor-type="page" text:anchor-page-number="1" svg:width="170.02mm" draw:z-index="8">
+    <draw:text-box fo:min-height="74.86mm">
+     <text:p text:style-name="P87"><draw:frame text:anchor-type="as-char" draw:z-index="9" draw:name="Shape1_0" draw:style-name="gr1" draw:text-style-name="P122" svg:width="170.01mm" svg:height="91.32mm">
+       <draw:text-box>
+        <text:p><text:span text:style-name="T4">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text:span></text:p>
+        <text:p><text:span text:style-name="T4">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text:span></text:p>
+        <text:p><text:span text:style-name="T4">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text:span></text:p>
+        <text:p><text:span text:style-name="T4">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@QQQQQQ@@@@@@@@@@@@@</text:span></text:p>
+        <text:p><text:span text:style-name="T4">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@QQ@@@@@QQQ@QQQQQQB#QB#8Km33eeeoxvemmumB@@@@@@@@@@@</text:span></text:p>
+        <text:p><text:span text:style-name="T4">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Q@@Q@QQQQQQQ#0WBBgNQQQQQQQQQQ#QBQQQgFc|LzzL|&gt;/eRQQQQQQ@QQQQ0QN8Q@Q@@Q@@@@@@</text:span></text:p>
+        <text:p><text:span text:style-name="T4">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@QQQQ#QR8B#d0QQ%Qg0Q%DQQBQQQQQQ@QQQQKKmyg0qm9QNpox?ivfepaQ@@@Q@@@QQQQQQQQQBQQQQ###QQQ@@</text:span></text:p>
+        <text:p><text:span text:style-name="T4">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@QQQ#gNOdNdNB6BQqg#D#gNQQQQQQNdDKm3o{zc;?^:!QQQNKw%#QQ%iDQ@QN@QQBQQQQQQQQQg0#NWNBDgpkXdqA@@</text:span></text:p>
+        <text:p><text:span text:style-name="T4">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@QQBQQN%DWKNNAQQWQQgBQ#88#0DKjL&gt;=?|r=|r;&gt;\^tja6@@@K=:oB@@@c%Q#QgQ#RKgg%0DRqkRf\vfslzde3eadoX@@</text:span></text:p>
+        <text:p><text:span text:style-name="T4">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@QQ8R0gW0ddBWBBQQBQ%$Xoti\&gt;r&gt;?;^!!!::;/39R#Q@@QQB#6@@Qe%Q@@@QugKw6f{kXpCay|=|:!\|,,,,;&gt;\7{ezs^f@@</text:span></text:p>
+        <text:p><text:span text:style-name="T4">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@QQQB8R8O0%WW#N66afL\&gt;!^+^^:!:::~&apos;:^?zuNQQ@@@@@@@BQQQQgg@@@@@QgXosv|?l\/r!??;:~~:|:!:,!;i:~!v/:\?#@@</text:span></text:p>
+        <text:p><text:span text:style-name="T4">@@@@@@@@@@@@@@@@@@@@@@@@@@@@QQQQQBNgDDDNDQK|:,,!!!^!:!:::~:!La9dQQ@@@@Q@@@@@@@@@R0BOx=!?xNN6az\ci;!+?!!^:,.:&quot;&quot;:!,,&apos;&apos;!!,&apos;&apos;&apos;?,:tW@@@</text:span></text:p>
+        <text:p><text:span text:style-name="T4">@@@@@@@@@@@@@@@@@@@@@@@@@gamNQQQQg#dW%QQBQ^&apos;:!:;^:::,!|fd#Q@@Q@Q@@Q@@@@@Q@@@@QQOcr,` <text:s/>``,aFvxclc^,:&apos; -,!:` ``&apos;:````.~```-::&quot;xQ@@@@</text:span></text:p>
+        <text:p><text:span text:style-name="T4">@@@@@@@@@@@@@@@@@@@@@@QKv|oNQQQBQ#D00W#QQQ!::~~::&apos;``F#NQQQQKBQ@#QQQQQQ@@QQQKkC!`` `` ``&apos;|iL|||:::&apos;. <text:s text:c="2"/>`&apos;` ```&apos;```-&apos;:&apos;&apos;~^z99Q@@@@@@</text:span></text:p>
+        <text:p><text:span text:style-name="T4">@@@@@@@@@@@@@@@@@@@@Qmv|\D##QQQQN#D%KKNNQQd.``&apos;..`:o6BQeeO##Q0NBQN%gNBQ6m\&apos;`` <text:s/>``` <text:s text:c="2"/>`:ux&gt;|;:.``-,.-.&apos;&apos;-.,&apos;,,:,,:!!:&gt;Lidg@@@@@@@@@</text:span></text:p>
+        <text:p><text:span text:style-name="T4">@@@@@@@@@@@@@@@@@@Nol\\CD#g%BQB#0g0KX0RN#QRc|,&apos;` ,KgQQQQQDKgkRO6X6j/|L;-` `` <text:s/>```-`.:r|i\!:~,,,,&apos;&apos;.``&apos;-`-&apos;.&apos;,~~:;!?xuqQ@@@@@@@@@@@</text:span></text:p>
+        <text:p><text:span text:style-name="T4">@@@@@@@@@@@@@@@@gov\?X#B#0#%0#NN%KOwXKewWWKQBd0ppQQQQ8QQgQQKeu\cr.-`-,.``&apos;~``-,;vsv7/!!;&quot;,,&apos;,.```&apos;.&apos;&apos;&apos;&apos;~::;&gt;|v3w9B@@@@@@@@@@@@@@@@</text:span></text:p>
+        <text:p><text:span text:style-name="T4">@@@@@@@@@@@@@@Kax7{K0QB#WRN60DgRqApmOeaE%%DQ#pQdN6?\F\tFzkL!&quot;&quot;&apos;.,.``&apos;&apos;-:fXkF}aji^:^!~&apos;&apos;,&apos;&apos;-``&apos;&apos;..&apos;,&quot;:=\lxjXkWQQ@@@@@@@@@@@@@@@@@@@</text:span></text:p>
+        <text:p><text:span text:style-name="T4">@@@@@@@@@@@Q$afFEOQQQ#W#ddDpdKKXKqEokkXkg#kBgqmo!.` ` <text:s/>`````&apos;s$p%Dd#Q$8Q#dyv\/|r::!:,.&apos;&apos;.-&apos;&apos;&apos;,:!^|vFz7u6g##Q@@@@@@@@@@@@@@@@@@@@@@</text:span></text:p>
+        <text:p><text:span text:style-name="T4">@@@@@@@@@#kojeKNBQQN#DDdq8pdp%mU6XKpp#NDBd}?^&apos;-` <text:s/>` `--`&apos;~^!~``.-,^0Ddkvi/;!:&apos;&apos;..&apos;,~:!^=\/|vujomXpgpdQ@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text:span></text:p>
+        <text:p><text:span text:style-name="T4">@@@@@@@#meeXpQQQQQg#WgDOpDeR6DkDDd00dpu\:&apos;`..``&apos;-``-``&apos;&apos;-:&gt;,&apos;^ft7&gt;\i=^!&apos;,&apos;&apos;.&apos;:;|cci\|Lzvzyp#R0QQ@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text:span></text:p>
+        <text:p><text:span text:style-name="T4">@@@@@N6mem#QQQQQ0%dDKddkOp}kckp8D},-`.``-``&apos;.`-.&apos;..,-`,Ceo7\l\;:,&quot;::,,,!riummetL?zyUKRgB@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text:span></text:p>
+        <text:p><text:span text:style-name="T4">@@@#pmEdQNQQBgQK0d9K9ppoemamXmU!,````-``.``&apos;:,,&apos;,&apos;,:::/fm{x|^|+?/z}yXd%0OAyoEkD#Q@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text:span></text:p>
+        <text:p><text:span text:style-name="T4">Q#96qqQQQ#Q#NNddXk6mjy7am6akB9!- <text:s/>``````-```:!!&gt;/^\Lv\?=&gt;L\czF3qdDKU6OgBQQ@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text:span></text:p>
+        <text:p><text:span text:style-name="T4">U$eBBQQ##Q#Nkpmkjew/u6ekk9d%d!`` `` ````-&apos;:;?v|?+;:::!;;^rLvzvfw0QQQ@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text:span></text:p>
+        <text:p><text:span text:style-name="T4">Q#QQQQQBQ#DXk0amoFEymmuaEqQQL``` `` ```&apos;:\&gt;r!!&apos;&apos;&apos;~&quot;,&quot;:!+?\F6#Q@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text:span></text:p>
+        <text:p><text:span text:style-name="T4">QQQQQN%0BQ%ddDEoFcjyeaKdWBR3. ```````&apos;:=r:,&apos;&apos;&apos;.&apos;,:,:+^c60Q@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text:span></text:p>
+        <text:p><text:span text:style-name="T4">QQQQOqeyNQQgKfoofl3cCpp8#c,-` ````` `!^;:.-.&apos;&apos;&apos;,::rFXB@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text:span></text:p>
+        <text:p><text:span text:style-name="T4">N8NK$fymdR0NksFCF|z?zufAa,-`````````-~~,&apos;-.,,&apos;:+\9Q@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text:span></text:p>
+        <text:p><text:span text:style-name="T4">RRDos&gt;^\kBgyaF7zv\zLisjC,``````````.~&apos;`.&apos;&apos;,:!7KB@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text:span></text:p>
+        <text:p><text:span text:style-name="T4">QQRXj^\eeEszv/z\r&gt;L|/3F?&apos;``-`````&apos;&apos;:,`.,,;vqQ@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text:span></text:p>
+        <text:p><text:span text:style-name="T4">q0NXUDaoz}stv|?\v7?&gt;c\=^````````&quot;&apos;&apos;&apos;&apos;,:vdQ@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text:span></text:p>
+        <text:p><text:span text:style-name="T4">&gt;^!/g9jz}a7vv/L\r?r&gt;v{v~````-&apos;&apos;,~&apos;,;LXB@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text:span></text:p>
+        <text:p><text:span text:style-name="T4">&apos;`&quot;WNetF}z+l\+&gt;?/&gt;\s/i^````,;&quot;,::?XQ@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text:span></text:p>
+        <text:p><text:span text:style-name="T4">\o0#UC\c\v?=|?&gt;i??cFac:,!,,~,:/j%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text:span></text:p>
+        <text:p><text:span text:style-name="T4">Q0DXscLLlc/c^7Lvi}c|i^:!:,!!LdQ@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text:span></text:p>
+        <text:p><text:span text:style-name="T4">pXFvi/cc\^^L7vs?:&apos;`-`&apos;&quot;,:/yW@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text:span></text:p>
+       </draw:text-box>
+      </draw:frame></text:p>
+     <text:p text:style-name="P86">Image of python from <text:a xlink:type="simple" xlink:href="https://pixabay.com/photos/snake-ball-python-python-regius-1455223/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://pixabay.com/photos/snake-ball-python-python-regius-1455223/</text:a></text:p>
+     <text:p text:style-name="P83"><text:span text:style-name="T49">Modified with image to ASCII generator from </text:span><text:a xlink:type="simple" xlink:href="https://cloudapps.herokuapp.com/imagetoascii/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T49">https://cloudapps.herokuapp.com/imagetoascii/</text:span></text:a></text:p>
     </draw:text-box>
-   </draw:frame><draw:frame draw:style-name="fr4" draw:name="Frame2" text:anchor-type="page" text:anchor-page-number="10" svg:width="170mm" style:rel-width="100%" draw:z-index="3">
-    <draw:text-box fo:min-height="5.08mm">
-     <text:p text:style-name="Caption">Code <text:sequence text:ref-name="refCode0" text:name="Code" text:formula="ooow:Code+1" style:num-format="1">2</text:sequence>: <text:span text:style-name="T34">What’s the number?</text:span></text:p>
-     <text:p text:style-name="Code">#!/usr/bin/env python</text:p>
-     <text:p text:style-name="Code"/>
-     <text:p text:style-name="Code">import random</text:p>
-     <text:p text:style-name="Code"/>
-     <text:p text:style-name="Code">def main():</text:p>
-     <text:p text:style-name="Code"><text:s text:c="4"/>&quot;&quot;&quot;Start a number guessing game between 1 - 100.&quot;&quot;&quot;</text:p>
-     <text:p text:style-name="Code"><text:s text:c="4"/>print(&quot;Guess the number!&quot;)</text:p>
-     <text:p text:style-name="Code"/>
-     <text:p text:style-name="Code"><text:s text:c="4"/>x = random.randint(1, 100)</text:p>
-     <text:p text:style-name="Code"><text:s text:c="4"/>guess = None</text:p>
-     <text:p text:style-name="Code"/>
-     <text:p text:style-name="Code"><text:s text:c="4"/>while x != guess:</text:p>
-     <text:p text:style-name="Code"/>
-     <text:p text:style-name="Code"><text:s text:c="8"/>guess = int(input(&quot;Pick a number between 1 <text:span text:style-name="T39">to </text:span>100: &quot;))</text:p>
-     <text:p text:style-name="Code"><text:s text:c="8"/></text:p>
-     <text:p text:style-name="Code"><text:s text:c="8"/>if x == guess:</text:p>
-     <text:p text:style-name="Code"><text:s text:c="12"/>print(&quot;You genius!&quot;)</text:p>
-     <text:p text:style-name="Code"><text:s text:c="12"/>break</text:p>
-     <text:p text:style-name="Code"><text:s text:c="8"/>elif x &gt; guess:</text:p>
-     <text:p text:style-name="Code"><text:s text:c="12"/>print(&quot;Try a bigger number.&quot;)</text:p>
-     <text:p text:style-name="Code"><text:s text:c="8"/>elif x &lt; guess:</text:p>
-     <text:p text:style-name="Code"><text:s text:c="12"/>print(&quot;Try a smaller number.&quot;)</text:p>
-     <text:p text:style-name="Code"/>
-     <text:p text:style-name="Code">main()</text:p>
-    </draw:text-box>
-   </draw:frame><draw:frame draw:style-name="fr5" draw:name="Frame4" text:anchor-type="page" text:anchor-page-number="12" svg:width="159.61mm" draw:z-index="4">
+   </draw:frame><draw:frame draw:style-name="fr4" draw:name="Frame4" text:anchor-type="page" text:anchor-page-number="12" svg:width="159.61mm" draw:z-index="4">
     <draw:text-box fo:min-height="97.83mm">
      <text:p text:style-name="Figure"><draw:frame draw:style-name="fr7" draw:name="Image2" text:anchor-type="paragraph" svg:width="159.61mm" style:rel-width="100%" svg:height="97.83mm" style:rel-height="scale" draw:z-index="5"><draw:image draw:mime-type="image/png">
         <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAB3gAAASUCAYAAACFlty7AAAACXBIWXMAAC7LAAAuywEUFd99
@@ -2994,74 +2698,364 @@
          AAAAAElFTkSuQmCC
         </office:binary-data>
        </draw:image>
-      </draw:frame>Figure <text:sequence text:ref-name="refFigure0" text:name="Figure" text:formula="ooow:Figure+1" style:num-format="1">2</text:sequence>: Visual metaphor of an if-else statement. If it&apos;s daytime, your batteries are fully charged and ready for the day. If it&apos;s nigh<text:span text:style-name="T50">t</text:span>-time, you are probably getting ready for bed.</text:p>
+      </draw:frame>Figure <text:sequence text:ref-name="refFigure1" text:name="Figure" text:formula="ooow:Figure+1" style:num-format="1">2</text:sequence>: Visual metaphor of an if-else statement. If it&apos;s daytime, your batteries are fully charged and ready for the day. If it&apos;s nigh<text:span text:style-name="T50">t</text:span>-time, you are probably getting ready for bed.</text:p>
     </draw:text-box>
-   </draw:frame><draw:frame draw:style-name="fr6" draw:name="Frame6" text:anchor-type="page" text:anchor-page-number="1" svg:width="170.02mm" draw:z-index="8">
-    <draw:text-box fo:min-height="74.86mm">
-     <text:p text:style-name="P87"><draw:frame text:anchor-type="as-char" draw:z-index="9" draw:name="Shape1_0" draw:style-name="gr1" draw:text-style-name="P124" svg:width="170.01mm" svg:height="91.32mm">
-       <draw:text-box>
-        <text:p><text:span text:style-name="T4">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text:span></text:p>
-        <text:p><text:span text:style-name="T4">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text:span></text:p>
-        <text:p><text:span text:style-name="T4">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text:span></text:p>
-        <text:p><text:span text:style-name="T4">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@QQQQQQ@@@@@@@@@@@@@</text:span></text:p>
-        <text:p><text:span text:style-name="T4">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@QQ@@@@@QQQ@QQQQQQB#QB#8Km33eeeoxvemmumB@@@@@@@@@@@</text:span></text:p>
-        <text:p><text:span text:style-name="T4">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Q@@Q@QQQQQQQ#0WBBgNQQQQQQQQQQ#QBQQQgFc|LzzL|&gt;/eRQQQQQQ@QQQQ0QN8Q@Q@@Q@@@@@@</text:span></text:p>
-        <text:p><text:span text:style-name="T4">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@QQQQ#QR8B#d0QQ%Qg0Q%DQQBQQQQQQ@QQQQKKmyg0qm9QNpox?ivfepaQ@@@Q@@@QQQQQQQQQBQQQQ###QQQ@@</text:span></text:p>
-        <text:p><text:span text:style-name="T4">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@QQQ#gNOdNdNB6BQqg#D#gNQQQQQQNdDKm3o{zc;?^:!QQQNKw%#QQ%iDQ@QN@QQBQQQQQQQQQg0#NWNBDgpkXdqA@@</text:span></text:p>
-        <text:p><text:span text:style-name="T4">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@QQBQQN%DWKNNAQQWQQgBQ#88#0DKjL&gt;=?|r=|r;&gt;\^tja6@@@K=:oB@@@c%Q#QgQ#RKgg%0DRqkRf\vfslzde3eadoX@@</text:span></text:p>
-        <text:p><text:span text:style-name="T4">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@QQ8R0gW0ddBWBBQQBQ%$Xoti\&gt;r&gt;?;^!!!::;/39R#Q@@QQB#6@@Qe%Q@@@QugKw6f{kXpCay|=|:!\|,,,,;&gt;\7{ezs^f@@</text:span></text:p>
-        <text:p><text:span text:style-name="T4">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@QQQB8R8O0%WW#N66afL\&gt;!^+^^:!:::~&apos;:^?zuNQQ@@@@@@@BQQQQgg@@@@@QgXosv|?l\/r!??;:~~:|:!:,!;i:~!v/:\?#@@</text:span></text:p>
-        <text:p><text:span text:style-name="T4">@@@@@@@@@@@@@@@@@@@@@@@@@@@@QQQQQBNgDDDNDQK|:,,!!!^!:!:::~:!La9dQQ@@@@Q@@@@@@@@@R0BOx=!?xNN6az\ci;!+?!!^:,.:&quot;&quot;:!,,&apos;&apos;!!,&apos;&apos;&apos;?,:tW@@@</text:span></text:p>
-        <text:p><text:span text:style-name="T4">@@@@@@@@@@@@@@@@@@@@@@@@@gamNQQQQg#dW%QQBQ^&apos;:!:;^:::,!|fd#Q@@Q@Q@@Q@@@@@Q@@@@QQOcr,` <text:s/>``,aFvxclc^,:&apos; -,!:` ``&apos;:````.~```-::&quot;xQ@@@@</text:span></text:p>
-        <text:p><text:span text:style-name="T4">@@@@@@@@@@@@@@@@@@@@@@QKv|oNQQQBQ#D00W#QQQ!::~~::&apos;``F#NQQQQKBQ@#QQQQQQ@@QQQKkC!`` `` ``&apos;|iL|||:::&apos;. <text:s text:c="2"/>`&apos;` ```&apos;```-&apos;:&apos;&apos;~^z99Q@@@@@@</text:span></text:p>
-        <text:p><text:span text:style-name="T4">@@@@@@@@@@@@@@@@@@@@Qmv|\D##QQQQN#D%KKNNQQd.``&apos;..`:o6BQeeO##Q0NBQN%gNBQ6m\&apos;`` <text:s/>``` <text:s text:c="2"/>`:ux&gt;|;:.``-,.-.&apos;&apos;-.,&apos;,,:,,:!!:&gt;Lidg@@@@@@@@@</text:span></text:p>
-        <text:p><text:span text:style-name="T4">@@@@@@@@@@@@@@@@@@Nol\\CD#g%BQB#0g0KX0RN#QRc|,&apos;` ,KgQQQQQDKgkRO6X6j/|L;-` `` <text:s/>```-`.:r|i\!:~,,,,&apos;&apos;.``&apos;-`-&apos;.&apos;,~~:;!?xuqQ@@@@@@@@@@@</text:span></text:p>
-        <text:p><text:span text:style-name="T4">@@@@@@@@@@@@@@@@gov\?X#B#0#%0#NN%KOwXKewWWKQBd0ppQQQQ8QQgQQKeu\cr.-`-,.``&apos;~``-,;vsv7/!!;&quot;,,&apos;,.```&apos;.&apos;&apos;&apos;&apos;~::;&gt;|v3w9B@@@@@@@@@@@@@@@@</text:span></text:p>
-        <text:p><text:span text:style-name="T4">@@@@@@@@@@@@@@Kax7{K0QB#WRN60DgRqApmOeaE%%DQ#pQdN6?\F\tFzkL!&quot;&quot;&apos;.,.``&apos;&apos;-:fXkF}aji^:^!~&apos;&apos;,&apos;&apos;-``&apos;&apos;..&apos;,&quot;:=\lxjXkWQQ@@@@@@@@@@@@@@@@@@@</text:span></text:p>
-        <text:p><text:span text:style-name="T4">@@@@@@@@@@@Q$afFEOQQQ#W#ddDpdKKXKqEokkXkg#kBgqmo!.` ` <text:s/>`````&apos;s$p%Dd#Q$8Q#dyv\/|r::!:,.&apos;&apos;.-&apos;&apos;&apos;,:!^|vFz7u6g##Q@@@@@@@@@@@@@@@@@@@@@@</text:span></text:p>
-        <text:p><text:span text:style-name="T4">@@@@@@@@@#kojeKNBQQN#DDdq8pdp%mU6XKpp#NDBd}?^&apos;-` <text:s/>` `--`&apos;~^!~``.-,^0Ddkvi/;!:&apos;&apos;..&apos;,~:!^=\/|vujomXpgpdQ@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text:span></text:p>
-        <text:p><text:span text:style-name="T4">@@@@@@@#meeXpQQQQQg#WgDOpDeR6DkDDd00dpu\:&apos;`..``&apos;-``-``&apos;&apos;-:&gt;,&apos;^ft7&gt;\i=^!&apos;,&apos;&apos;.&apos;:;|cci\|Lzvzyp#R0QQ@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text:span></text:p>
-        <text:p><text:span text:style-name="T4">@@@@@N6mem#QQQQQ0%dDKddkOp}kckp8D},-`.``-``&apos;.`-.&apos;..,-`,Ceo7\l\;:,&quot;::,,,!riummetL?zyUKRgB@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text:span></text:p>
-        <text:p><text:span text:style-name="T4">@@@#pmEdQNQQBgQK0d9K9ppoemamXmU!,````-``.``&apos;:,,&apos;,&apos;,:::/fm{x|^|+?/z}yXd%0OAyoEkD#Q@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text:span></text:p>
-        <text:p><text:span text:style-name="T4">Q#96qqQQQ#Q#NNddXk6mjy7am6akB9!- <text:s/>``````-```:!!&gt;/^\Lv\?=&gt;L\czF3qdDKU6OgBQQ@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text:span></text:p>
-        <text:p><text:span text:style-name="T4">U$eBBQQ##Q#Nkpmkjew/u6ekk9d%d!`` `` ````-&apos;:;?v|?+;:::!;;^rLvzvfw0QQQ@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text:span></text:p>
-        <text:p><text:span text:style-name="T4">Q#QQQQQBQ#DXk0amoFEymmuaEqQQL``` `` ```&apos;:\&gt;r!!&apos;&apos;&apos;~&quot;,&quot;:!+?\F6#Q@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text:span></text:p>
-        <text:p><text:span text:style-name="T4">QQQQQN%0BQ%ddDEoFcjyeaKdWBR3. ```````&apos;:=r:,&apos;&apos;&apos;.&apos;,:,:+^c60Q@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text:span></text:p>
-        <text:p><text:span text:style-name="T4">QQQQOqeyNQQgKfoofl3cCpp8#c,-` ````` `!^;:.-.&apos;&apos;&apos;,::rFXB@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text:span></text:p>
-        <text:p><text:span text:style-name="T4">N8NK$fymdR0NksFCF|z?zufAa,-`````````-~~,&apos;-.,,&apos;:+\9Q@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text:span></text:p>
-        <text:p><text:span text:style-name="T4">RRDos&gt;^\kBgyaF7zv\zLisjC,``````````.~&apos;`.&apos;&apos;,:!7KB@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text:span></text:p>
-        <text:p><text:span text:style-name="T4">QQRXj^\eeEszv/z\r&gt;L|/3F?&apos;``-`````&apos;&apos;:,`.,,;vqQ@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text:span></text:p>
-        <text:p><text:span text:style-name="T4">q0NXUDaoz}stv|?\v7?&gt;c\=^````````&quot;&apos;&apos;&apos;&apos;,:vdQ@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text:span></text:p>
-        <text:p><text:span text:style-name="T4">&gt;^!/g9jz}a7vv/L\r?r&gt;v{v~````-&apos;&apos;,~&apos;,;LXB@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text:span></text:p>
-        <text:p><text:span text:style-name="T4">&apos;`&quot;WNetF}z+l\+&gt;?/&gt;\s/i^````,;&quot;,::?XQ@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text:span></text:p>
-        <text:p><text:span text:style-name="T4">\o0#UC\c\v?=|?&gt;i??cFac:,!,,~,:/j%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text:span></text:p>
-        <text:p><text:span text:style-name="T4">Q0DXscLLlc/c^7Lvi}c|i^:!:,!!LdQ@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text:span></text:p>
-        <text:p><text:span text:style-name="T4">pXFvi/cc\^^L7vs?:&apos;`-`&apos;&quot;,:/yW@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text:span></text:p>
-       </draw:text-box>
-      </draw:frame></text:p>
-     <text:p text:style-name="P86">Image of python from <text:a xlink:type="simple" xlink:href="https://pixabay.com/photos/snake-ball-python-python-regius-1455223/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://pixabay.com/photos/snake-ball-python-python-regius-1455223/</text:a></text:p>
-     <text:p text:style-name="P83"><text:span text:style-name="T49">Modified with image to ASCII generator from </text:span><text:a xlink:type="simple" xlink:href="https://cloudapps.herokuapp.com/imagetoascii/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T49">https://cloudapps.herokuapp.com/imagetoascii/</text:span></text:a></text:p>
+   </draw:frame><draw:frame draw:style-name="fr5" draw:name="Frame2" text:anchor-type="page" text:anchor-page-number="10" svg:width="170mm" style:rel-width="100%" draw:z-index="3">
+    <draw:text-box fo:min-height="5.08mm">
+     <text:p text:style-name="Caption">Code <text:sequence text:ref-name="refCode0" text:name="Code" text:formula="ooow:Code+1" style:num-format="1">2</text:sequence>: <text:span text:style-name="T34">What’s the number?</text:span></text:p>
+     <text:p text:style-name="Code">#!/usr/bin/env python</text:p>
+     <text:p text:style-name="Code"/>
+     <text:p text:style-name="Code">import random</text:p>
+     <text:p text:style-name="Code"/>
+     <text:p text:style-name="Code">def main():</text:p>
+     <text:p text:style-name="Code"><text:s text:c="4"/>&quot;&quot;&quot;Start a number guessing game between 1 - 100.&quot;&quot;&quot;</text:p>
+     <text:p text:style-name="Code"><text:s text:c="4"/>print(&quot;Guess the number!&quot;)</text:p>
+     <text:p text:style-name="Code"/>
+     <text:p text:style-name="Code"><text:s text:c="4"/>x = random.randint(1, 100)</text:p>
+     <text:p text:style-name="Code"><text:s text:c="4"/>guess = None</text:p>
+     <text:p text:style-name="Code"/>
+     <text:p text:style-name="Code"><text:s text:c="4"/>while x != guess:</text:p>
+     <text:p text:style-name="Code"/>
+     <text:p text:style-name="Code"><text:s text:c="8"/>guess = int(input(&quot;Pick a number between 1 <text:span text:style-name="T39">to </text:span>100: &quot;))</text:p>
+     <text:p text:style-name="Code"><text:s text:c="8"/></text:p>
+     <text:p text:style-name="Code"><text:s text:c="8"/>if x == guess:</text:p>
+     <text:p text:style-name="Code"><text:s text:c="12"/>print(&quot;You genius!&quot;)</text:p>
+     <text:p text:style-name="Code"><text:s text:c="12"/>break</text:p>
+     <text:p text:style-name="Code"><text:s text:c="8"/>elif x &gt; guess:</text:p>
+     <text:p text:style-name="Code"><text:s text:c="12"/>print(&quot;Try a bigger number.&quot;)</text:p>
+     <text:p text:style-name="Code"><text:s text:c="8"/>elif x &lt; guess:</text:p>
+     <text:p text:style-name="Code"><text:s text:c="12"/>print(&quot;Try a smaller number.&quot;)</text:p>
+     <text:p text:style-name="Code"/>
+     <text:p text:style-name="Code">main()</text:p>
+    </draw:text-box>
+   </draw:frame><draw:frame draw:style-name="fr6" draw:name="Frame3" text:anchor-type="page" text:anchor-page-number="7" svg:width="154.71mm" style:rel-width="91%" draw:z-index="1">
+    <draw:text-box fo:min-height="87.12mm">
+     <text:p text:style-name="Figure"><draw:frame draw:style-name="fr7" draw:name="Image1" text:anchor-type="paragraph" svg:width="154.75mm" style:rel-width="100%" svg:height="87.24mm" style:rel-height="scale" draw:z-index="2"><draw:image draw:mime-type="image/png">
+        <office:binary-data>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
+         RU5ErkJggg==
+        </office:binary-data>
+       </draw:image>
+      </draw:frame>Figure <text:sequence text:ref-name="refFigure0" text:name="Figure" text:formula="ooow:Figure+1" style:num-format="1">1</text:sequence>: A visual <text:span text:style-name="T41">metaphor</text:span> of the print command. <text:span text:style-name="T41">Like taking a photo, and seeing your portrait, the print command simply outputs anything that you feed into it.</text:span></text:p>
     </draw:text-box>
    </draw:frame>
    <text:p text:style-name="P89">Python</text:p>
    <text:p text:style-name="Subtitle">A Project-based learning approach</text:p>
    <text:p text:style-name="Quotations"><text:span text:style-name="T26">After all, tomorrow can only grow out of today—and if one seeks success tomorrow, the factors of success need to be prepared today</text:span>. --<text:span text:style-name="T25">Errico Malatesta, 1892.</text:span></text:p>
    <text:p text:style-name="P7">Hello and welcome to our introductory Python class. Here’s how we suggest you use this document:</text:p>
-   <text:list xml:id="list3885216349" text:style-name="L1">
+   <text:list xml:id="list2462704731" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P107">This document serves as a guide covering most of the material in class. Use it for your reference if you are stuck anywhere during your tasks.</text:p>
+     <text:p text:style-name="P106">This document serves as a guide covering most of the material in class. Use it for your reference if you are stuck anywhere during your tasks.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P107">The majority of your learning will be done via doing, rather than memorizing. The more you code, the better you will become!</text:p>
+     <text:p text:style-name="P106">The majority of your learning will be done via doing, rather than memorizing. The more you code, the better you will become!</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P107">The notes in here will definitely not be comprehensive! It’s impossible to squeeze the entirety of programming in Python into a single book, let alone a training document like this. You are more than welcomed to use the Internet to look up more tricks and techniques.</text:p>
+     <text:p text:style-name="P106">The notes in here will definitely not be comprehensive! It’s impossible to squeeze the entirety of programming in Python into a single book, let alone a training document like this. You are more than welcomed to use the Internet to look up more tricks and techniques.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P107">Remember to have fun!</text:p>
+     <text:p text:style-name="P106">Remember to have fun!</text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="P94" text:outline-level="1"/>
+   <text:h text:style-name="P93" text:outline-level="1"/>
    <text:table-of-content text:style-name="Sect1" text:protected="true" text:name="Table of Contents1">
     <text:table-of-content-source text:outline-level="10">
      <text:index-title-template text:style-name="Contents_20_Heading">Table of Contents</text:index-title-template>
@@ -3170,13 +3164,14 @@
      <text:p text:style-name="P77"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1352_1090537543" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Let’s make a game!<text:tab/>9</text:a></text:p>
     </text:index-body>
    </text:table-of-content>
-   <text:h text:style-name="P92" text:outline-level="1"/>
-   <text:h text:style-name="P95" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc494_2278608959"/>Font Usage<text:bookmark-end text:name="__RefHeading___Toc494_2278608959"/></text:h>
+   <text:h text:style-name="P91" text:outline-level="1"/>
+   <text:h text:style-name="P94" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc494_2278608959"/>Font Usage<text:bookmark-end text:name="__RefHeading___Toc494_2278608959"/></text:h>
    <text:p text:style-name="P9">Words written in <text:span text:style-name="T2">monospace</text:span> are commands <text:span text:style-name="T12">to be </text:span><text:span text:style-name="T5">typed, </text:span><text:span text:style-name="T22">or references to specific objects like script names or environments</text:span>. <text:span text:style-name="T6">For example:</text:span></text:p>
    <text:p text:style-name="Code">def hello()</text:p>
    <text:p text:style-name="P11">Terminal output will be <text:span text:style-name="T7">grey out monospace</text:span>. For example:</text:p>
-   <text:p text:style-name="Code">ls</text:p>
-   <text:p text:style-name="Output">bin <text:s/>boot <text:s/>dev <text:s/>etc <text:s/>home <text:s/>keybase <text:s/>klauncherXM3425.1.slave-socket <text:s/>lib <text:s/>lib64 <text:s/>mnt <text:s/>opt <text:s/>proc <text:s/>read-write <text:s/>root <text:s/>run <text:s/>sbin <text:s/>selinux <text:s/>srv <text:s/>sys <text:s/>tmp <text:s/>usr <text:s/>var</text:p>
+   <text:p text:style-name="Code">ls /</text:p>
+   <text:p text:style-name="Output">bin <text:s text:c="2"/>dev <text:s/>home <text:s/>lib64 <text:s/>mnt <text:s/>proc <text:s/>run <text:s text:c="2"/>srv <text:s/>tmp <text:s/>var</text:p>
+   <text:p text:style-name="Output">boot <text:s/>etc <text:s/>lib <text:s text:c="2"/>media <text:s/>opt <text:s/>root <text:s/>sbin <text:s/>sys <text:s/>usr</text:p>
    <text:h text:style-name="P63" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc496_2278608959"/>Setting up your development environment<text:bookmark-end text:name="__RefHeading___Toc496_2278608959"/></text:h>
    <text:p text:style-name="P12">Before we start programming, it is very important to set up your development environment. Like having a good workshop, having a proper development environment setup will enable you to program efficiently, and most often correctly. Here, we are going to show you how to set up Anaconda along with your programming IDEs.</text:p>
    <text:p text:style-name="P17">We will be using the latest stable version of Python (3 in this case) unless otherwise stated in this course. Python, like all other programming languages, is being continuously modified and improved in relation to enhancements to the language as implemented by the community, or in response to identified problems with a certain way the coding was done that can only be fixed by changing the syntax of the scripting language itself.</text:p>
@@ -3211,20 +3206,20 @@
    <text:p text:style-name="P18">First, download and run the Windows installer. <text:span text:style-name="T15">Make sure that you are getting the 64-bit edition of Anaconda Individual Edition. </text:span><text:span text:style-name="T23">You may choose to accept all the default settings for the installation.</text:span></text:p>
    <text:h text:style-name="P66" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc506_2278608959"/>Creating your first Anaconda environment<text:bookmark-end text:name="__RefHeading___Toc506_2278608959"/></text:h>
    <text:p text:style-name="P22"><text:span text:style-name="T15">Let’s </text:span><text:span text:style-name="T16">prepare to </text:span><text:span text:style-name="T15">write our first Python program using the Anaconda paradigm </text:span><text:span text:style-name="T16">of development, by setting up an environment first for your project.</text:span></text:p>
-   <text:list xml:id="list782659063" text:style-name="L2">
+   <text:list xml:id="list2126095064" text:style-name="L2">
     <text:list-item>
-     <text:p text:style-name="P109">Launch Anaconda Navigator</text:p>
+     <text:p text:style-name="P108">Launch Anaconda Navigator</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P109">Click on the Environment tab, and click on the Create button.</text:p>
+     <text:p text:style-name="P108">Click on the Environment tab, and click on the Create button.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P109">Name our environment hello_world, and make sure the box for Python is checked. Apply your settings and wait for the environment to be generated.</text:p>
+     <text:p text:style-name="P108">Name our environment hello_world, and make sure the box for Python is checked. Apply your settings and wait for the environment to be generated.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P110">In the terminal, run:</text:p>
+     <text:p text:style-name="P109">In the terminal, run:</text:p>
      <text:p text:style-name="P90">conda info –envs</text:p>
-     <text:p text:style-name="P108">To check and see hello_world is listed as one of the available base environments.</text:p>
+     <text:p text:style-name="P107">To check and see hello_world is listed as one of the available base environments.</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Text_20_body">Note that if you followed the recommended default installation options, the base environment will already be created and selected for you by Anaconda.</text:p>
@@ -3244,79 +3239,79 @@
    <text:p text:style-name="P31"><text:span text:style-name="T24">Installing Spyder </text:span><text:span text:style-name="T28">and Jupyter</text:span><text:span text:style-name="T24"> is as easy as opening the Home tab in Anaconda Navigator, finding </text:span><text:span text:style-name="T28">them</text:span><text:span text:style-name="T24">, and clicking the Install button. </text:span><text:span text:style-name="T28">In fact, they may even be installed by default!</text:span></text:p>
    <text:h text:style-name="P71" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1348_1090537543"/>Hello World!<text:bookmark-end text:name="__RefHeading___Toc1348_1090537543"/></text:h>
    <text:p text:style-name="P51">The “Hello world” and it’s variants are traditional ways to check whether our development environment is ready to go! We do this by asking our program to output a message (also known as printing). If that message can be read, that means you are all set for whatever else that comes next.</text:p>
-   <text:p text:style-name="P51">We provide a visual metaphor of the <text:span text:style-name="Code">print</text:span> command in <text:sequence-ref text:reference-format="category-and-value" text:ref-name="refFigure1">Figure 1</text:sequence-ref>, where taking a photo and seeing its output on your phone as an example. This is how you know your camera and phone works and now you are also ready to be an amateur photographer!</text:p>
+   <text:p text:style-name="P51">We provide a visual metaphor of the <text:span text:style-name="Code">print</text:span> command in <text:sequence-ref text:reference-format="category-and-value" text:ref-name="refFigure0">Figure 1</text:sequence-ref>, where taking a photo and seeing its output on your phone as an example. This is how you know your camera and phone works and now you are also ready to be an amateur photographer!</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc514_2278608959"/>hello_world<text:note text:id="ftn1" text:note-class="footnote"><text:note-citation>1</text:note-citation><text:note-body>
       <text:p text:style-name="P81">This code snippet was adapted from Spyder’s introductory hello world code.</text:p></text:note-body></text:note> with Visual Studio <text:span text:style-name="T23">C</text:span>ode<text:bookmark-end text:name="__RefHeading___Toc514_2278608959"/></text:h>
-   <text:list xml:id="list1335591596" text:style-name="L3">
+   <text:list xml:id="list2972289386" text:style-name="L3">
     <text:list-item>
-     <text:p text:style-name="P112">Click on VS Code in the Home tab <text:span text:style-name="T28">of Anaconda Navigator</text:span>.</text:p>
+     <text:p text:style-name="P111">Click on VS Code in the Home tab <text:span text:style-name="T28">of Anaconda Navigator</text:span>.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P111"><text:bookmark-start text:name="__RefNumPara__521_18542277"/><text:span text:style-name="T17">Once VS Code launches, it will offer to download and install Python-based extensions as it detects the hooks from Anaconda. </text:span><text:span text:style-name="T28">If it does not, saving your file as </text:span><text:span text:style-name="Code"><text:span text:style-name="T28">hello_world.py</text:span></text:span><text:span text:style-name="T28"> will also trigger the recommendation for Python extensions.</text:span><text:bookmark-end text:name="__RefNumPara__521_18542277"/></text:p>
+     <text:p text:style-name="P110"><text:bookmark-start text:name="__RefNumPara__521_18542277"/><text:span text:style-name="T17">Once VS Code launches, it will offer to download and install Python-based extensions as it detects the hooks from Anaconda. </text:span><text:span text:style-name="T28">If it does not, saving your file as </text:span><text:span text:style-name="Code"><text:span text:style-name="T28">hello_world.py</text:span></text:span><text:span text:style-name="T28"> will also trigger the recommendation for Python extensions.</text:span><text:bookmark-end text:name="__RefNumPara__521_18542277"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P113">In VS Code, take a look at the bottom left-hand corner of the IDE. You will see that it is pointed towards the base Python environment from Anaconda. Click on it and select the hello_world environment instead.</text:p>
+     <text:p text:style-name="P112">In VS Code, take a look at the bottom left-hand corner of the IDE. You will see that it is pointed towards the base Python environment from Anaconda. Click on it and select the hello_world environment instead.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P114"><text:soft-page-break/>Click on File &gt; New File, and type in the script in <text:sequence-ref text:reference-format="category-and-value" text:ref-name="refCode1">Code 1</text:sequence-ref>.</text:p>
+     <text:p text:style-name="P113"><text:soft-page-break/>Click on File &gt; New File, and type in the script in <text:sequence-ref text:reference-format="category-and-value" text:ref-name="refCode1">Code 1</text:sequence-ref>.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P114">Click on File &gt; Save As, and save your file <text:span text:style-name="Code">hello_world.py</text:span>.</text:p>
+     <text:p text:style-name="P113">Click on File &gt; Save As, and save your file <text:span text:style-name="Code">hello_world.py</text:span>.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P114">If you have installed the Python extensions as recommended in step <text:bookmark-ref text:reference-format="number" text:ref-name="__RefNumPara__521_18542277">2</text:bookmark-ref><text:s/>above, you should see an arrow pointed towards the right in your scripting tab. <text:span text:style-name="T20">Click on it and you will see a bunch of output in the terminal and most importantly:</text:span></text:p>
-     <text:p text:style-name="P104">Hello World</text:p>
+     <text:p text:style-name="P113">If you have installed the Python extensions as recommended in step <text:bookmark-ref text:reference-format="number" text:ref-name="__RefNumPara__521_18542277">2</text:bookmark-ref><text:s/>above, you should see an arrow pointed towards the right in your scripting tab. <text:span text:style-name="T20">Click on it and you will see a bunch of output in the terminal and most importantly:</text:span></text:p>
+     <text:p text:style-name="P103">Hello World</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P26">Congratulations! You have successfully run your first Python program in VS Code.</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc516_2278608959"/>hello_world with Spyder<text:bookmark-end text:name="__RefHeading___Toc516_2278608959"/></text:h>
-   <text:list xml:id="list2806787496" text:style-name="L4">
+   <text:list xml:id="list53871032" text:style-name="L4">
     <text:list-item>
-     <text:p text:style-name="P115">Click on Spyder in the Home tab of Anaconda Navigator.</text:p>
+     <text:p text:style-name="P114">Click on Spyder in the Home tab of Anaconda Navigator.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P115">In the scripting pane, write down the hello_world code from <text:sequence-ref text:reference-format="category-and-value" text:ref-name="refCode1">Code 1</text:sequence-ref>.</text:p>
+     <text:p text:style-name="P114">In the scripting pane, write down the hello_world code from <text:sequence-ref text:reference-format="category-and-value" text:ref-name="refCode1">Code 1</text:sequence-ref>.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P115">Press F5 or click on the green arrow on the menubar that says “Run file” in the hover text.</text:p>
+     <text:p text:style-name="P114">Press F5 or click on the green arrow on the menubar that says “Run file” in the hover text.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P115">You should see a bunch of output from the console and the output:</text:p>
-     <text:p text:style-name="P105">Hello World</text:p>
+     <text:p text:style-name="P114">You should see a bunch of output from the console and the output:</text:p>
+     <text:p text:style-name="P104">Hello World</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P34">Congratulations! You have executed your first Python script in Spyder!</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc518_2278608959"/>hello_world with Jupyter Notebook<text:bookmark-end text:name="__RefHeading___Toc518_2278608959"/></text:h>
-   <text:list xml:id="list2917183310" text:style-name="L5">
+   <text:list xml:id="list805603665" text:style-name="L5">
     <text:list-item>
-     <text:p text:style-name="P116">Click on Jupyter Notebook in the Home tab of Anaconda Navigator. Jupyter will open in a browser tab.</text:p>
+     <text:p text:style-name="P115">Click on Jupyter Notebook in the Home tab of Anaconda Navigator. Jupyter will open in a browser tab.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P116">Select New &gt; Notebook &gt; Python 3</text:p>
+     <text:p text:style-name="P115">Select New &gt; Notebook &gt; Python 3</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P116"><text:soft-page-break/>In the input cell, enter the hello_world script from <text:sequence-ref text:reference-format="category-and-value" text:ref-name="refCode1">Code 1</text:sequence-ref>.</text:p>
+     <text:p text:style-name="P115"><text:soft-page-break/>In the input cell, enter the hello_world script from <text:sequence-ref text:reference-format="category-and-value" text:ref-name="refCode1">Code 1</text:sequence-ref>.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P116">Click on the Run button. You should see the output with your coding cell showing:</text:p>
-     <text:p text:style-name="P106">Hello <text:span text:style-name="Code">World</text:span></text:p>
+     <text:p text:style-name="P115">Click on the Run button. You should see the output with your coding cell showing:</text:p>
+     <text:p text:style-name="P105">Hello <text:span text:style-name="Code">World</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P35">Congratulations! You have executed your first Python script in Jupyter!</text:p>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc520_2278608959"/><text:span text:style-name="T9">Updating Anaconda </text:span><text:span text:style-name="T11">for</text:span><text:span text:style-name="T9"> a specific environment</text:span><text:bookmark-end text:name="__RefHeading___Toc520_2278608959"/></text:h>
    <text:p text:style-name="P14"><text:span text:style-name="T9">The </text:span><text:span text:style-name="T21">convenience</text:span><text:span text:style-name="T9"> of using Anaconda is you can choose to keep separate environments running with their own distinct set of Python packages with specific dependencies intact. </text:span><text:span text:style-name="T21">Let’s test it out by updating packages in the </text:span><text:span text:style-name="Code"><text:span text:style-name="T21">hello_world</text:span></text:span><text:span text:style-name="T21"> environment and compare the version with that in the </text:span><text:span text:style-name="Code"><text:span text:style-name="T21">base</text:span></text:span><text:span text:style-name="T21"> environment.</text:span></text:p>
-   <text:list xml:id="list4112299558" text:style-name="L6">
+   <text:list xml:id="list1746034264" text:style-name="L6">
     <text:list-item>
-     <text:p text:style-name="P117">In the Environment tab, select hello_world</text:p>
+     <text:p text:style-name="P116">In the Environment tab, select hello_world</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P117">To filter out only updatable packages, select Updatable from the pull down menu from the default Installed filter setting. Take note of the version number of the program to be updated.</text:p>
+     <text:p text:style-name="P116">To filter out only updatable packages, select Updatable from the pull down menu from the default Installed filter setting. Take note of the version number of the program to be updated.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P117">Click on the green Apply button and in the verification page, click on Apply again.</text:p>
+     <text:p text:style-name="P116">Click on the green Apply button and in the verification page, click on Apply again.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P117">Once the installation is complete, take a look at the version of the updated package. Change back to the base environment. You should see that the package in the base environment remains the same.</text:p>
+     <text:p text:style-name="P116">Once the installation is complete, take a look at the version of the updated package. Change back to the base environment. You should see that the package in the base environment remains the same.</text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc522_2278608959"/>Understanding Python<text:bookmark-end text:name="__RefHeading___Toc522_2278608959"/></text:h>
@@ -3340,18 +3335,18 @@
       <text:p text:style-name="P82">Adapted from code at https://www.geeksforgeeks.org/number-guessing-game-in-python/</text:p></text:note-body></text:note>. <text:span text:style-name="T36">There is a lot more code to work with, as you can see in </text:span><text:span text:style-name="T36"><text:sequence-ref text:reference-format="category-and-value" text:ref-name="refCode0">Code 2</text:sequence-ref></text:span><text:span text:style-name="T36">, but don’t worry, we will spend some time explaining how every single line fits.</text:span></text:p>
    <text:p text:style-name="P42">For the introductory part of this exercise, we will be using VS Code to script our programs. Feel free to experiment with other IDEs during this exercise if you want to try something else!</text:p>
    <text:p text:style-name="P44"><text:span text:style-name="T37">First lets write down what we want our game to do</text:span>:</text:p>
-   <text:list xml:id="list2575024798" text:style-name="L7">
+   <text:list xml:id="list3889348180" text:style-name="L7">
     <text:list-item>
-     <text:p text:style-name="P118">Randomly select a number between 1 and 100.</text:p>
+     <text:p text:style-name="P117">Randomly select a number between 1 and 100.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P118"><text:bookmark-start text:name="__RefNumPara__684_2518079853"/>Ask the <text:span text:style-name="T37">player</text:span> to input their guess in that range.<text:bookmark-end text:name="__RefNumPara__684_2518079853"/></text:p>
+     <text:p text:style-name="P117"><text:bookmark-start text:name="__RefNumPara__684_2518079853"/>Ask the <text:span text:style-name="T37">player</text:span> to input their guess in that range.<text:bookmark-end text:name="__RefNumPara__684_2518079853"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P120">Tells the player whether their guess is too low, or too high, and repeats step <text:bookmark-ref text:reference-format="number" text:ref-name="__RefNumPara__684_2518079853">2</text:bookmark-ref>.</text:p>
+     <text:p text:style-name="P118">Tells the player whether their guess is too low, or too high, and repeats step <text:bookmark-ref text:reference-format="number" text:ref-name="__RefNumPara__684_2518079853">2</text:bookmark-ref>.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P120">When the player makes a correct guess, congratulate the player and ends the game.</text:p>
+     <text:p text:style-name="P118">When the player makes a correct guess, congratulate the player and ends the game.</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P44">We start of with a line that will make your game convenient to execute on Unix-based OSes, like Ubuntu or the MacOS, without having to prepend <text:span text:style-name="Code">python</text:span> before the name of your script file. <text:span text:style-name="T37">The following command allows you to run the program directly from the terminal without having to load up your IDE</text:span>:</text:p>
@@ -3379,15 +3374,15 @@
    <text:p text:style-name="P61"><text:s text:c="8"/>guess = int(input(&quot;Pick a number between 1 <text:span text:style-name="T39">to </text:span>100: &quot;))</text:p>
    <text:p text:style-name="P50"><text:span text:style-name="T40">The int command tells Python to convert the input into an integer. The </text:span><text:span text:style-name="Code"><text:span text:style-name="T40">input</text:span></text:span><text:span text:style-name="T40"> function comes with a </text:span><text:span text:style-name="Code"><text:span text:style-name="T40">prompt</text:span></text:span><text:span text:style-name="T40"> parameter, which allows us to set a message for the user before the input. Change the value in the double-quotes to personalise your code.</text:span></text:p>
    <text:p text:style-name="P49">The next code chunk sets up the logical test for each of the three scenarios that are possible if the use inputs a number between 1 and 100.</text:p>
-   <text:list xml:id="list737875134" text:style-name="L8">
+   <text:list xml:id="list23429076" text:style-name="L8">
     <text:list-item>
-     <text:p text:style-name="P121">The number is correct.</text:p>
+     <text:p text:style-name="P119">The number is correct.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P121">The number is too small.</text:p>
+     <text:p text:style-name="P119">The number is too small.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P121">The number is too big.</text:p>
+     <text:p text:style-name="P119">The number is too big.</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P61"><text:soft-page-break/><text:s text:c="8"/>if x == guess:</text:p>
@@ -3395,8 +3390,8 @@
    <text:p text:style-name="P61"><text:s text:c="12"/>break</text:p>
    <text:p text:style-name="P50"><text:span text:style-name="T40">Because </text:span><text:span text:style-name="Code"><text:span text:style-name="T40">if</text:span></text:span><text:span text:style-name="T40"> is one indent to the right of the </text:span><text:span text:style-name="Code"><text:span text:style-name="T40">while</text:span></text:span><text:span text:style-name="T40"> function above, it will follow the lead of our </text:span><text:span text:style-name="Code"><text:span text:style-name="T40">while</text:span></text:span><text:span text:style-name="T40"> statement’s setup. This means it will also continue to print the output “You genius!” as long as your guess is the same as the random number generated.</text:span></text:p>
    <text:p text:style-name="P50"><text:span text:style-name="T40">We therefore add the </text:span><text:span text:style-name="Code"><text:span text:style-name="T40">break</text:span></text:span><text:span text:style-name="T40"> statement to end the while loop.</text:span></text:p>
-   <text:p text:style-name="P52"><text:span text:style-name="T40">The next blocks of code are </text:span><text:span text:style-name="Code"><text:span text:style-name="T40">elif</text:span></text:span><text:span text:style-name="T40"> statements. It is as you may have guessed, a conjugation of the </text:span><text:span text:style-name="Code"><text:span text:style-name="T40">else</text:span></text:span><text:span text:style-name="T40"> and </text:span><text:span text:style-name="Code"><text:span text:style-name="T40">if</text:span></text:span><text:span text:style-name="T40"> statements. If our game only had two possible outcomes, for example whether the number we chose matches the random number, and our outcome is either “You got it right” and “Sorry try again”, then we could set up our game using only the </text:span><text:span text:style-name="Code"><text:span text:style-name="T40">else</text:span></text:span><text:span text:style-name="T40"> statement. </text:span><text:span text:style-name="T40"><text:sequence-ref text:reference-format="category-and-value" text:ref-name="refFigure0">Figure 2</text:sequence-ref></text:span><text:span text:style-name="T40"><text:s/></text:span><text:span text:style-name="T42">on page </text:span><text:span text:style-name="T42"><text:sequence-ref text:reference-format="page" text:ref-name="refFigure0">12</text:sequence-ref></text:span><text:span text:style-name="T42"><text:s/>explores this idea with the metaphor that </text:span><text:span text:style-name="Code"><text:span text:style-name="T42">if</text:span></text:span><text:span text:style-name="T42"> you see someone during the day, they are probably energised and ready for anything, </text:span><text:span text:style-name="Code"><text:span text:style-name="T42">else</text:span></text:span><text:span text:style-name="T42"> when you spot someone walking home at night, they are probably in need of some sleep.</text:span></text:p>
-   <text:p text:style-name="P52"><text:span text:style-name="T42">An </text:span><text:span text:style-name="Code"><text:span text:style-name="T42">elif</text:span></text:span><text:span text:style-name="T42"> statement is to put it in the simplest terms, multiple </text:span><text:span text:style-name="Code"><text:span text:style-name="T42">if</text:span></text:span><text:span text:style-name="T42"> and </text:span><text:span text:style-name="Code"><text:span text:style-name="T42">else</text:span></text:span><text:span text:style-name="T42"> statements put into a single function. This is most useful when we need a process to repeat itself (</text:span><text:span text:style-name="Code"><text:span text:style-name="T42">while</text:span></text:span><text:span text:style-name="T42"> loop) until we achieve the desired outcome. We illustrate the idea in </text:span><text:span text:style-name="T42"><text:sequence-ref text:reference-format="category-and-value" text:ref-name="refFigure2">Figure 3</text:sequence-ref></text:span><text:span text:style-name="T42"><text:s/>on page </text:span><text:span text:style-name="T42"><text:sequence-ref text:reference-format="page" text:ref-name="refFigure2">15</text:sequence-ref></text:span><text:span text:style-name="T42"><text:s/>using the idea of trying to get the ideal water level in our cup, through the dubious process of adding water when it rains to the cup if there isn’t enough water, and evaporating excess water off when it is sunny if there is too </text:span><text:soft-page-break/><text:span text:style-name="T42">much water. </text:span><text:span text:style-name="T40">Since we have decided as part of our game design to guide the players to the correct answer, we use </text:span><text:span text:style-name="Code"><text:span text:style-name="T40">elif</text:span></text:span><text:span text:style-name="T40"> to make the function evaluate multiple expressions instead.</text:span></text:p>
+   <text:p text:style-name="P52"><text:span text:style-name="T40">The next blocks of code are </text:span><text:span text:style-name="Code"><text:span text:style-name="T40">elif</text:span></text:span><text:span text:style-name="T40"> statements. It is as you may have guessed, a conjugation of the </text:span><text:span text:style-name="Code"><text:span text:style-name="T40">else</text:span></text:span><text:span text:style-name="T40"> and </text:span><text:span text:style-name="Code"><text:span text:style-name="T40">if</text:span></text:span><text:span text:style-name="T40"> statements. If our game only had two possible outcomes, for example whether the number we chose matches the random number, and our outcome is either “You got it right” and “Sorry try again”, then we could set up our game using only the </text:span><text:span text:style-name="Code"><text:span text:style-name="T40">else</text:span></text:span><text:span text:style-name="T40"> statement. </text:span><text:span text:style-name="T40"><text:sequence-ref text:reference-format="category-and-value" text:ref-name="refFigure1">Figure 2</text:sequence-ref></text:span><text:span text:style-name="T40"><text:s/></text:span><text:span text:style-name="T42">on page </text:span><text:span text:style-name="T42"><text:sequence-ref text:reference-format="page" text:ref-name="refFigure1">12</text:sequence-ref></text:span><text:span text:style-name="T42"><text:s/>explores this idea with the metaphor that </text:span><text:span text:style-name="Code"><text:span text:style-name="T42">if</text:span></text:span><text:span text:style-name="T42"> you see someone during the day, they are probably energised and ready for anything, </text:span><text:span text:style-name="Code"><text:span text:style-name="T42">else</text:span></text:span><text:span text:style-name="T42"> when you spot someone walking home at night, they are probably in need of some sleep.</text:span></text:p>
+   <text:p text:style-name="P52"><text:span text:style-name="T42">An </text:span><text:span text:style-name="Code"><text:span text:style-name="T42">elif</text:span></text:span><text:span text:style-name="T42"> statement is to put it in the simplest terms, multiple </text:span><text:span text:style-name="Code"><text:span text:style-name="T42">if</text:span></text:span><text:span text:style-name="T42"> and </text:span><text:span text:style-name="Code"><text:span text:style-name="T42">else</text:span></text:span><text:span text:style-name="T42"> statements put into a single function. This is most useful when we need a process to repeat itself (</text:span><text:span text:style-name="Code"><text:span text:style-name="T42">while</text:span></text:span><text:span text:style-name="T42"> loop) until we achieve the desired outcome. We illustrate the idea in </text:span><text:span text:style-name="T42"><text:sequence-ref text:reference-format="category-and-value" text:ref-name="refFigure2">Figure 3</text:sequence-ref></text:span><text:span text:style-name="T42"><text:s/>on page </text:span><text:span text:style-name="T42"><text:sequence-ref text:reference-format="page" text:ref-name="refFigure2">14</text:sequence-ref></text:span><text:span text:style-name="T42"><text:s/>using the idea of trying to get the ideal water level in our cup, through the dubious process of adding water when it rains to the cup if there isn’t enough water, and evaporating excess water off when it is sunny if there is too </text:span><text:soft-page-break/><text:span text:style-name="T42">much water. </text:span><text:span text:style-name="T40">Since we have decided as part of our game design to guide the players to the correct answer, we use </text:span><text:span text:style-name="Code"><text:span text:style-name="T40">elif</text:span></text:span><text:span text:style-name="T40"> to make the function evaluate multiple expressions instead.</text:span></text:p>
    <text:p text:style-name="P61"><text:s text:c="8"/>elif x &gt; guess:</text:p>
    <text:p text:style-name="P61"><text:s text:c="12"/>print(&quot;Try a bigger number.&quot;)</text:p>
    <text:p text:style-name="P61"><text:s text:c="8"/>elif x &lt; guess:</text:p>
@@ -3405,16 +3400,16 @@
    <text:p text:style-name="P49">We finally end the script by invoking the function we created so it runs after the code is fed through the Python interpreter.</text:p>
    <text:p text:style-name="P60">main()</text:p>
    <text:p text:style-name="P49">Test your understanding by trying to modify the code above. Here are some suggestions:</text:p>
-   <text:list xml:id="list2800259517" text:style-name="L9">
+   <text:list xml:id="list4033056142" text:style-name="L9">
     <text:list-item>
-     <text:p text:style-name="P122">Modify the code to use <text:span text:style-name="Code">else</text:span> instead of <text:span text:style-name="Code">elif</text:span>.</text:p>
+     <text:p text:style-name="P120">Modify the code to use <text:span text:style-name="Code">else</text:span> instead of <text:span text:style-name="Code">elif</text:span>.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P122">Lookup the <text:span text:style-name="Code">random</text:span> module and its methods. Can you change your randomly generated variable to something else? What other parameters did you modify?</text:p>
+     <text:p text:style-name="P120">Lookup the <text:span text:style-name="Code">random</text:span> module and its methods. Can you change your randomly generated variable to something else? What other parameters did you modify?</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P49"/>
-   <text:p text:style-name="P123"><draw:frame draw:style-name="fr1" draw:name="Frame5" text:anchor-type="char" svg:width="145.38mm" draw:z-index="6">
+   <text:p text:style-name="P121"><draw:frame draw:style-name="fr1" draw:name="Frame5" text:anchor-type="char" svg:width="145.38mm" draw:z-index="6">
      <draw:text-box fo:min-height="242.25mm">
       <text:p text:style-name="Figure"><draw:frame draw:style-name="fr7" draw:name="Image3" text:anchor-type="paragraph" svg:width="123.45mm" style:rel-width="85%" svg:height="205.72mm" style:rel-height="scale" draw:z-index="7"><draw:image draw:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAiMAAAORCAYAAAAgX6J7AAB0Y0lEQVR4nO3dBXQUV9/H8Rsl
