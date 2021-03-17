@@ -14,6 +14,6 @@ We would like to thank our main sponsor, the State Government of Penang for fund
     <img 
     src="./resources/images/jata_pulau_pinang.svg" 
     alt="The Penang State Government coat of arms"
-    width="150"
+    width="100"
     >
 </a>
