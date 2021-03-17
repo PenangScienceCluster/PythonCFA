@@ -8,7 +8,7 @@ All material contained within are freely available under the GNU AFFERO GPL v3 l
 
 # Sponsors
 
-We would like to thank our main sponsor, the State Government of Penang for funding the work here to make programming accessible to all.
+We would like to thank our main sponsor, the Penang State Government for funding the work in this project to make learning to code more accessible to everyone.
 
 <a href="https://www.penang.gov.my/">
     <img 
