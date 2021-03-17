@@ -9,3 +9,5 @@ All material contained within are freely available under the GNU AFFERO GPL v3 l
 # Sponsors
 
 We would like to thank our main sponsor, the State Government of Penang for funding the work here to make programming accessible to all.
+
+[![The Penang State Government coat of arms](./resources/images/jata_pulau_pinang.svg|width=250px)](https://www.penang.gov.my/)
