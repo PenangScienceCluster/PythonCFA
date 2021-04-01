@@ -3228,7 +3228,7 @@
     </text:list-item>
     <text:list-item>
      <text:p text:style-name="P109">In the terminal, run:</text:p>
-     <text:p text:style-name="P90">conda info –envs</text:p>
+     <text:p text:style-name="P90">conda info --envs</text:p>
      <text:p text:style-name="P107">To check and see hello_world is listed as one of the available base environments.</text:p>
     </text:list-item>
    </text:list>
