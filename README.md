@@ -4,7 +4,7 @@ Welcome to the Penang Science Cluster's Coding for All project page for Python (
 
 Here you will find course material and coding samples that can be used in your class if you are a teacher, or for self-studying if you are an independent learner.
 
-All material contained within are freely available and redistributable under Mozilla Public License 2.0, with the exception of submodules we have attached to this repository which may fall under different opens licenses.
+All material contained within are freely available and redistributable under Mozilla Public License 2.0, with the exception of submodules we have attached to this repository which may fall under different open licenses.
 
 # Sponsors
 
