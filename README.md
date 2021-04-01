@@ -4,7 +4,21 @@ Welcome to the Penang Science Cluster's Coding for All project page for Python (
 
 Here you will find course material and coding samples that can be used in your class if you are a teacher, or for self-studying if you are an independent learner.
 
-All material contained within are freely available and redistributable under Mozilla Public License 2.0, with the exception of submodules we have attached to this repository which may fall under different open licenses.
+All material contained within are freely available and redistributable under Mozilla Public License 2.0, with the exception of submodules and fonts we have attached to this repository which may fall under different open licenses.
+
+# Contributing
+
+We are focused on making sure the material is as bug-free and comprehensive as possible, and with your help we can keep the mistakes down to a minimum. The main introductory document is found in this repository at:
+
+    /intro/docs/python_course.fodt
+
+All pdf files are generated based on this fodt file.
+
+To ensure consistency when editing, use a text editor like Kate (Linux) or Notepad (Windows) to make your changes if the edits are strictly text-based. If visual editing is preferred, ensure that all the fonts used in the text are installed on your system. These fonts are available to download via:
+
+    /intro/docs/fonts
+    
+LibreOffice Writer is the recommended visual editor for use with the fodt files within this repository. If another visual editor is used (e.g. Microsoft Word) ensure it supports the fodt file format and does not introduce incompatible changes to the original fodt files.
 
 # Sponsors
 
