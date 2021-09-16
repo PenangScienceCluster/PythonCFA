@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="git_overview_03_merging.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.5"
+     inkscape:cx="327"
+     inkscape:cy="388"
+     inkscape:window-width="1280"
+     inkscape:window-height="691"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid88443" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <rect
+       x="893.35889"
+       y="773.48523"
+       width="76.288696"
+       height="121.14807"
+       id="rect125385" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text125383"
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect125385)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;white-space:pre;inline-size:163.431;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="14.455819"
+       y="199.15414"
+       id="text163516" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="3.5920527"
+       y="15.08898"
+       id="text167238"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Hack;-inkscape-font-specification:Hack;stroke-width:0.264583"
+         x="3.5920527"
+         y="15.08898"
+         id="tspan264424">3. Merging</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;white-space:pre;inline-size:163.431;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="14.455819"
+       y="199.15414"
+       id="text273382"
+       transform="translate(65.91787,-161.43906)"><tspan
+         x="14.455819"
+         y="199.15414"
+         id="tspan971">Branch 1 looks good,
+</tspan><tspan
+         x="14.455819"
+         y="212.38327"
+         id="tspan973">lets merge it!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.31498px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.118406"
+       x="35.888626"
+       y="35.390415"
+       id="text273386"><tspan
+         sodipodi:role="line"
+         id="tspan273384"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.31498px;font-family:Hack;-inkscape-font-specification:Hack;fill:#008000;stroke-width:0.118406"
+         x="35.888626"
+         y="35.390415">example.py</tspan></text>
+    <path
+       d="m 21.940344,29.674254 v 14.31093 h 12.522105 v -7.15546 h -7.155491 v -7.15547 z m 7.155489,0 v 5.36662 h 5.366616 z"
+       id="path273388"
+       style="fill:#008000;stroke-width:1.78887" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.118406px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 27.514407,47.787934 v 26.04931"
+       id="path273390"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.15749px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.118406"
+       x="28.926796"
+       y="62.125294"
+       id="text273394"><tspan
+         sodipodi:role="line"
+         id="tspan273392"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.15749px;font-family:Hack;-inkscape-font-specification:Hack;fill:#008000;stroke-width:0.118406"
+         x="28.926796"
+         y="62.125294">branch 1</tspan></text>
+    <g
+       id="g273400"
+       transform="matrix(0.44751856,0,0,0.44751856,11.965318,14.685374)">
+      <path
+         style="fill:#ff0000;stroke-width:3.99731"
+         d="m 38.278893,137.35492 v 11.99194 h 11.99194 z"
+         id="path273396" />
+      <path
+         style="fill:#008000;stroke-width:3.99731"
+         d="m 22.289636,137.35492 v 31.97841 h 27.981197 v -15.98921 h -15.98926 v -15.9892 z"
+         id="path273398" />
+    </g>
+    <g
+       id="g273402"
+       transform="matrix(0.44751856,0,0,0.44751856,12.121633,115.62747)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.31498px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.118406"
+       x="35.888626"
+       y="35.390415"
+       id="text273406"><tspan
+         sodipodi:role="line"
+         id="tspan273404"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.31498px;font-family:Hack;-inkscape-font-specification:Hack;fill:#008000;stroke-width:0.118406"
+         x="35.888626"
+         y="35.390415">example.py</tspan></text>
+    <path
+       d="m 21.940344,29.674254 v 14.31093 h 12.522105 v -7.15546 h -7.155491 v -7.15547 z m 7.155489,0 v 5.36662 h 5.366616 z"
+       id="path273408"
+       style="fill:#008000;stroke-width:1.78887" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 27.514407,47.787934 v 26.04931"
+       id="path273410"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.15749px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.118406"
+       x="28.926796"
+       y="62.125294"
+       id="text273414"><tspan
+         sodipodi:role="line"
+         id="tspan273412"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.15749px;font-family:Hack;-inkscape-font-specification:Hack;fill:#000000;stroke-width:0.118406"
+         x="28.926796"
+         y="62.125294">branch 1</tspan></text>
+    <g
+       id="g273420"
+       transform="matrix(0.44751856,0,0,0.44751856,11.965318,14.685374)">
+      <path
+         style="fill:#ff0000;stroke-width:3.99731"
+         d="m 38.278893,137.35492 v 11.99194 h 11.99194 z"
+         id="path273416" />
+      <path
+         style="fill:#008000;stroke-width:3.99731"
+         d="m 22.289636,137.35492 v 31.97841 h 27.981197 v -15.98921 h -15.98926 v -15.9892 z"
+         id="path273418" />
+    </g>
+    <g
+       id="g273422"
+       transform="matrix(0.44751856,0,0,0.44751856,12.121633,115.62747)"
+       style="fill:#666666" />
+    <path
+       d="m 39.133287,90.465184 c -1.933749,0 -3.5,1.56623 -3.5,3.49999 0,1.93374 1.566251,3.50003 3.5,3.50003 1.933749,0 3.5,-1.56629 3.5,-3.50003 0,-1.93376 -1.566251,-3.49999 -3.5,-3.49999 z m 1.750002,1.55751 0.63,0.63 -2.817504,2.8175 -1.504998,-1.50502 0.63,-0.63 0.874998,0.87503 z"
+       id="path275279"
+       style="fill:#00ff00;stroke-width:0.874992" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;white-space:pre;inline-size:163.431;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="14.455819"
+       y="199.15414"
+       id="text275892"
+       transform="translate(65.91787,-74.821724)"><tspan
+         x="14.455819"
+         y="199.15414"
+         id="tspan975">Changes now merged!
+</tspan><tspan
+         x="14.455819"
+         y="212.38327"
+         id="tspan977">We don't need the
+</tspan><tspan
+         x="14.455819"
+         y="225.6124"
+         id="tspan979">branch anymore.
+</tspan><tspan
+         x="14.455819"
+         y="238.84152"
+         id="tspan981">Let's clean up.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.31498px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.118406"
+       x="35.888626"
+       y="122.00775"
+       id="text275896"><tspan
+         sodipodi:role="line"
+         id="tspan275894"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.31498px;font-family:Hack;-inkscape-font-specification:Hack;fill:#008000;stroke-width:0.118406"
+         x="35.888626"
+         y="122.00775">example.py</tspan></text>
+    <path
+       d="m 21.940344,116.29159 v 14.31093 h 12.522105 v -7.15546 h -7.155491 v -7.15547 z m 7.155489,0 v 5.36662 h 5.366616 z"
+       id="path275898"
+       style="fill:#008000;stroke-width:1.78887" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.118406px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 27.514407,134.40527 v 26.04931"
+       id="path275900"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.15749px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.118406"
+       x="28.926796"
+       y="148.74263"
+       id="text275904"><tspan
+         sodipodi:role="line"
+         id="tspan275902"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.15749px;font-family:Hack;-inkscape-font-specification:Hack;fill:#008000;stroke-width:0.118406"
+         x="28.926796"
+         y="148.74263">branch 1</tspan></text>
+    <g
+       id="g275910"
+       transform="matrix(0.44751856,0,0,0.44751856,11.965318,101.30271)">
+      <path
+         style="fill:#ff0000;stroke-width:3.99731"
+         d="m 38.278893,137.35492 v 11.99194 h 11.99194 z"
+         id="path275906" />
+      <path
+         style="fill:#008000;stroke-width:3.99731"
+         d="m 22.289636,137.35492 v 31.97841 h 27.981197 v -15.98921 h -15.98926 v -15.9892 z"
+         id="path275908" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.31498px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.118406"
+       x="35.888626"
+       y="122.00775"
+       id="text275914"><tspan
+         sodipodi:role="line"
+         id="tspan275912"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.31498px;font-family:Hack;-inkscape-font-specification:Hack;fill:#008000;stroke-width:0.118406"
+         x="35.888626"
+         y="122.00775">example.py</tspan></text>
+    <path
+       style="fill:#ff0000;stroke-width:1.78887"
+       d="m 29.095833,116.29159 v 5.36662 h 5.366616 z"
+       id="path275934" />
+    <path
+       style="fill:#008000;stroke-width:1.78887"
+       d="m 21.940344,116.29159 v 14.31093 h 12.522105 v -7.15546 h -7.155491 v -7.15547 z"
+       id="path275916" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 27.514407,134.40527 v 26.04931"
+       id="path275918"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.15749px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.118406"
+       x="28.926796"
+       y="148.74263"
+       id="text275922"><tspan
+         sodipodi:role="line"
+         id="tspan275920"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.15749px;font-family:Hack;-inkscape-font-specification:Hack;fill:#000000;stroke-width:0.118406"
+         x="28.926796"
+         y="148.74263">branch 1</tspan></text>
+    <g
+       id="g275928"
+       transform="matrix(0.44751856,0,0,0.44751856,11.965318,101.30271)">
+      <path
+         style="fill:#ff0000;stroke-width:3.99731"
+         d="m 38.278893,137.35492 v 11.99194 h 11.99194 z"
+         id="path275924" />
+      <path
+         style="fill:#008000;stroke-width:3.99731"
+         d="m 22.289636,137.35492 v 31.97841 h 27.981197 v -15.98921 h -15.98926 v -15.9892 z"
+         id="path275926" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;white-space:pre;inline-size:163.431;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="14.455819"
+       y="199.15414"
+       id="text282626"
+       transform="translate(65.91787,16.652118)"><tspan
+         x="14.455819"
+         y="199.15414"
+         id="tspan983">Tada!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.31498px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.118406"
+       x="35.888626"
+       y="213.4816"
+       id="text282630"><tspan
+         sodipodi:role="line"
+         id="tspan282628"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.31498px;font-family:Hack;-inkscape-font-specification:Hack;fill:#008000;stroke-width:0.118406"
+         x="35.888626"
+         y="213.4816">example.py</tspan></text>
+    <path
+       d="m 21.940344,207.76543 v 14.31093 h 12.522105 v -7.15546 h -7.155491 v -7.15547 z m 7.155489,0 v 5.36662 h 5.366616 z"
+       id="path282632"
+       style="fill:#008000;stroke-width:1.78887" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.31498px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.118406"
+       x="35.888626"
+       y="213.4816"
+       id="text282648"><tspan
+         sodipodi:role="line"
+         id="tspan282646"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.31498px;font-family:Hack;-inkscape-font-specification:Hack;fill:#008000;stroke-width:0.118406"
+         x="35.888626"
+         y="213.4816">example.py</tspan></text>
+    <path
+       style="fill:#ff0000;stroke-width:1.78887"
+       d="m 29.095833,207.76543 v 5.36662 h 5.366616 z"
+       id="path282650" />
+    <path
+       style="fill:#008000;stroke-width:1.78887"
+       d="m 21.940344,207.76543 v 14.31093 h 12.522105 v -7.15546 h -7.155491 v -7.15547 z"
+       id="path282652" />
+    <path
+       d="m 37.962469,177.08252 c -1.93375,0 -3.50002,1.56623 -3.50002,3.49998 0,1.93375 1.56627,3.49999 3.50002,3.49999 1.93375,0 3.49998,-1.56624 3.49998,-3.49999 0,-1.93375 -1.56623,-3.49998 -3.49998,-3.49998 z m -1.31252,1.55747 1.31252,1.31252 1.31248,-1.31252 0.63,0.63 -1.31248,1.31251 1.31248,1.31248 -0.63,0.63 -1.31248,-1.31248 -1.31252,1.31248 -0.63,-0.63 1.31252,-1.31248 -1.31252,-1.31251 z"
+       id="path275594"
+       style="fill:#ff0000;stroke-width:0.874999" />
+  </g>
+</svg>

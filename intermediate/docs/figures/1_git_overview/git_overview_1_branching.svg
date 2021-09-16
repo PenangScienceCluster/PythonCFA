@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="git_overview_01_branching.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="314.66252"
+     inkscape:cy="691.55043"
+     inkscape:window-width="1280"
+     inkscape:window-height="1411"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid88443" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <rect
+       x="893.35889"
+       y="773.48523"
+       width="76.288696"
+       height="121.14807"
+       id="rect125385" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="53.108395"
+       y="46.380543"
+       id="text7029"><tspan
+         sodipodi:role="line"
+         id="tspan7027"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Hack;-inkscape-font-specification:Hack;fill:#008000;stroke-width:0.264583"
+         x="53.108395"
+         y="46.380543">example.py</tspan></text>
+    <path
+       d="M 21.940344,33.607533 V 65.585938 H 49.921541 V 49.596736 H 33.932281 V 33.607533 Z m 15.989257,0 v 11.99194 h 11.99194 z"
+       id="path69814"
+       style="stroke-width:3.99731;fill:#008000" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 34.395833,74.083333 V 132.29167"
+       id="path69874"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="36.576057"
+       y="117.44978"
+       id="text70090"><tspan
+         sodipodi:role="line"
+         id="tspan70088"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Hack;-inkscape-font-specification:Hack;fill:#000000;stroke-width:0.264583"
+         x="36.576057"
+         y="117.44978">branch 1</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 50.270833,74.083333 c 46.70912,7.418319 66.145837,58.208337 66.145837,58.208337"
+       id="path87034"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="78.792259"
+       y="133.38184"
+       id="text88679"><tspan
+         sodipodi:role="line"
+         id="tspan88677"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Hack;-inkscape-font-specification:Hack;fill:#000000;stroke-width:0.264583"
+         x="78.792259"
+         y="133.38184">branch 2</tspan></text>
+    <g
+       id="g167361"
+       transform="translate(-0.349292,0.11421)">
+      <path
+         style="fill:#ff0000;stroke-width:3.99731"
+         d="m 38.278893,137.35492 v 11.99194 h 11.99194 z"
+         id="path101729" />
+      <path
+         style="fill:#008000;stroke-width:3.99731"
+         d="m 22.289636,137.35492 v 31.97841 h 27.981197 v -15.98921 h -15.98926 v -15.9892 z"
+         id="path93377" />
+    </g>
+    <g
+       id="g167357">
+      <path
+         style="fill:#008000;stroke-width:3.99731"
+         d="m 125.70565,137.46913 v 11.99194 h 11.99194 z"
+         id="path101789" />
+      <path
+         style="fill:#0000ff;stroke-width:3.99731"
+         d="m 109.7164,137.46913 v 31.97841 h 27.98119 v -15.98921 h -15.98926 v -15.9892 z"
+         id="path93459" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;white-space:pre;inline-size:163.431;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="14.455819"
+       y="199.15414"
+       id="text109903"
+       transform="translate(83.387103,-117.10302)"><tspan
+         x="14.455819"
+         y="199.15414"
+         id="tspan4087">Branching allows you
+</tspan><tspan
+         x="14.455819"
+         y="209.73749"
+         id="tspan4089">to experiment!</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text125383"
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect125385)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="3.5920527"
+       y="15.08898"
+       id="text167238"><tspan
+         sodipodi:role="line"
+         id="tspan167236"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Hack;-inkscape-font-specification:Hack;stroke-width:0.264583"
+         x="3.5920527"
+         y="15.08898">1. Branching</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;white-space:pre;inline-size:163.431;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="14.455819"
+       y="199.15414"
+       id="text7457"
+       transform="translate(-7.6645579,-8.8495394)"><tspan
+         x="14.455819"
+         y="199.15414"
+         id="tspan4091">Make mistakes!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;white-space:pre;inline-size:163.431;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="14.455819"
+       y="199.15414"
+       id="text19233"
+       transform="translate(79.301582,-10.200133)"><tspan
+         x="14.455819"
+         y="199.15414"
+         id="tspan4093">Maybe improvements?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;text-align:start;text-anchor:start;white-space:pre;inline-size:163.431;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-28.988991"
+       y="199.15414"
+       id="text25537"
+       transform="translate(52.353954,16.162726)"><tspan
+         x="-28.988991"
+         y="199.15414"
+         id="tspan4095">In git, every branch is it's own </tspan><tspan
+         x="-28.988991"
+         y="209.73749"
+         id="tspan4097">self-contained project folder.
+</tspan><tspan
+         x="-28.988991"
+         y="220.32084"
+         id="tspan4099">Your original file will always </tspan><tspan
+         x="-28.988991"
+         y="230.90418"
+         id="tspan4101">remain in its committed state in </tspan><tspan
+         x="-28.988991"
+         y="241.48752"
+         id="tspan4103">the original branch, so nothing </tspan><tspan
+         x="-28.988991"
+         y="252.07087"
+         id="tspan4105">is ever lost unless you delete </tspan><tspan
+         x="-28.988991"
+         y="262.65421"
+         id="tspan4107">the whole repository.</tspan></text>
+    <circle
+       id="path6057"
+       style="fill:#000000;stroke:#000000;stroke-width:0.264583"
+       cx="103.55997"
+       cy="237.89177"
+       r="0.093450792" />
+    <circle
+       id="path6059"
+       style="fill:#000000;stroke:#000000;stroke-width:0.264583"
+       cx="103.55997"
+       cy="237.89177"
+       r="0.093450792" />
+  </g>
+</svg>
