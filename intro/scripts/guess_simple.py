@@ -15,7 +15,6 @@ def main():
         
         if x == guess:
             print("You genius!")
-            break
         elif x > guess:
             print("Try a bigger number.")
         elif x < guess:
