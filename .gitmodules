@@ -4,3 +4,6 @@
 [submodule "resources/bookletify"]
 	path = submodules/bookletify
 	url = https://gitlab.com/wieke/bookletify.git
+[submodule "submodules/atkinson-hyperlegible"]
+	path = submodules/atkinson-hyperlegible
+	url = https://github.com/googlefonts/atkinson-hyperlegible
