@@ -17,6 +17,12 @@ All pdf files are generated based on this fodt file.
 To ensure consistency when editing, use a text editor like Kate (Linux) or Notepad (Windows) to make your changes if the edits are strictly text-based. If visual editing is preferred, ensure that all the fonts used in the text are installed on your system. These fonts are available to download via:
 
     /intro/docs/fonts
+
+We are transitioning to the more visually-impaired friendly font Atkinson-Hyperlegible which is included in the submodule folder for reference. You can also download the font from:
+
+    https://github.com/googlefonts/atkinson-hyperlegible.git
+
+Fonts are embedded directly in the fodt files for convenience. However, if for some reason the version you have pulled does not contain the fonts, they can still be installed manually as mentioned.
     
 LibreOffice Writer is the recommended visual editor for use with the fodt files within this repository. If another visual editor is used (e.g. Microsoft Word) ensure it supports the fodt file format and does not introduce incompatible changes to the original fodt files.
 
