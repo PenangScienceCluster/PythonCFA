@@ -66,7 +66,7 @@ In the mounted Pico drive, select (or create if it's absent) a top level `lib` f
 
 This folder contains an example script for setting up the device as a MIDI controller, `main.py`. An example of the MIDI controller being used to play a simple tune can be found [here on YouTube](https://youtu.be/EL_KKd6TDmI).
 
-Here is a reference structure for the final project:
+Here is a reference file structure for the final project:
 
 ```
 .
@@ -113,3 +113,7 @@ Here is a reference structure for the final project:
 
 8 directories, 33 files
 ```
+
+# Recommended Digital Audio Workstation
+
+[LMMS](https://lmms.io/) is a free and open source audio workstation app that is available for Linux, Windows, and macOS. Use it with your new MIDI controller to start making music!
