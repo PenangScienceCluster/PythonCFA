@@ -1,4 +1,12 @@
-﻿# Install CircuitPython
+﻿# Hardware setup
+
+Use the graphical guides printed on the Pimoroni RGB Keypad's PCB to align the Raspberry Pi Pico's pins to the board.
+
+Make sure the Raspberry Pi Pico's GPIO pins are firmly pushed into the keypad.
+
+Connect the keypad via USB to your computer.
+
+# Install CircuitPython
 
 Download the latest version of CircuitPython from for the Raspberry Pi Pico [here](https://circuitpython.org/board/raspberry_pi_pico/).
 
@@ -54,11 +62,17 @@ while True:
 
 ```
 
-# CircuitPython Libraries to Create a MIDI Controller
+# Libraries to Create a MIDI Controller
+
+## CircuitPython Libraries
 
 Open the [following site](https://circuitpython.org/libraries) and choose the CircuitPython Bundle appropriate for your system. In this instance, if CircuitPython 8.x is installed, select the bundle for Version 8.x. We will be using the `/lib/adafruit_midi` folder, and `/lib/adafruit_dotstar.mpy` driver. Documentation for both libraries can be found [here](https://docs.circuitpython.org/projects/midi/en/latest/) and [here](https://docs.circuitpython.org/projects/dotstar/en/latest/) respectively.
 
+Pimoroni Libraries
+
 Next, download [the following git repository](https://github.com/pimoroni/pmk-circuitpython). We will be using the `/lib/pmk` folder. Documentation for this library is available in the README.md file.
+
+## Installing Libraries
 
 In the mounted Pico drive, select (or create if it's absent) a top level `lib` folder. Copy and paste the mentioned libraries into the `lib` folder.
 
